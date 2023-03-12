@@ -13,7 +13,6 @@ We aim to stay up-to-date with the most innovative developments in the field and
 #### Citation:
 -->
 
-
 **<font color='red'>Work still in progress</font>**  🚀, **we appreciate any suggestions and contributions.**
 
 <!-- What is instruction learning?
@@ -27,7 +26,7 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 - Use following markdown format.
 
 ```markdown
-1. **Paper Title.** *Author 1, Author 2, and Author 3.* <u>Conference/Journal/Preprint</u> Year. [[pdf](link)]; [[any resources](link)].
+1. **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].
 ```
 <!-- >1. **Paper Title.** *Author 1, Author 2, and Author 3.* Conference/Journal/Preprint Year. [[pdf](link)]. -->
 
@@ -70,21 +69,19 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 , including `prompt`, `demonstrations`, `reasoning`, and `overview` (which means a broader perspective). -->
 
 
-We use label `overview` to denote the papers with a broader perspective.
+We use label `overview` to denote the papers with a broader perspective. While some other papers are more specific to a certain in-context instruction, including `prompt`, `demonstrations`, and `reasoning`.
 
 1. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.** *Renze Lou, Kai Zhang, and Wenpeng Yin.* <ins>Preprint</ins> 2023. [[pdf]()]. `overview`.
    
-2. **Learning from Task Instructions.** *Wenpeng Yin, Qinyuan Ye, Pengfei Liu, Xiang Ren, Hinrich Schütze.* <u>Tutorial@EMNLP</u> 2023. `overview`.
+2. **Learning from Task Instructions.** *Wenpeng Yin, Qinyuan Ye, Pengfei Liu, Xiang Ren, Hinrich Schütze.* <ins>Tutorial@EMNLP</ins> 2023. `overview`.
 
-The following surveys are more specific to a certain in-context instruction, including `prompt`, `demonstrations`, and `reasoning`.
-
-3. **Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing.** *Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, and Graham Neubig.* <u>ACM Computing Surveys</u> 2023. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3560815)]; [[website](http://pretrain.nlpedia.ai/)]. `prompt`.
+3. **Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing.** *Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, and Graham Neubig.* <ins>ACM Computing Surveys</ins> 2023. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3560815)]; [[website](http://pretrain.nlpedia.ai/)]. `prompt`.
    
-4. **A Survey on In-context Learning**. *Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, and Zhifang Sui*. <u>Preprint</u> 2022. [[pdf](https://arxiv.org/pdf/2301.00234.pdf)]. `demonstrations`.
+4. **A Survey on In-context Learning**. *Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, and Zhifang Sui*. <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2301.00234.pdf)]. `demonstrations`.
    
-5. **Towards Reasoning in Large Language Models: A Survey.** *Huang, Jie, and Kevin Chen-Chuan Chang.* <u>Preprint</u> 2022. [[pdf](https://arxiv.org/pdf/2212.10403.pdf)]. `reasoning`.
+5. **Towards Reasoning in Large Language Models: A Survey.** *Huang, Jie, and Kevin Chen-Chuan Chang.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.10403.pdf)]. `reasoning`.
 
-6. **Reasoning with Language Model Prompting: A Survey.** *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, and Huajun Chen.* <u>Preprint</u> 2022. [[pdf](https://arxiv.org/pdf/2212.09597.pdf)]; `reasoning`.
+6. **Reasoning with Language Model Prompting: A Survey.** *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, and Huajun Chen.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.09597.pdf)]; `reasoning`.
 
 
 ### <span id="2">2. Taxonomies</span>
@@ -94,6 +91,8 @@ In our paper, we divide the textual instructions into three taxonomies.
 <!-- TODO: add pic. -->
 
 #### <span id="2.1">2.1 Entailment-oriented Instruction</span>
+
+1. **Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach.** *Wenpeng Yin, Jamaal Hay, Dan Roth* *.* <ins>EMNLP</ins> 2019. [[pdf](https://arxiv.org/pdf/1909.00161.pdf)].
 
 
 #### <span id="2.2">2.2 PLM-oriented Instruction</span>
