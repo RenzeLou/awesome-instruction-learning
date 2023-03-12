@@ -9,7 +9,7 @@ A curated list of awesome **Instruction Learning** papers 📚.
 Currently maintained by <ins>[Renze Lou](https://renzelou.github.io/) @ PennState</ins> and <ins>[Kai Zhang](https://drogozhang.github.io/) @ OhioState</ins>. 
 
 
-**<font color='red'>Work still in progress</font>**  🚀, **we appreciate any suggestions and contributions.**
+**<font color='red'>Work still in progress</font>**  🚀, **we appreciate any suggestions and contributions** ❤️.
 
 ---
 
@@ -20,7 +20,7 @@ Why instruction learning?
 <!-- TODO
 
 ## Our scope:
-We aim to stay up-to-date with the most innovative developments in the field and gain valuable insights into the future of instruction-learning technology.
+We aim to stay up-to-date with the most innovative developments in the field and gain valuable insights into the future of instruction-learning technology.👀
 
 ## Citation:
 -->
@@ -45,28 +45,28 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 ---
 
 <!-- omit in toc -->
-## Table of Contents
+## 🔍 Table of Contents 
 
-- [1. Surveys and Tutorials](#1-surveys-and-tutorials)
-- [2. Taxonomies](#2-taxonomies)
+- [1. 🎓 Surveys and Tutorials](#1--surveys-and-tutorials)
+- [2. 🗂️ Taxonomies](#2-️-taxonomies)
   - [2.1 Entailment-oriented Instruction](#21-entailment-oriented-instruction)
   - [2.2 PLM-oriented Instruction](#22-plm-oriented-instruction)
   - [2.3 Human-oriented Instruction](#23-human-oriented-instruction)
-- [3. Analyses](#3-analyses)
+- [3. 📊 Analyses](#3--analyses)
   - [3.1 Scale](#31-scale)
   - [3.2 Explanability](#32-explanability)
   - [3.3 Robustness](#33-robustness)
   - [3.4 Negation](#34-negation)
   - [3.5 Others](#35-others)
-- [4. Applications](#4-applications)
+- [4. 🚀 Applications](#4--applications)
   - [4.1 Human-Computer Interaction](#41-human-computer-interaction)
   - [4.2 Data and Feature Augmentation](#42-data-and-feature-augmentation)
-- [5. Datasets](#5-datasets)
-- [6. Other Papers](#6-other-papers)
+- [5. 📚 Datasets](#5--datasets)
+- [6. 🗒️ Other Papers](#6-️-other-papers)
 
 ---
 
-## 1. Surveys and Tutorials
+## 1. 🎓 Surveys and Tutorials
 
 <!-- There are several awesome surveys and tutorials on textual instruction learning. -->
 <!-- To our knowledge, our survey is the first one to provide a comprehensive and broader overview of the field of instruction learning. -->
@@ -89,7 +89,7 @@ We use label `overview` to denote the papers with a broader perspective. While s
 6. **Reasoning with Language Model Prompting: A Survey.** *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, and Huajun Chen.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.09597.pdf)]; `reasoning`.
 
 
-## 2. Taxonomies
+## 2. 🗂️ Taxonomies
 
 In our paper, we divide the textual instructions into three taxonomies.
 
@@ -97,7 +97,9 @@ In our paper, we divide the textual instructions into three taxonomies.
 
 ### 2.1 Entailment-oriented Instruction
 
-1. **Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach.** *Wenpeng Yin, Jamaal Hay, Dan Roth* *.* <ins>EMNLP</ins> 2019. [[pdf](https://arxiv.org/pdf/1909.00161.pdf)].
+1. 1. **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].
+   
+2. **Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach.** *Wenpeng Yin, Jamaal Hay, Dan Roth* *.* <ins>EMNLP</ins> 2019. [[pdf](https://arxiv.org/pdf/1909.00161.pdf)].
 
 
 ### 2.2 PLM-oriented Instruction
@@ -106,7 +108,7 @@ In our paper, we divide the textual instructions into three taxonomies.
 ### 2.3 Human-oriented Instruction
 
 
-## 3. Analyses
+## 3. 📊 Analyses
 
 ### 3.1 Scale
 
@@ -118,14 +120,14 @@ In our paper, we divide the textual instructions into three taxonomies.
 
 ### 3.5 Others
 
-## 4. Applications
+## 4. 🚀 Applications
 
 ### 4.1 Human-Computer Interaction
 
 ### 4.2 Data and Feature Augmentation
 
-## 5. Datasets
+## 5. 📚 Datasets
 
-## 6. Other Papers
+## 6. 🗒️ Other Papers
 
 ---
