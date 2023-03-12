@@ -6,22 +6,25 @@
 
 A curated list of awesome **Instruction Learning** papers 📚. Currently maintained by <ins>[Renze Lou](https://renzelou.github.io/) @ PennState</ins> and <ins>[Kai Zhang](https://drogozhang.github.io/) @ OhioState</ins>. 
 
-<!-- TODO
-
-### Our scope:
-We aim to stay up-to-date with the most innovative developments in the field and gain valuable insights into the future of instruction-learning technology.
-
-### Citation:
--->
 
 **<font color='red'>Work still in progress</font>**  🚀, **we appreciate any suggestions and contributions.**
+
+---
 
 <!-- What is instruction learning?
 Why instruction learning?
 -->
 
+<!-- TODO
+
+## Our scope:
+We aim to stay up-to-date with the most innovative developments in the field and gain valuable insights into the future of instruction-learning technology.
+
+## Citation:
+-->
+
 <!-- omit in toc -->
-### How to contribute?
+## How to contribute?
 
 If you have any suggestions or find any missed papers, feel free to reach out or submit a [pull request](https://github.com/RenzeLou/awesome-instruction-learning/pulls):
 
@@ -38,7 +41,7 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 ---
 
 <!-- omit in toc -->
-### Table of Contents
+## Table of Contents
 
 - [1. Surveys and Tutorials](#1-surveys-and-tutorials)
 - [2. Taxonomies](#2-taxonomies)
@@ -59,7 +62,7 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 
 ---
 
-### <span id="#1-surveys-and-tutorials">1. Surveys and Tutorials</span>
+## 1. Surveys and Tutorials
 
 <!-- There are several awesome surveys and tutorials on textual instruction learning. -->
 <!-- To our knowledge, our survey is the first one to provide a comprehensive and broader overview of the field of instruction learning. -->
@@ -82,43 +85,43 @@ We use label `overview` to denote the papers with a broader perspective. While s
 6. **Reasoning with Language Model Prompting: A Survey.** *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, and Huajun Chen.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.09597.pdf)]; `reasoning`.
 
 
-### 2. Taxonomies
+## 2. Taxonomies
 
 In our paper, we divide the textual instructions into three taxonomies.
 
 <!-- TODO: add pic. -->
 
-#### <span id="2.1">2.1 Entailment-oriented Instruction</span>
+### 2.1 Entailment-oriented Instruction
 
 1. **Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach.** *Wenpeng Yin, Jamaal Hay, Dan Roth* *.* <ins>EMNLP</ins> 2019. [[pdf](https://arxiv.org/pdf/1909.00161.pdf)].
 
 
-#### <span id="2.2">2.2 PLM-oriented Instruction</span>
+### 2.2 PLM-oriented Instruction
 
 
-#### <span id="2.3">2.3 Human-oriented Instruction</span>
+### 2.3 Human-oriented Instruction
 
 
-### <span id="3">3. Analyses</span>
+## 3. Analyses
 
-#### <span id="3.1">3.1 Scale</span>
+### 3.1 Scale
 
-#### <span id="3.2">3.2 Explanability</span>
+### 3.2 Explanability
 
-#### <span id="3.3">3.3 Robustness</span>
+### 3.3 Robustness
 
-#### <span id="3.4">3.4 Negation</span>
+### 3.4 Negation
 
-#### <span id="3.5">3.5 Others</span>
+### 3.5 Others
 
-### <span id="4">4. Applications</span>
+## 4. Applications
 
-#### <span id="4.1">4.1 Human-Computer Interaction</span>
+### 4.1 Human-Computer Interaction
 
-#### <span id="4.2">4.2 Data and Feature Augmentation</span>
+### 4.2 Data and Feature Augmentation
 
-### <span id="5">5. Datasets</span>
+## 5. Datasets
 
-### <span id="6">6. Other Papers</span>
+## 6. Other Papers
 
 ---
