@@ -82,7 +82,7 @@ We use label `overview` to denote the papers with a broader perspective. While s
 6. **Reasoning with Language Model Prompting: A Survey.** *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, and Huajun Chen.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.09597.pdf)]; `reasoning`.
 
 
-### <span id="2">2. Taxonomies</span>
+### 2. Taxonomies
 
 In our paper, we divide the textual instructions into three taxonomies.
 
