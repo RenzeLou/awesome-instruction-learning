@@ -1,16 +1,17 @@
+<!-- omit in toc -->
 # Awesome Textual Instruction Learning
 
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/RenzeLou/awesome-instruction-learning) ![](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=green) ![](https://img.shields.io/badge/PaperNumber-0-blue) ![](https://img.shields.io/badge/PRs-Welcome-red)
 
-A curated list of awesome **Instruction Learning** papers 📚. Currently maintained by <u>[Renze Lou](https://renzelou.github.io/) @ PennState</u> and <u>[Kai Zhang](https://drogozhang.github.io/) @ OhioState</u>. 
+A curated list of awesome **Instruction Learning** papers 📚. Currently maintained by <ins>[Renze Lou](https://renzelou.github.io/) @ PennState</ins> and <ins>[Kai Zhang](https://drogozhang.github.io/) @ OhioState</ins>. 
 
 <!-- TODO
 
-#### Our scope:
+### Our scope:
 We aim to stay up-to-date with the most innovative developments in the field and gain valuable insights into the future of instruction-learning technology.
 
-#### Citation:
+### Citation:
 -->
 
 **<font color='red'>Work still in progress</font>**  🚀, **we appreciate any suggestions and contributions.**
@@ -19,7 +20,8 @@ We aim to stay up-to-date with the most innovative developments in the field and
 Why instruction learning?
 -->
 
-#### How to contribute?
+<!-- omit in toc -->
+### How to contribute?
 
 If you have any suggestions or find any missed papers, feel free to reach out or submit a [pull request](https://github.com/RenzeLou/awesome-instruction-learning/pulls):
 
@@ -35,33 +37,29 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 
 ---
 
+<!-- omit in toc -->
 ### Table of Contents
 
-- [1. Surveys and Tutorials](#1)
-  
-- [2. Taxonomies](#2)
-  - [2.1 Entailment-oriented Instruction](#2.1)
-  - [2.2 PLM-oriented Instruction](#2.2)
-  - [2.3 Human-oriented Instruction](#2.3)
-
-- [3. Analyses](#3)
-  - [3.1 Scale](#3.1)
-  - [3.2 Explanability](#3.2)
-  - [3.3 Robustness](#3.3)
-  - [3.4 Negation](#3.4)
-  - [3.5 Others](#3.5)
-
-- [4. Applications](#4)
-  - [4.1 Human-Computer Interaction](#4.1)
-  - [4.2 Data and Feature Augmentation](#4.2)
-
-- [5. Datasets](#5)
-
-- [6. Other Papers](#6)
+- [1. Surveys and Tutorials](#1-surveys-and-tutorials)
+- [2. Taxonomies](#2-taxonomies)
+  - [2.1 Entailment-oriented Instruction](#21-entailment-oriented-instruction)
+  - [2.2 PLM-oriented Instruction](#22-plm-oriented-instruction)
+  - [2.3 Human-oriented Instruction](#23-human-oriented-instruction)
+- [3. Analyses](#3-analyses)
+  - [3.1 Scale](#31-scale)
+  - [3.2 Explanability](#32-explanability)
+  - [3.3 Robustness](#33-robustness)
+  - [3.4 Negation](#34-negation)
+  - [3.5 Others](#35-others)
+- [4. Applications](#4-applications)
+  - [4.1 Human-Computer Interaction](#41-human-computer-interaction)
+  - [4.2 Data and Feature Augmentation](#42-data-and-feature-augmentation)
+- [5. Datasets](#5-datasets)
+- [6. Other Papers](#6-other-papers)
 
 ---
 
-### <span id="1">1. Surveys and Tutorials</span>
+### <span id="#1-surveys-and-tutorials">1. Surveys and Tutorials</span>
 
 <!-- There are several awesome surveys and tutorials on textual instruction learning. -->
 <!-- To our knowledge, our survey is the first one to provide a comprehensive and broader overview of the field of instruction learning. -->
