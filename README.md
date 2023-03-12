@@ -72,7 +72,7 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 
 We use label `overview` to denote the papers with a broader perspective.
 
-1. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.** *Renze Lou, Kai Zhang, and Wenpeng Yin.* $\underline{Preprint}$ 2023. [[pdf]()]. `overview`.
+1. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.** *Renze Lou, Kai Zhang, and Wenpeng Yin.* \underline{Preprint} 2023. [[pdf]()]. `overview`.
    
 2. **Learning from Task Instructions.** *Wenpeng Yin, Qinyuan Ye, Pengfei Liu, Xiang Ren, Hinrich Schütze.* <u>Tutorial@EMNLP</u> 2023. `overview`.
 
