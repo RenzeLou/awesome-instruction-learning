@@ -74,11 +74,11 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 , including `prompt`, `demonstrations`, `reasoning`, and `overview` (which means a broader perspective). -->
 
 
-We use label `overview` to denote the papers with a broader perspective. While some other papers are more specific to a certain in-context instruction, including `prompt`, `demonstrations`, and `reasoning`.
+We use the label `comprehensive` to denote the papers with a more comprehensive perspective. While some other papers are more specific to a certain in-context instruction, including `prompt`, `demonstrations`, and `reasoning`.
 
-1. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.** *Renze Lou, Kai Zhang, and Wenpeng Yin.* <ins>Preprint</ins> 2023. [[pdf]()]; [[paper list](https://github.com/RenzeLou/awesome-instruction-learning)]. `overview`.
+1. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.** *Renze Lou, Kai Zhang, and Wenpeng Yin.* <ins>Preprint</ins> 2023. [[pdf]()]; [[paper list](https://github.com/RenzeLou/awesome-instruction-learning)]. `comprehensive`.
    
-2. **Learning from Task Instructions.** *Wenpeng Yin, Qinyuan Ye, Pengfei Liu, Xiang Ren, Hinrich Schütze.* <ins>Tutorial@EMNLP</ins> 2023. `overview`.
+2. **Learning from Task Instructions.** *Wenpeng Yin, Qinyuan Ye, Pengfei Liu, Xiang Ren, Hinrich Schütze.* <ins>Tutorial@EMNLP</ins> 2023. `comprehensive`.
 
 3. **Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing.** *Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, and Graham Neubig.* <ins>ACM Computing Surveys</ins> 2023. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3560815)]; [[website](http://pretrain.nlpedia.ai/)]. `prompt`.
    
