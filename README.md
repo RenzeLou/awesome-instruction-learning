@@ -18,12 +18,14 @@ Why instruction learning?
 -->
 
 <!-- TODO
-
 ## Our scope:
-We aim to stay up-to-date with the most innovative developments in the field and gain valuable insights into the future of instruction-learning technology.👀
+We aim to stay up-to-date with the most innovative developments in the field and gain valuable insights into the future of instruction-learning technology.👀 organize a systematic and comprehensive overview of instructional learning.
 
-## Citation:
+1. Stay up-to-date with the most innovative developments in this field.
+2. Gain valuable insights into the future of instruction-learning technology.
+3. 
 -->
+
 
 <!-- omit in toc -->
 ## How to contribute?
@@ -41,6 +43,15 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 2. If one preprint paper has multiple versions, please use **the earliest submitted year**.
    
 3. Display the papers in a **year descending order**.
+
+
+<!-- omit in toc -->
+## Citation:
+Find this repository helpful? Please consider citing our paper:
+
+```
+work in progress.
+```
 
 ---
 
