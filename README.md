@@ -4,7 +4,9 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/RenzeLou/awesome-instruction-learning) ![](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=green) ![](https://img.shields.io/badge/PaperNumber-0-blue) ![](https://img.shields.io/badge/PRs-Welcome-red)
 
-A curated list of awesome **Instruction Learning** papers 📚. Currently maintained by <ins>[Renze Lou](https://renzelou.github.io/) @ PennState</ins> and <ins>[Kai Zhang](https://drogozhang.github.io/) @ OhioState</ins>. 
+A curated list of awesome **Instruction Learning** papers 📚. 
+
+Currently maintained by <ins>[Renze Lou](https://renzelou.github.io/) @ PennState</ins> and <ins>[Kai Zhang](https://drogozhang.github.io/) @ OhioState</ins>. 
 
 
 **<font color='red'>Work still in progress</font>**  🚀, **we appreciate any suggestions and contributions.**
@@ -28,15 +30,17 @@ We aim to stay up-to-date with the most innovative developments in the field and
 
 If you have any suggestions or find any missed papers, feel free to reach out or submit a [pull request](https://github.com/RenzeLou/awesome-instruction-learning/pulls):
 
-- Use following markdown format.
+1. Use following markdown format.
 
 ```markdown
 1. **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].
 ```
 <!-- >1. **Paper Title.** *Author 1, Author 2, and Author 3.* Conference/Journal/Preprint Year. [[pdf](link)]. -->
 
-- If one preprint paper has multiple versions, please use **the earliest submitted year**.
-- Display the papers in a **year descending order**.
+
+2. If one preprint paper has multiple versions, please use **the earliest submitted year**.
+   
+3. Display the papers in a **year descending order**.
 
 ---
 
