@@ -46,7 +46,7 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 
 
 <!-- omit in toc -->
-## Citation:
+## Citation
 Find this repository helpful? Please consider citing our paper:
 
 ```
