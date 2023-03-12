@@ -5,8 +5,8 @@
 
 A curated list of awesome **Instruction Learning** papers 📚. Currently maintained by <u>[Renze Lou](https://renzelou.github.io/) @ PennState</u> and <u>[Kai Zhang](https://drogozhang.github.io/) @ OhioState</u>. 
 
-
 <!-- TODO
+
 #### Our scope:
 We aim to stay up-to-date with the most innovative developments in the field and gain valuable insights into the future of instruction-learning technology.
 
@@ -39,7 +39,7 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 ### Table of Contents
 
 - [1. Surveys and Tutorials](#1)
-   
+  
 - [2. Taxonomies](#2)
   - [2.1 Entailment-oriented Instruction](#2.1)
   - [2.2 PLM-oriented Instruction](#2.2)
@@ -70,9 +70,9 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 , including `prompt`, `demonstrations`, `reasoning`, and `overview` (which means a broader perspective). -->
 
 
-We use label `overview` to denote the papers with broader perspective.
+We use label `overview` to denote the papers with a broader perspective.
 
-1. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.** *Renze Lou, Kai Zhang, and Wenpeng Yin.* <u>Preprint</u> 2023. [[pdf]()]. `overview`.
+1. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.** *Renze Lou, Kai Zhang, and Wenpeng Yin.* $\underline{Preprint}$ 2023. [[pdf]()]. `overview`.
    
 2. **Learning from Task Instructions.** *Wenpeng Yin, Qinyuan Ye, Pengfei Liu, Xiang Ren, Hinrich Schütze.* <u>Tutorial@EMNLP</u> 2023. `overview`.
 
