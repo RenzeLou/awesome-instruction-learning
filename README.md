@@ -72,6 +72,7 @@ work in progress.
 - [4. 🤖 Applications](#4--applications)
   - [4.1 Human-Computer Interaction](#41-human-computer-interaction)
   - [4.2 Data and Feature Augmentation](#42-data-and-feature-augmentation)
+  - [4.3 General-purpose Language Models](#43-general-purpose-language-models)
 - [5. 📚 Corpora](#5--corpora)
 - [6. 🗒️ Other Papers](#6-️-other-papers)
 
@@ -183,6 +184,8 @@ We diaplay several representative works of PLM-oriented instruction learning (i.
 ### 4.1 Human-Computer Interaction
 
 ### 4.2 Data and Feature Augmentation
+
+### 4.3 General-purpose Language Models
 
 ## 5. 📚 Corpora
 
