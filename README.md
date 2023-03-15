@@ -321,127 +321,127 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <table style="height: 317px;" width="629">
 <tbody>
 <tr style="height: 37px;">
-<td style="height: 47px; width: 135.359px; text-align: left;" rowspan="2"><strong>Name&nbsp;</strong></td>
-<td style="height: 47px; width: 67.4688px; text-align: center;" rowspan="2"><strong>Release</strong></td>
-<td style="height: 47px; width: 85.1875px; text-align: center;" rowspan="2"><strong>Data/Code</strong></td>
-<td style="height: 37px; width: 177.453px; text-align: center;" colspan="2"><strong>Scale</strong></td>
-<td style="height: 47px; width: 129.531px; text-align: center;" rowspan="2"><strong>Language</strong></td>
+<td style="height: 47px; width: 144.68px; text-align: left;" rowspan="2"><strong>Name&nbsp;</strong></td>
+<td style="height: 47px; width: 64.3125px; text-align: center;" rowspan="2"><strong>Release</strong></td>
+<td style="height: 47px; width: 85.5938px; text-align: center;" rowspan="2"><strong>Data/Code</strong></td>
+<td style="height: 37px; width: 168.773px; text-align: center;" colspan="2"><strong>Scale</strong></td>
+<td style="height: 47px; width: 131.641px; text-align: center;" rowspan="2"><strong>Language</strong></td>
 </tr>
 <tr style="height: 10px;">
-<td style="height: 10px; width: 81.875px; text-align: center;"><strong>#Tasks</strong></td>
-<td style="height: 10px; width: 89.5781px; text-align: center;"><strong>#Ins. (K)</strong></td>
+<td style="height: 10px; width: 79.375px; text-align: center;"><strong>#Tasks</strong></td>
+<td style="height: 10px; width: 83.3984px; text-align: center;"><strong>#Ins. (K)</strong></td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px; width: 135.359px; text-align: left;"><a href="https://arxiv.org/pdf/2005.00700.pdf">UnifiedQA</a></td>
-<td style="height: 18px; width: 67.4688px; text-align: center;"><span style="text-decoration: underline;">05/2020</span></td>
-<td style="height: 18px; width: 85.1875px; text-align: left;"><a href="https://github.com/allenai/unifiedqa">Link</a></td>
-<td style="height: 18px; width: 81.875px; text-align: right;">46</td>
-<td style="height: 18px; width: 89.5781px; text-align: right;">750</td>
-<td style="height: 18px; width: 129.531px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
+<td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://arxiv.org/pdf/2005.00700.pdf">UnifiedQA</a></td>
+<td style="height: 18px; width: 64.3125px; text-align: right;"><span style="text-decoration: underline;">05/2020</span></td>
+<td style="height: 18px; width: 85.5938px; text-align: center;"><a href="https://github.com/allenai/unifiedqa">Link</a></td>
+<td style="height: 18px; width: 79.375px; text-align: right;">46</td>
+<td style="height: 18px; width: 83.3984px; text-align: right;">750</td>
+<td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px; width: 135.359px; text-align: left;"><a href="https://arxiv.org/pdf/2104.08835.pdf">CrossFit</a></td>
-<td style="height: 18px; width: 67.4688px; text-align: center;"><span style="text-decoration: underline;">04/2021</span></td>
-<td style="height: 18px; width: 85.1875px; text-align: left;"><a href="https://github.com/INK-USC/CrossFit">Link</a></td>
-<td style="height: 18px; width: 81.875px; text-align: right;">159</td>
-<td style="height: 18px; width: 89.5781px; text-align: right;">71,000</td>
-<td style="height: 18px; width: 129.531px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
+<td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://arxiv.org/pdf/2104.08835.pdf">CrossFit</a></td>
+<td style="height: 18px; width: 64.3125px; text-align: right;"><span style="text-decoration: underline;">04/2021</span></td>
+<td style="height: 18px; width: 85.5938px; text-align: center;"><a href="https://github.com/INK-USC/CrossFit">Link</a></td>
+<td style="height: 18px; width: 79.375px; text-align: right;">159</td>
+<td style="height: 18px; width: 83.3984px; text-align: right;">71,000</td>
+<td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px; width: 135.359px; text-align: left;"><a href="https://arxiv.org/pdf/2104.08773.pdf">Natural Inst. v1</a></td>
-<td style="height: 18px; width: 67.4688px; text-align: center;"><span style="text-decoration: underline;">04/2021</span></td>
-<td style="height: 18px; width: 85.1875px; text-align: left;"><a href="https://instructions.apps.allenai.org/">Link</a></td>
-<td style="height: 18px; width: 81.875px; text-align: right;">61</td>
-<td style="height: 18px; width: 89.5781px; text-align: right;">620</td>
-<td style="height: 18px; width: 129.531px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
+<td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://arxiv.org/pdf/2104.08773.pdf">Natural Inst. v1</a></td>
+<td style="height: 18px; width: 64.3125px; text-align: right;"><span style="text-decoration: underline;">04/2021</span></td>
+<td style="height: 18px; width: 85.5938px; text-align: center;"><a href="https://instructions.apps.allenai.org/">Link</a></td>
+<td style="height: 18px; width: 79.375px; text-align: right;">61</td>
+<td style="height: 18px; width: 83.3984px; text-align: right;">620</td>
+<td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px; width: 135.359px; text-align: left;"><a href="https://arxiv.org/pdf/2109.01652.pdf">Flan 2021</a></td>
-<td style="height: 18px; width: 67.4688px; text-align: center;"><span style="text-decoration: underline;">09/2021</span></td>
-<td style="height: 18px; width: 85.1875px; text-align: left;"><a href="https://github.com/google-research/FLAN/tree/main#flan-2021">Link</a></td>
-<td style="height: 18px; width: 81.875px; text-align: right;">62</td>
-<td style="height: 18px; width: 89.5781px; text-align: right;">4,400</td>
-<td style="height: 18px; width: 129.531px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
+<td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://arxiv.org/pdf/2109.01652.pdf">Flan 2021</a></td>
+<td style="height: 18px; width: 64.3125px; text-align: right;"><span style="text-decoration: underline;">09/2021</span></td>
+<td style="height: 18px; width: 85.5938px; text-align: center;"><a href="https://github.com/google-research/FLAN/tree/main#flan-2021">Link</a></td>
+<td style="height: 18px; width: 79.375px; text-align: right;">62</td>
+<td style="height: 18px; width: 83.3984px; text-align: right;">4,400</td>
+<td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px; width: 135.359px; text-align: left;"><a href="https://arxiv.org/pdf/2202.01279.pdf">P3</a></td>
-<td style="height: 18px; width: 67.4688px; text-align: center;"><span style="text-decoration: underline;">10/2021</span></td>
-<td style="height: 18px; width: 85.1875px; text-align: left;"><a href="https://github.com/bigscience-workshop/promptsource">Link</a></td>
-<td style="height: 18px; width: 81.875px; text-align: right;">62</td>
-<td style="height: 18px; width: 89.5781px; text-align: right;">12,000</td>
-<td style="height: 18px; width: 129.531px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
+<td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://arxiv.org/pdf/2202.01279.pdf">P3</a></td>
+<td style="height: 18px; width: 64.3125px; text-align: right;"><span style="text-decoration: underline;">10/2021</span></td>
+<td style="height: 18px; width: 85.5938px; text-align: center;"><a href="https://github.com/bigscience-workshop/promptsource">Link</a></td>
+<td style="height: 18px; width: 79.375px; text-align: right;">62</td>
+<td style="height: 18px; width: 83.3984px; text-align: right;">12,000</td>
+<td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px; width: 135.359px; text-align: left;"><a href="https://arxiv.org/pdf/2110.15943.pdf">MetaICL</a></td>
-<td style="height: 18px; width: 67.4688px; text-align: center;"><span style="text-decoration: underline;">10/2021</span></td>
-<td style="height: 18px; width: 85.1875px; text-align: left;"><a href="https://github.com/facebookresearch/MetaICL">Link</a></td>
-<td style="height: 18px; width: 81.875px; text-align: right;">142</td>
-<td style="height: 18px; width: 89.5781px; text-align: right;">3,500</td>
-<td style="height: 18px; width: 129.531px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
+<td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://arxiv.org/pdf/2110.15943.pdf">MetaICL</a></td>
+<td style="height: 18px; width: 64.3125px; text-align: right;"><span style="text-decoration: underline;">10/2021</span></td>
+<td style="height: 18px; width: 85.5938px; text-align: center;"><a href="https://github.com/facebookresearch/MetaICL">Link</a></td>
+<td style="height: 18px; width: 79.375px; text-align: right;">142</td>
+<td style="height: 18px; width: 83.3984px; text-align: right;">3,500</td>
+<td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px; width: 135.359px; text-align: left;"><a href="https://openreview.net/pdf?id=Vzh1BFUCiIX">ExMix</a></td>
-<td style="height: 18px; width: 67.4688px; text-align: center;"><span style="text-decoration: underline;">11/2021</span></td>
-<td style="height: 18px; width: 85.1875px; text-align: left;"><a href="https://github.com/google-research/text-to-text-transfer-transformer">Link</a></td>
-<td style="height: 18px; width: 81.875px; text-align: right;">107</td>
-<td style="height: 18px; width: 89.5781px; text-align: right;">500</td>
-<td style="height: 18px; width: 129.531px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
+<td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://openreview.net/pdf?id=Vzh1BFUCiIX">ExMix</a></td>
+<td style="height: 18px; width: 64.3125px; text-align: right;"><span style="text-decoration: underline;">11/2021</span></td>
+<td style="height: 18px; width: 85.5938px; text-align: center;"><a href="https://github.com/google-research/text-to-text-transfer-transformer">Link</a></td>
+<td style="height: 18px; width: 79.375px; text-align: right;">107</td>
+<td style="height: 18px; width: 83.3984px; text-align: right;">500</td>
+<td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px; width: 135.359px; text-align: left;"><a href="https://arxiv.org/pdf/2204.07705.pdf">Super Natural Inst.(Natural Inst. v2)</a></td>
-<td style="height: 36px; width: 67.4688px; text-align: center;"><span style="text-decoration: underline;">04/2022</span></td>
-<td style="height: 36px; width: 85.1875px; text-align: left;"><a href="https://instructions.apps.allenai.org/">Link</a></td>
-<td style="height: 36px; width: 81.875px; text-align: right;">1,613</td>
-<td style="height: 36px; width: 89.5781px; text-align: right;">5,000</td>
-<td style="height: 36px; width: 129.531px; text-align: center;"><img src="https://img.shields.io/badge/multilingual-red" alt="" /></td>
+<td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://arxiv.org/pdf/2204.07705.pdf">Super Natural Inst.(Natural Inst. v2)</a></td>
+<td style="height: 36px; width: 64.3125px; text-align: right;"><span style="text-decoration: underline;">04/2022</span></td>
+<td style="height: 36px; width: 85.5938px; text-align: center;"><a href="https://instructions.apps.allenai.org/">Link</a></td>
+<td style="height: 36px; width: 79.375px; text-align: right;">1,613</td>
+<td style="height: 36px; width: 83.3984px; text-align: right;">5,000</td>
+<td style="height: 36px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/multilingual-red" alt="" /></td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px; width: 135.359px; text-align: left;"><a href="https://arxiv.org/pdf/2210.02414.pdf">GLM</a></td>
-<td style="height: 18px; width: 67.4688px; text-align: center;"><span style="text-decoration: underline;">10/2022</span></td>
-<td style="height: 18px; width: 85.1875px; text-align: left;"><a href="https://github.com/THUDM/GLM-130B">Link</a></td>
-<td style="height: 18px; width: 81.875px; text-align: right;">77</td>
-<td style="height: 18px; width: 89.5781px; text-align: right;">12,000</td>
-<td style="height: 18px; width: 129.531px; text-align: center;"><img src="https://img.shields.io/badge/bilingual-yellow" alt="" /></td>
+<td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://arxiv.org/pdf/2210.02414.pdf">GLM</a></td>
+<td style="height: 18px; width: 64.3125px; text-align: right;"><span style="text-decoration: underline;">10/2022</span></td>
+<td style="height: 18px; width: 85.5938px; text-align: center;"><a href="https://github.com/THUDM/GLM-130B">Link</a></td>
+<td style="height: 18px; width: 79.375px; text-align: right;">77</td>
+<td style="height: 18px; width: 83.3984px; text-align: right;">12,000</td>
+<td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/bilingual-yellow" alt="" /></td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px; width: 135.359px; text-align: left;"><a href="https://arxiv.org/pdf/2301.13688.pdf">Flan 2022</a></td>
-<td style="height: 18px; width: 67.4688px; text-align: center;"><span style="text-decoration: underline;">10/2022</span></td>
-<td style="height: 18px; width: 85.1875px; text-align: left;"><a href="https://github.com/google-research/FLAN/tree/main/flan/v2">Link</a></td>
-<td style="height: 18px; width: 81.875px; text-align: right;">1,836</td>
-<td style="height: 18px; width: 89.5781px; text-align: right;">15,000</td>
-<td style="height: 18px; width: 129.531px; text-align: center;"><img src="https://img.shields.io/badge/multilingual-red" alt="" /></td>
+<td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://arxiv.org/pdf/2301.13688.pdf">Flan 2022</a></td>
+<td style="height: 18px; width: 64.3125px; text-align: right;"><span style="text-decoration: underline;">10/2022</span></td>
+<td style="height: 18px; width: 85.5938px; text-align: center;"><a href="https://github.com/google-research/FLAN/tree/main/flan/v2">Link</a></td>
+<td style="height: 18px; width: 79.375px; text-align: right;">1,836</td>
+<td style="height: 18px; width: 83.3984px; text-align: right;">15,000</td>
+<td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/multilingual-red" alt="" /></td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px; width: 135.359px; text-align: left;"><a href="https://arxiv.org/pdf/2211.01786.pdf">xP3</a></td>
-<td style="height: 18px; width: 67.4688px; text-align: center;"><span style="text-decoration: underline;">11/2022</span></td>
-<td style="height: 18px; width: 85.1875px; text-align: left;"><a href="https://huggingface.co/datasets/bigscience/xP3">Link</a></td>
-<td style="height: 18px; width: 81.875px; text-align: right;">71</td>
-<td style="height: 18px; width: 89.5781px; text-align: right;">81,000</td>
-<td style="height: 18px; width: 129.531px; text-align: center;"><img src="https://img.shields.io/badge/multilingual-red" alt="" /></td>
+<td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://arxiv.org/pdf/2211.01786.pdf">xP3</a></td>
+<td style="height: 18px; width: 64.3125px; text-align: right;"><span style="text-decoration: underline;">11/2022</span></td>
+<td style="height: 18px; width: 85.5938px; text-align: center;"><a href="https://huggingface.co/datasets/bigscience/xP3">Link</a></td>
+<td style="height: 18px; width: 79.375px; text-align: right;">71</td>
+<td style="height: 18px; width: 83.3984px; text-align: right;">81,000</td>
+<td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/multilingual-red" alt="" /></td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px; width: 135.359px; text-align: left;"><a href="https://arxiv.org/pdf/2212.09689.pdf">Unnatural Inst.</a></td>
-<td style="height: 18px; width: 67.4688px; text-align: center;"><span style="text-decoration: underline;">12/2022</span></td>
-<td style="height: 18px; width: 85.1875px; text-align: left;"><a href="https://github.com/orhonovich/unnatural-instructions">Link</a></td>
-<td style="height: 18px; width: 81.875px; text-align: right;">117</td>
-<td style="height: 18px; width: 89.5781px; text-align: right;">64</td>
-<td style="height: 18px; width: 129.531px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
+<td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://arxiv.org/pdf/2212.09689.pdf">Unnatural Inst.</a></td>
+<td style="height: 18px; width: 64.3125px; text-align: right;"><span style="text-decoration: underline;">12/2022</span></td>
+<td style="height: 18px; width: 85.5938px; text-align: center;"><a href="https://github.com/orhonovich/unnatural-instructions">Link</a></td>
+<td style="height: 18px; width: 79.375px; text-align: right;">117</td>
+<td style="height: 18px; width: 83.3984px; text-align: right;">64</td>
+<td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px; width: 135.359px; text-align: left;"><a href="https://arxiv.org/pdf/2212.10560.pdf">Self-Instruct</a></td>
-<td style="height: 18px; width: 67.4688px; text-align: center;"><span style="text-decoration: underline;">12/2022</span></td>
-<td style="height: 18px; width: 85.1875px; text-align: left;"><a href="https://github.com/yizhongw/self-instruct">Link</a></td>
-<td style="height: 18px; width: 81.875px; text-align: right;">/</td>
-<td style="height: 18px; width: 89.5781px; text-align: right;">82</td>
-<td style="height: 18px; width: 129.531px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
+<td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://arxiv.org/pdf/2212.10560.pdf">Self-Instruct</a></td>
+<td style="height: 18px; width: 64.3125px; text-align: right;"><span style="text-decoration: underline;">12/2022</span></td>
+<td style="height: 18px; width: 85.5938px; text-align: center;"><a href="https://github.com/yizhongw/self-instruct">Link</a></td>
+<td style="height: 18px; width: 79.375px; text-align: right;">/</td>
+<td style="height: 18px; width: 83.3984px; text-align: right;">82</td>
+<td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px; width: 135.359px; text-align: left;"><a href="https://arxiv.org/pdf/2212.12017.pdf">OPT-IML</a></td>
-<td style="height: 18px; width: 67.4688px; text-align: center;"><span style="text-decoration: underline;">12/2022</span></td>
-<td style="height: 18px; width: 85.1875px; text-align: left;">/</td>
-<td style="height: 18px; width: 81.875px; text-align: right;">2,207</td>
-<td style="height: 18px; width: 89.5781px; text-align: right;">18,000</td>
-<td style="height: 18px; width: 129.531px; text-align: center;"><img src="https://img.shields.io/badge/multilingual-red" alt="" /></td>
+<td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://arxiv.org/pdf/2212.12017.pdf">OPT-IML</a></td>
+<td style="height: 18px; width: 64.3125px; text-align: right;"><span style="text-decoration: underline;">12/2022</span></td>
+<td style="height: 18px; width: 85.5938px; text-align: center;">/</td>
+<td style="height: 18px; width: 79.375px; text-align: right;">2,207</td>
+<td style="height: 18px; width: 83.3984px; text-align: right;">18,000</td>
+<td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/multilingual-red" alt="" /></td>
 </tr>
 </tbody>
 </table>
