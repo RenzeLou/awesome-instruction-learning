@@ -229,7 +229,7 @@ The model and task scale are found to be important for instruction-based fine-tu
 
 ### 4.1 Human-Computer Interaction
 
-Instructions are used in many human-computer interaction (HCI) applications, such as virtual assistants. We display some representative works here. For more related articles, please refer to our survey.
+Instructions are used in many human-computer interaction (HCI) applications, such as virtual assistants, chatbots, etc. 
 
 1. **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].
    
