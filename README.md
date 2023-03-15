@@ -2,7 +2,7 @@
 # Awesome Textual Instruction Learning Papers
 
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/RenzeLou/awesome-instruction-learning) ![](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=green) ![](https://img.shields.io/badge/PaperNumber-0-blue) ![](https://img.shields.io/badge/PRs-Welcome-red)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/RenzeLou/awesome-instruction-learning) ![](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=green) ![](https://img.shields.io/badge/PaperNumber-0-blue) ![](https://img.shields.io/badge/PRs-Welcome-red) ![](https://img.shields.io/github/stars/RenzeLou/awesome-instruction-learning?style=social)
 
 A curated list of awesome **Instruction Learning** papers 🔥🔥🔥. 
 
@@ -233,15 +233,19 @@ In this section, we exhibit works that focus on the interpretability and reliabi
    
 8. **What Makes Good In-Context Examples for GPT-3?** *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin, and Weizhu Chen.* <ins>ACL Workshop</ins> 2022. [[pdf](https://aclanthology.org/2022.deelio-1.10.pdf)]; [[code](https://github.com/jiachangliu/KATEGPT3)]. 
    
-9.  **Calibrate Before Use: Improving Few-shot Performance of Language Models.** *Zihao Zhao, Eric Wallace, Shi Feng, Dan Klein, and Sameer Singh.* <ins>ICML</ins> 2021. [[pdf](https://arxiv.org/pdf/2102.09690.pdf)]; [[code](https://github.com/tonyzhaozh/few-shot-learning)].
+9.  **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity.** *Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, and Pontus Stenetorp.* <ins>ACL</ins> 2022. [[pdf](https://aclanthology.org/2022.acl-long.556.pdf)].
+   
+10. **Calibrate Before Use: Improving Few-shot Performance of Language Models.** *Zihao Zhao, Eric Wallace, Shi Feng, Dan Klein, and Sameer Singh.* <ins>ICML</ins> 2021. [[pdf](https://arxiv.org/pdf/2102.09690.pdf)]; [[code](https://github.com/tonyzhaozh/few-shot-learning)].
 
 ### 3.3 Robustness
 
 1. **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].
    
-2. **Robustness of Learning from Task Instructions.** *Jiasheng Gu, Hanzi Xu, Liangyu Nie, and Wenpeng Yin.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.03813.pdf)]; [[code](link)]. 
+2. **More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models.** *Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz, and Mario Fritz.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.12173.pdf)]; [[code](https://github.com/greshake/llm-security)]. 
+   
+3. **Robustness of Learning from Task Instructions.** *Jiasheng Gu, Hanzi Xu, Liangyu Nie, and Wenpeng Yin.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.03813.pdf)]; [[code](link)]. 
 
-3. **Learning from Task Descriptions.** *Orion Weller, Nicholas Lourie, Matt Gardner, and Matthew E. Peters.* <ins>EMNLP</ins> 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.105.pdf)]; [[code](https://github.com/allenai/zest)]; [[dataset](https://allenai.org/data/zest)]. 
+4. **Learning from Task Descriptions.** *Orion Weller, Nicholas Lourie, Matt Gardner, and Matthew E. Peters.* <ins>EMNLP</ins> 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.105.pdf)]; [[code](https://github.com/allenai/zest)]; [[dataset](https://allenai.org/data/zest)]. 
 
 ### 3.4 Negation
 
@@ -534,9 +538,11 @@ ChatGPT related
 
 1. **Is ChatGPT a General-Purpose Natural Language Processing Task Solver?** *Chengwei Qin, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, and Diyi Yang.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.06476.pdf)].
    
-2. **ChatGPT: Jack of all trades, master of none.** *Jan Kocoń, Igor Cichecki, Oliwier Kaszyca, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.10724.pdf)].
+2. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.** *Biyang Guo, Xin Zhang, Ziyuan Wang, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2301.07597.pdf)]; [[corpus](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)]. 
    
-3. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.** *Jindong Wang, Xixu Hu, Wenxin Hou, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.12095.pdf)]; [[code](https://github.com/microsoft/robustlearn)]. 
+3. **ChatGPT: Jack of all trades, master of none.** *Jan Kocoń, Igor Cichecki, Oliwier Kaszyca, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.10724.pdf)].
+   
+4. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.** *Jindong Wang, Xixu Hu, Wenxin Hou, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.12095.pdf)]; [[code](https://github.com/microsoft/robustlearn)]. 
 
 
 
@@ -563,3 +569,10 @@ other
 ---
 
 <!-- TODO: tweets & slides? -->
+
+---
+
+<!-- omit in toc -->
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=RenzeLou/awesome-instruction-learning&type=Date)](https://star-history.com/#RenzeLou/awesome-instruction-learning&Date)
