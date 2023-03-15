@@ -110,7 +110,7 @@ In our paper, we divide the textual instructions into three taxonomies.
 
 ### 2.1 Entailment-oriented Instruction
 
-   
+
 1. **OpenStance: Real-world Zero-shot Stance Detection.** *Hanzi Xu, Slobodan Vucetic, and Wenpeng Yin.* <ins>CoNLL</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.14299.pdf)]; [[code](https://github.com/xhz0809/OpenStance)].
    
 2. **Ultra-fine Entity Typing with Indirect Supervision from Natural Language Inference.** *Bangzheng Li, Wenpeng Yin, and Muhao Chen.* <ins>TACL</ins> 2022. [[pdf](https://aclanthology.org/2022.tacl-1.35.pdf)]; [[code](link)]. 
@@ -132,7 +132,7 @@ In our paper, we divide the textual instructions into three taxonomies.
 
 We diaplay several representative works of PLM-oriented instruction learning (i.e., prompt learning). For more works, please refer to [this repo](https://github.com/thunlp/PromptPapers) and [this survey](https://dl.acm.org/doi/pdf/10.1145/3560815).
 
-   
+
 1. **How Does In-Context Learning Help Prompt Tuning?** *Simeng Sun, Yang Liu, Dan Iter, Chenguang Zhu, and Mohit Iyyer.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.11521.pdf)]; [[code](link)]. 
    
 2. **Demystifying Prompts in Language Models via Perplexity Estimation.** *Hila Gonen, Srini Iyer, Terra Blevins, Noah A. Smith, and Luke Zettlemoyer.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.04037.pdf)]; [[code](link)]. 
@@ -142,7 +142,7 @@ We diaplay several representative works of PLM-oriented instruction learning (i.
 4. **PPT: Pre-trained Prompt Tuning for Few-shot Learning.** *Yuxian Gu, Xu Han, Zhiyuan Liu, and Minlie Huang.* <ins>ACL</ins> 2022. [[pdf](https://arxiv.org/pdf/2109.04332.pdf)]; [[code](link)]. 
    
 5. **KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction.** *Xiang Chen, Ningyu Zhang, Xin Xie, and et al.* <ins>WWW</ins> 2022. [[pdf](http://128.84.21.203/pdf/2104.07650)]; [[code](link)].
-    
+   
 6. **GPT Understands, Too.** *Xiao Liu, Yanan Zheng, Zhengxiao Du, Ming Ding, Yujie Qian, Zhilin Yang, and Jie Tang.* <ins>Preprint</ins> 2021. [[pdf](https://arxiv.org/pdf/2103.10385.pdf)]; [[code](link)].
    
 7.  **Few-Shot Text Generation with Natural Language Instructions.** *Timo Schick and Hinrich Schütze.* <ins>EMNLP</ins> 2021. [[pdf](https://aclanthology.org/2021.emnlp-main.32.pdf)]; [[code](link)]. 
@@ -160,7 +160,7 @@ We diaplay several representative works of PLM-oriented instruction learning (i.
 13. **Exploiting Cloze-Questions for Few-Shot Text Classification and Natural Language Inference.** *Timo Schick and Hinrich Schütze.* <ins>EACL</ins> 2021. [[pdf](https://aclanthology.org/2021.eacl-main.20.pdf)]; [[code](link)].
    
 14. **Language Models are Unsupervised Multitask Learners.** *Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, and Ilya Sutskever.* <ins>Preprint</ins> 2019. [[pdf](https://life-extension.github.io/2020/05/27/GPT%E6%8A%80%E6%9C%AF%E5%88%9D%E6%8E%A2/language-models.pdf)]. 
-   
+
 
 ### 2.3 Human-oriented Instruction
 
@@ -191,7 +191,7 @@ The model and task scale are found to be important for instruction-based fine-tu
 1. **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. 
    
 2. **Exploring the Benefits of Training Expert Language Models over Instruction Tuning.** *Joel Jang, Seungone Kim, Seonghyeon Ye, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.03202.pdf)]; [[code](https://github.com/joeljang/ELM)]. 
-    
+   
 3. **UL2: Unifying Language Learning Paradigms.** *Yi Tay, Mostafa Dehghani, Vinh Q. Tran, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2205.05131.pdf)]; [[checkpoint](https://huggingface.co/google/flan-ul2)].  
    
 4. **The Flan Collection: Designing Data and Methods for Effective Instruction Tuning.** *Shayne Longpre, Le Hou, Tu Vu, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2301.13688.pdf)]; [[code](https://github.com/google-research/FLAN/tree/main/flan/v2)]; [[corpus](https://huggingface.co/datasets/SirNeural/flan_v2)].  
@@ -223,6 +223,11 @@ The model and task scale are found to be important for instruction-based fine-tu
 
 ### 3.4 Negation
 
+1. **Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts.** *Joel Jang, Seonghyeon Ye, and Minjoon Seo.* <ins>PMLR</ins> 2023. [[pdf](https://proceedings.mlr.press/v203/jang23a/jang23a.pdf)].
+   
+2. **Understanding by Understanding Not: Modeling Negation in Language Models.** *Arian Hosseini, Siva Reddy, Dzmitry Bahdanau, and et al.* <ins>NAACL</ins> 2021. [[pdf](https://aclanthology.org/2021.naacl-main.102.pdf)]; [[other resources](link)]. 
+
+
 ### 3.5 Others
 
 ## 4. 🤖 Applications
@@ -231,7 +236,7 @@ The model and task scale are found to be important for instruction-based fine-tu
 
 Instructions are used in many human-computer interaction (HCI) applications, such as virtual assistants, chatbots, etc. 
 
-   
+
 1. **Help me write a poem: Instruction Tuning as a Vehicle for Collaborative Poetry Writing.** *Tuhin Chakrabarty, Vishakh Padmakumar, and He He.* <ins>EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.13669.pdf)]; [[other resources](link)]. 
    
 2. **HELP ME THINK: A Simple Prompting Strategy for Non-experts to Create Customized Content with Models.** *Swaroop Mishra, and Elnaz Nouri.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2208.08232.pdf)]; [[other resources](link)]. 
@@ -245,7 +250,7 @@ Instructions are used in many human-computer interaction (HCI) applications, suc
 6. **Pre-Learning Environment Representations for Data-Efficient Neural Instruction Following.** *David Gaddy, and Dan Klein.* <ins>ACL</ins> 2019. [[pdf](https://aclanthology.org/P19-1188.pdf)]; [[other resources](link)]. 
    
 7. **VirtualHome: Simulating Household Activities via Programs.** *Xavier Puig, Kevin Ra, Marko Boben, and et al.* <ins>CVPR</ins> 2018. [[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Puig_VirtualHome_Simulating_Household_CVPR_2018_paper.pdf)]; [[other resources](link)]. 
-    
+   
 8.  **Natural Language Communication with Robots.** *Yonatan Bisk, Deniz Yuret, and Daniel Marcu.* <ins>NAACL</ins> 2016. [[pdf](https://aclanthology.org/N16-1089.pdf)]; [[other resources](link)].
     
 9.  **Jointly Learning to Parse and Perceive: Connecting Natural Language to the Physical World.** *Jayant Krishnamurthy, and Thomas Kollar.* <ins>TACL</ins> 2013. [[pdf](http://rtw.ml.cmu.edu/tacl2013_lsp/tacl2013-krishnamurthy-kollar.pdf)]; [[code](http://rtw.ml.cmu.edu/tacl2013_lsp/)]. 
@@ -311,6 +316,191 @@ General-purpose language models are also one of the most attractive applications
 
 ## 5. 📚 Corpora
 
+Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list current awesome instruction learning corpora in the following table.
+
+<table>
+    <tr>
+        <td>Name </td>
+        <td>Released Time</td>
+        <td>![](https://img.shields.io/badge/monolingual-gray)</td>
+        <td></td>
+        <td>Scale</td>
+        <td></td>
+        <td>Language</td>
+        <td>Scope</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>Paper</td>
+        <td>Corpus</td>
+        <td>#Tasks</td>
+        <td>#Ins</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>UnifiedQA</td>
+        <td>05/2020</td>
+        <td></td>
+        <td></td>
+        <td>46</td>
+        <td>750K</td>
+        <td>monolingual</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>CrossFit</td>
+        <td>04/2021</td>
+        <td></td>
+        <td></td>
+        <td>159</td>
+        <td>71M</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Natural Inst. v1</td>
+        <td>04/2021</td>
+        <td></td>
+        <td></td>
+        <td>61</td>
+        <td>620K</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Flan 2021</td>
+        <td>09/2021</td>
+        <td></td>
+        <td></td>
+        <td>62</td>
+        <td>4.4M</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>P3</td>
+        <td>10/2021</td>
+        <td></td>
+        <td></td>
+        <td>62</td>
+        <td>12M</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>MetaICL</td>
+        <td>10/2021</td>
+        <td></td>
+        <td></td>
+        <td>142</td>
+        <td>3.5M</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>ExMix</td>
+        <td>11/2021</td>
+        <td></td>
+        <td></td>
+        <td>107</td>
+        <td>500K</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>&quot;Super Natural Inst. </td>
+    </tr>
+    <tr>
+        <td>(Natural Inst. v2)&quot;</td>
+        <td>04/2022</td>
+        <td></td>
+        <td></td>
+        <td>1613</td>
+        <td>5M</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>GLM</td>
+        <td>10/2022</td>
+        <td></td>
+        <td></td>
+        <td>77</td>
+        <td>12M</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Flan 2022</td>
+        <td>10/2022</td>
+        <td></td>
+        <td></td>
+        <td>1836</td>
+        <td>15M</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>xP3</td>
+        <td>11/2022</td>
+        <td></td>
+        <td></td>
+        <td>71</td>
+        <td>81M</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Unnatural Inst.</td>
+        <td>12/2022</td>
+        <td></td>
+        <td></td>
+        <td>117</td>
+        <td>64K</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Self-Instruct</td>
+        <td>12/2022</td>
+        <td></td>
+        <td></td>
+        <td>/</td>
+        <td>82K</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>OPT-IML</td>
+        <td>12/2022</td>
+        <td></td>
+        <td></td>
+        <td>2207</td>
+        <td>18M</td>
+    </tr>
+</table>
+
+| Name | Relased Time | Paper | Corpus | #Taks | #Ins | Scope |
+| ---- | ------------ | ----- | ------ | ----- | ---- | ----- |
+|      |              |       |        |       |      |       |
+|      |              |       |        |       |      |       |
+|      |              |       |        |       |      |       |
+|      |              |       |        |       |      |       |
+|      |              |       |        |       |      |       |
+|      |              |       |        |       |      |       |
+|      |              |       |        |       |      |       |
+|      |              |       |        |       |      |       |
+|      |              |       |        |       |      |       |
+|      |              |       |        |       |      |       |
+|      |              |       |        |       |      |       |
+|      |              |       |        |       |      |       |
+|      |              |       |        |       |      |       |
+|      |              |       |        |       |      |       |
+
+
+
 1. **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].
    
 2. **Self-Instruct: Aligning Language Model with Self Generated Instructions.** *Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, and Hannaneh Hajishirzi.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.10560.pdf)]; [[corpus](https://github.com/yizhongw/self-instruct)].
@@ -329,7 +519,9 @@ Including instruction induction papers.
 
 1. **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].
    
-2. **Instruction Induction: From Few Examples to Natural Language Task Descriptions.** *Or Honovich, Uri Shaham, Samuel R. Bowman, and Omer Levy.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2205.10782.pdf)]; [[code](https://github.com/orhonovich/instruction-induction)].
+2. **Guess the Instruction! Flipped Learning Makes Language Models Stronger Zero-Shot Learners.** *Seonghyeon Ye, Doyoung Kim, Joel Jang, Joongbo Shin, and Minjoon Seo.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.02969.pdf)]; [[other resources](link)]. 
+   
+3. **Instruction Induction: From Few Examples to Natural Language Task Descriptions.** *Or Honovich, Uri Shaham, Samuel R. Bowman, and Omer Levy.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2205.10782.pdf)]; [[code](https://github.com/orhonovich/instruction-induction)].
 
 Human feedback vs model feedback
 
@@ -344,6 +536,13 @@ ChatGPT related
 
 
 Scalable oversight
+
+**Aligning AI With Shared Human Values.** *Dan Hendrycks, Collin Burns, Steven Basart, Andrew Critch, Jerry Li, Dawn Song, and Jacob Steinhardt.* <ins>ICLR</ins> 2021. [[pdf](https://openreview.net/pdf?id=dNy_RKzJacY)]; [[other resources](link)].
+
+
+**Measuring Progress on Scalable Oversight for Large Language Models.** *Samuel R. Bowman, Jeeyoon Hyun, Ethan Perez, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2211.03540.pdf)]; [[other resources](link)].
+
+
 
 ---
 
