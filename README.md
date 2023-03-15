@@ -87,19 +87,19 @@ work in progress.
 , including `prompt`, `demonstrations`, `reasoning`, and `overview` (which means a broader perspective). -->
 
 
-We use the label `comprehensive` to denote the papers with a more comprehensive perspective. While some other papers are more specific to a certain in-context instruction, including `prompt`, `demonstrations`, and `reasoning`.
+We use the label ![](https://img.shields.io/badge/comprehensive-orange) to denote the papers with a more comprehensive perspective. While some other papers are more specific to a certain in-context instruction, including ![](https://img.shields.io/badge/prompt-brightgreen), few-shot ![](https://img.shields.io/badge/demonstrations-ff69b4), and CoT ![](https://img.shields.io/badge/reasoning-9cf).
 
-1. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.** *Renze Lou, Kai Zhang, and Wenpeng Yin.* <ins>Preprint</ins> 2023. [[pdf]()]; [[paper list](https://github.com/RenzeLou/awesome-instruction-learning)]. `comprehensive`.
+1. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.** *Renze Lou, Kai Zhang, and Wenpeng Yin.* <ins>Preprint</ins> 2023. [[pdf]()]; [[paper list](https://github.com/RenzeLou/awesome-instruction-learning)]. ![](https://img.shields.io/badge/comprehensive-orange).
    
-2. **Learning from Task Instructions.** *Wenpeng Yin, Qinyuan Ye, Pengfei Liu, Xiang Ren, Hinrich Schütze.* <ins>Tutorial@EMNLP</ins> 2023. [[pdf]()]. `comprehensive`.
+2. **Learning from Task Instructions.** *Wenpeng Yin, Qinyuan Ye, Pengfei Liu, Xiang Ren, Hinrich Schütze.* <ins>Tutorial@EMNLP</ins> 2023. [[pdf]()]. ![](https://img.shields.io/badge/comprehensive-orange).
 
-3. **Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing.** *Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, and Graham Neubig.* <ins>ACM Computing Surveys</ins> 2023. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3560815)]; [[website](http://pretrain.nlpedia.ai/)]. `prompt`.
+3. **Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing.** *Pengfei Liu, Weizhe Yuan, Jinlan Fu, Zhengbao Jiang, Hiroaki Hayashi, and Graham Neubig.* <ins>ACM Computing Surveys</ins> 2023. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3560815)]; [[website](http://pretrain.nlpedia.ai/)]. ![](https://img.shields.io/badge/prompt-brightgreen).
    
-4. **A Survey on In-context Learning**. *Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, and Zhifang Sui*. <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2301.00234.pdf)]. `demonstrations`.
+4. **A Survey on In-context Learning**. *Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu, Lei Li, and Zhifang Sui*. <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2301.00234.pdf)]. ![](https://img.shields.io/badge/demonstrations-ff69b4).
    
-5. **Towards Reasoning in Large Language Models: A Survey.** *Huang, Jie, and Kevin Chen-Chuan Chang.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.10403.pdf)]; [[paper list](https://github.com/jeffhj/LM-reasoning)]. `reasoning`.
+5. **Towards Reasoning in Large Language Models: A Survey.** *Huang, Jie, and Kevin Chen-Chuan Chang.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.10403.pdf)]; [[paper list](https://github.com/jeffhj/LM-reasoning)]. ![](https://img.shields.io/badge/reasoning-9cf).
 
-6. **Reasoning with Language Model Prompting: A Survey.** *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, and Huajun Chen.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.09597.pdf)]; [[paper list](https://github.com/zjunlp/Prompt4ReasoningPapers)]. `reasoning`.
+6. **Reasoning with Language Model Prompting: A Survey.** *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, and Huajun Chen.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.09597.pdf)]; [[paper list](https://github.com/zjunlp/Prompt4ReasoningPapers)]. ![](https://img.shields.io/badge/reasoning-9cf).
 
 
 ## 2. 🗂️ Taxonomies
