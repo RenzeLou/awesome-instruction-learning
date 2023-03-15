@@ -322,8 +322,8 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
     <tr>
         <td>Name </td>
         <td>Released Time</td>
-        <td>![](https://img.shields.io/badge/monolingual-gray)</td>
-        <td></td>
+        <td><img src="https://img.shields.io/badge/monolingual-gray"></td>
+        <td><a href="https://arxiv.org/pdf/2005.00700.pdf">UnifiedQA: Crossing Format Boundaries With a Single QA System</a></td>
         <td>Scale</td>
         <td></td>
         <td>Language</td>
@@ -481,24 +481,6 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
         <td>18M</td>
     </tr>
 </table>
-
-| Name | Relased Time | Paper | Corpus | #Taks | #Ins | Scope |
-| ---- | ------------ | ----- | ------ | ----- | ---- | ----- |
-|      |              |       |        |       |      |       |
-|      |              |       |        |       |      |       |
-|      |              |       |        |       |      |       |
-|      |              |       |        |       |      |       |
-|      |              |       |        |       |      |       |
-|      |              |       |        |       |      |       |
-|      |              |       |        |       |      |       |
-|      |              |       |        |       |      |       |
-|      |              |       |        |       |      |       |
-|      |              |       |        |       |      |       |
-|      |              |       |        |       |      |       |
-|      |              |       |        |       |      |       |
-|      |              |       |        |       |      |       |
-|      |              |       |        |       |      |       |
-
 
 
 1. **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].
