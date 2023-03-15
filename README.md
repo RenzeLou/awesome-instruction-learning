@@ -26,6 +26,7 @@ We aim to stay up-to-date with the most innovative developments in the field and
 3. 
 -->
 
+<!-- TODO: add paper counting script, mod the paper number -->
 
 <!-- omit in toc -->
 ## How to contribute?
@@ -227,6 +228,62 @@ The model and task scale are found to be important for instruction-based fine-tu
 ## 4. 🤖 Applications
 
 ### 4.1 Human-Computer Interaction
+
+Instructions are used in many human-computer interaction (HCI) applications, such as virtual assistants. We display some representative works here. For more related articles, please refer to our survey.
+
+1. **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].
+   
+2. **EditEval: An Instruction-Based Benchmark for Text Improvements.** *Jane Dwivedi-Yu, Timo Schick, Zhengbao Jiang, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2209.13331.pdf)]; [[code](https://github.com/facebookresearch/EditEval)]; [[website](https://eval.ai/web/challenges/challenge-page/1866/overview)].
+   
+3. **Help me write a poem: Instruction Tuning as a Vehicle for Collaborative Poetry Writing.** *Tuhin Chakrabarty, Vishakh Padmakumar, and He He.* <ins>EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.13669.pdf)]; [[other resources](link)]. 
+   
+4. **HELP ME THINK: A Simple Prompting Strategy for Non-experts to Create Customized Content with Models.** *Swaroop Mishra, and Elnaz Nouri.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2208.08232.pdf)]; [[other resources](link)]. 
+   
+5. **Communicating Natural Programs to Humans and Machines.** *Sam Acquaviva, Yewen Pu, Marta Kryven, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2022. [[pdf](https://openreview.net/pdf?id=OxFoLTKDcNm)]; [[code](https://github.com/samacqua/LARC)]. 
+   
+6. **Interactive Task Learning from GUI-Grounded Natural Language Instructions and Demonstrations.** *Toby Jia-Jun Li, Tom Mitchell, and Brad Myers.* <ins>ACL Demo</ins> 2020. [[pdf](https://aclanthology.org/2020.acl-demos.25.pdf)]; [[other resources](link)].
+   
+7. **Pre-Learning Environment Representations for Data-Efficient Neural Instruction Following.** *David Gaddy, and Dan Klein.* <ins>ACL</ins> 2019. [[pdf](https://aclanthology.org/P19-1188.pdf)]; [[other resources](link)]. 
+   
+8. **A joint model of language and perception for grounded attribute learning.** *Cynthia Matuszek, Nicholas FitzGerald, Luke Zettlemoyer, Liefeng Bo, and Dieter Fox.* <ins>ICML</ins> 2012. [[pdf](https://arxiv.org/pdf/1206.6423.pdf)]; [[other resources](link)]. 
+   
+9. **VirtualHome: Simulating Household Activities via Programs.** *Xavier Puig, Kevin Ra, Marko Boben, and et al.* <ins>CVPR</ins> 2018. [[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Puig_VirtualHome_Simulating_Household_CVPR_2018_paper.pdf)]; [[other resources](link)]. 
+    
+10. **Natural Language Communication with Robots.** *Yonatan Bisk, Deniz Yuret, and Daniel Marcu.* <ins>NAACL</ins> 2016. [[pdf](https://aclanthology.org/N16-1089.pdf)]; [[other resources](link)].
+    
+11. **Jointly Learning to Parse and Perceive: Connecting Natural Language to the Physical World.** *Jayant Krishnamurthy, and Thomas Kollar.* <ins>TACL</ins> 2013. [[pdf](http://rtw.ml.cmu.edu/tacl2013_lsp/tacl2013-krishnamurthy-kollar.pdf)]; [[code](http://rtw.ml.cmu.edu/tacl2013_lsp/)]. 
+
+12. **Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions.** *Yoav Artzi, and Luke Zettlemoyer.* <ins>TACL</ins> 2013. [[pdf](https://aclanthology.org/Q13-1005.pdf)]; [[other resources](link)].
+    
+13. **Unsupervised PCFG Induction for Grounded Language Learning with Highly Ambiguous Supervision.** *Joohyun Kim, and Raymond Mooney.* <ins>EMNLP</ins> 2012. [[pdf](https://aclanthology.org/D12-1040.pdf)]; [[other resources](link)].
+    
+14. **Learning to Interpret Natural Language Instructions.** *Monica Babeş-Vroman, James MacGlashan, Ruoyuan Gao, and et al.* <ins>ACL Workshop</ins> 2012. [[pdf](https://aclanthology.org/W12-2801.pdf)]; [[other resources](link)]. 
+    
+15. **Fast Online Lexicon Learning for Grounded Language Acquisition.** *David Chen.* <ins>ACL</ins> 2012. [[pdf](https://aclanthology.org/P12-1045.pdf)]; [[other resources](link)].
+    
+16. **Learning to Win by Reading Manuals in a Monte-Carlo Framework.** *S.R.K. Branavan, David Silver, and Regina Barzilay.* <ins>ACL</ins> 2011. [[pdf](https://aclanthology.org/P11-1028.pdf)]; [[other resources](link)].
+    
+17. **Learning from natural instructions.** *Dan Goldwasse, and Dan Roth.* <ins>IJCAI</ins> 2011. [[pdf](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2aba84801935041774c1e2b749e0331efa322ed8)]; [[other resources](link)].  
+    
+18. **Learning to Interpret Natural Language Navigation Instructions from Observations.** *David L. Chen and Raymond J. Mooney.* <ins>AAAI</ins> 2011. [[pdf](https://www.cs.utexas.edu/users/ml/papers/chen.aaai11.pdf)]; [[other resources](link)]. 
+    
+19. **Approaching the Symbol Grounding Problem with Probabilistic Graphical Models.** *Stefanie Tellex, Thomas Kollar, Steven Dickerson, and et al.* <ins>AAAI</ins> 2011. [[pdf](https://cs.brown.edu/people/stellex/publications/tellex11a.pdf)]; [[other resources](link)]. 
+    
+20. **Driving Semantic Parsing from the World’s Response.** *James Clarke, Dan Goldwasser, Ming-Wei Chang, and Dan Roth.* <ins>CoNLL</ins> 2010. [[pdf](https://aclanthology.org/W10-2903.pdf)]; [[other resources](link)]. 
+    
+21. **Learning to Follow Navigational Directions.** *Adam Vogel, and Daniel Jurafsky.* <ins>ACL</ins> 2010. [[pdf](https://aclanthology.org/P10-1083.pdf)]; [[other resources](link)].
+    
+22. **Reading between the Lines: Learning to Map High-Level Instructions to Commands.** *S.R.K. Branavan, Luke Zettlemoyer, and Regina Barzilay.* <ins>ACL</ins> 2010. [[pdf](https://aclanthology.org/P10-1129.pdf)]; [[other resources](link)]. 
+    
+23. **Reading to Learn: Constructing Features from Semantic Abstracts.** *Jacob Eisenstein, James Clarke, Dan Goldwasser, and Dan Roth.* <ins>EMNLP</ins> 2009. [[pdf](https://aclanthology.org/D09-1100.pdf)]; [[other resources](link)]. 
+    
+24. **Learning Semantic Correspondences with Less Supervision.** *Percy Liang, Michael Jordan, and Dan Klein.* <ins>ACL</ins> 2009. [[pdf](https://aclanthology.org/P09-1011.pdf)]; [[other resources](link)]. 
+    
+25. **Reinforcement Learning for Mapping Instructions to Actions.** *S.R.K. Branavan, Harr Chen, Luke Zettlemoyer, and Regina Barzilay.* <ins>ACL</ins> 2009. [[pdf](https://aclanthology.org/P09-1010.pdf)]; [[other resources](link)]. 
+    
+26. **Learning to sportscast: a test of grounded language acquisition.** *David L. Chen and Raymond J. Mooney.* <ins>ICML</ins> 2008. [[pdf](https://dl.acm.org/doi/pdf/10.1145/1390156.1390173)]; [[other resources](link)]. 
+27. **Guiding a Reinforcement Learner with Natural Language Advice: Initial Results in RoboCup Soccer.** *Gregory Kuhlmann, Peter Stone, Raymond Mooney, and Jude Shavlik.* <ins>AAAI Workshop</ins> 2004. [[pdf](https://ftp.cs.wisc.edu/machine-learning/shavlik-group/kuhlmann-aaai04.pdf)]; [[other resources](link)]. 
+
 
 ### 4.2 Data and Feature Augmentation
 
