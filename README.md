@@ -322,14 +322,14 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <tbody>
 <tr style="height: 37px;">
 <td style="height: 47px; width: 144.68px; text-align: left;" rowspan="2"><strong>Name&nbsp;</strong></td>
-<td style="height: 47px; width: 64.3125px; text-align: center;" rowspan="2"><strong>Release</strong></td>
+<td style="height: 47px; width: 64.3125px; text-align: right;" rowspan="2"><strong>Release</strong></td>
 <td style="height: 47px; width: 85.5938px; text-align: center;" rowspan="2"><strong>Data/Code</strong></td>
 <td style="height: 37px; width: 168.773px; text-align: center;" colspan="2"><strong>Scale</strong></td>
 <td style="height: 47px; width: 131.641px; text-align: center;" rowspan="2"><strong>Language</strong></td>
 </tr>
 <tr style="height: 10px;">
-<td style="height: 10px; width: 79.375px; text-align: center;"><strong>#Tasks</strong></td>
-<td style="height: 10px; width: 83.3984px; text-align: center;"><strong>#Ins. (K)</strong></td>
+<td style="height: 10px; width: 79.375px; text-align: right;"><strong>#Tasks</strong></td>
+<td style="height: 10px; width: 83.3984px; text-align: right;"><strong>#Ins. (K)</strong></td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://arxiv.org/pdf/2005.00700.pdf">UnifiedQA</a></td>
