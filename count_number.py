@@ -39,7 +39,7 @@ with open("README.md", "r", encoding='utf-8') as f_in:
                 # parse the HTML content using BeautifulSoup
                 soup = BeautifulSoup(response.text, 'html.parser')
                 # find the table element by its class or ID
-                table = soup.find('table', {'class': '"copora-table"'})  # replace with the actual class or ID of your table
+                table = soup.find('table', {'id': "copora-table"})  # replace with the actual class or ID of your table
                 # count the number of rows in the table
                 if table:
                     rows = table.find_all('tr')

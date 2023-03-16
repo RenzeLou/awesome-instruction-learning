@@ -395,7 +395,7 @@ General-purpose language models are also one of the most attractive applications
 
 Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list current awesome instruction learning corpora in the following table.
 
-<table class="copora-table" style="height: 317px;" width="629">
+<table id="copora-table" style="height: 317px;" width="629">
 <tbody>
 <tr style="height: 37px;">
 <td style="height: 47px; width: 144.68px; text-align: left;" rowspan="2"><strong>Name&nbsp;</strong></td>
