@@ -4,7 +4,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/RenzeLou/awesome-instruction-learning) ![](https://img.shields.io/github/stars/RenzeLou/awesome-instruction-learning?style=social)
 
-![](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=green) ![](https://img.shields.io/badge/PaperNumber-142-blue) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+![](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A) ![](https://img.shields.io/badge/PaperNumber-142-blue) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 A curated list of awesome **Instruction Learning** papers 🔥🔥🔥. 
 
