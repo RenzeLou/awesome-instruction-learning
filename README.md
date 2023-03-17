@@ -581,9 +581,9 @@ We also share some other awesome papers that might inspire the future work.
 ### 6.4 Scalable Oversight and Alignment
 
 
-1. **Aligning AI With Shared Human Values.** *Dan Hendrycks, Collin Burns, Steven Basart, Andrew Critch, Jerry Li, Dawn Song, and Jacob Steinhardt.* <ins>ICLR</ins> 2021. [[pdf](https://openreview.net/pdf?id=dNy_RKzJacY)].
+1. **Measuring Progress on Scalable Oversight for Large Language Models.** *Samuel R. Bowman, Jeeyoon Hyun, Ethan Perez, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2211.03540.pdf)].
 
-2. **Measuring Progress on Scalable Oversight for Large Language Models.** *Samuel R. Bowman, Jeeyoon Hyun, Ethan Perez, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2211.03540.pdf)].
+2. **Aligning AI With Shared Human Values.** *Dan Hendrycks, Collin Burns, Steven Basart, Andrew Critch, Jerry Li, Dawn Song, and Jacob Steinhardt.* <ins>ICLR</ins> 2021. [[pdf](https://openreview.net/pdf?id=dNy_RKzJacY)].
 
 
 ### 6.5 Other Papers
