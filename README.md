@@ -294,7 +294,7 @@ Instructions are used in many human-computer interaction (HCI) applications, suc
    
 4. **Communicating Natural Programs to Humans and Machines.** *Sam Acquaviva, Yewen Pu, Marta Kryven, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2022. [[pdf](https://openreview.net/pdf?id=OxFoLTKDcNm)]; [[code](https://github.com/samacqua/LARC)]. 
    
-5. **Interactive Task Learning from GUI-Grounded Natural Language Instructions and Demonstrations.** *Toby Jia-Jun Li, Tom Mitchell, and Brad Myers.* <ins>ACL Demo</ins> 2020. [[pdf](https://aclanthology.org/2020.acl-demos.25.pdf)]; [[other resources](link)].
+5. **Interactive Task Learning from GUI-Grounded Natural Language Instructions and Demonstrations.** *Toby Jia-Jun Li, Tom Mitchell, and Brad Myers.* <ins>ACL Demo</ins> 2020. [[pdf](https://aclanthology.org/2020.acl-demos.25.pdf)]; [[code](https://github.com/tobyli/Sugilite_development)]; [[video](https://www.youtube.com/watch?v=tdHEk-GeaqE)].
    
 6. **Multi-Modal Interactive Task Learning from Demonstrations and Natural Language Instructions.** *Toby Jia-Jun Li.* <ins>UIST</ins> 2020. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3379350.3415803)]; [[code](https://github.com/tobyli/Sugilite_development)].
    
