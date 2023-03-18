@@ -75,12 +75,12 @@ Find this repository helpful? Please consider citing our paper (we are still wor
   - [3.2 Explanability](#32-explanability)
   - [3.3 Robustness](#33-robustness)
   - [3.4 Negation](#34-negation)
-  - [3.5 Others](#35-others)
+  - [3.5 Other Papers](#35-other-papers)
 - [4. 🤖 Applications](#4--applications)
   - [4.1 Human-Computer Interaction](#41-human-computer-interaction)
   - [4.2 Data and Feature Augmentation](#42-data-and-feature-augmentation)
   - [4.3 General-purpose Language Models](#43-general-purpose-language-models)
-  - [4.4 Others](#44-others)
+  - [4.4 Other Papers](#44-other-papers)
 - [5. 📚 Corpora](#5--corpora)
 - [6. 📖 Extended Reading](#6--extended-reading)
   - [6.1 Instruction Induction](#61-instruction-induction)
@@ -122,6 +122,11 @@ In our paper, we divide the textual instructions into three taxonomies.
 
 ### 2.1 Entailment-oriented Instruction
 
+<!-- Entailment-oriented instruction constructs the task output into the hypothesis and regards the origin task input as the premise. For example, the origin task is to classify `I love this movie` to a `positive` label. While the entailment-oriented paradigm aims to classify whether `Premise: I love this movie` and `Hypothesis: Is it sentiment-positive?` are entailed.  -->
+
+<!-- For example, `Premise: I love this movie` and `Hypothesis: Is it sentiment-positive?` -->
+
+Entailment-oriented instruction regards the task **input** as the **premise**, and constructs the task **output** into the **hypothesis**. It unifies all classification problems into a textual entailment paradigm.
 
 1. **OpenStance: Real-world Zero-shot Stance Detection.** *Hanzi Xu, Slobodan Vucetic, and Wenpeng Yin.* <ins>CoNLL</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.14299.pdf)]; [[code](https://github.com/xhz0809/OpenStance)].
    
@@ -177,6 +182,8 @@ We diaplay several representative works of PLM-oriented instruction learning (i.
 ### 2.3 Human-oriented Instruction
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
+
+Human-oriented instruction is initially designed for human to understand the task and annotate the data, such as the [Amazon MTurk](https://www.mturk.com/) Instructions.
    
 1. **In-Context Instruction Learning.** *Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, and Minjoon Seo.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.14691.pdf)]; [[code](https://github.com/seonghyeonye/ICIL)]. 
    
@@ -228,7 +235,7 @@ The model and task scale are found to be important for instruction-based fine-tu
 
 ### 3.2 Explanability
 
-In this section, we exhibit works that focus on the interpretability and reliability of instruction learning, i.e., explaining when and why instruction can take effect.
+We exhibit works that focus on the interpretability and reliability of instruction learning, i.e., explaining when and why instruction can take effect.
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
    
@@ -262,12 +269,14 @@ In this section, we exhibit works that focus on the interpretability and reliabi
 
 ### 3.4 Negation
 
+Negation expressions, such as `do not` and `avoid doing`, are difficult for models to corretly understand and follow.
+
 1. **Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts.** *Joel Jang, Seonghyeon Ye, and Minjoon Seo.* <ins>ICML Workshop</ins> 2023. [[pdf](https://proceedings.mlr.press/v203/jang23a/jang23a.pdf)].
    
 2. **Understanding by Understanding Not: Modeling Negation in Language Models.** *Arian Hosseini, Siva Reddy, Dzmitry Bahdanau, and et al.* <ins>NAACL</ins> 2021. [[pdf](https://aclanthology.org/2021.naacl-main.102.pdf)]; [[code](https://github.com/arianhosseini/negation-learning)]. 
 
 
-### 3.5 Others
+### 3.5 Other Papers
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
    
@@ -283,7 +292,7 @@ In this section, we exhibit works that focus on the interpretability and reliabi
 
 ### 4.1 Human-Computer Interaction
 
-Instructions are used in many human-computer interaction (HCI) applications, such as virtual assistants, chatbots, etc. 
+Instructions are used in various human-computer interaction (HCI) tasks, such as virtual assistants, chatbots, etc. 
 
 
 1. **Help me write a poem: Instruction Tuning as a Vehicle for Collaborative Poetry Writing.** *Tuhin Chakrabarty, Vishakh Padmakumar, and He He.* <ins>EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.13669.pdf)]; [[code](https://github.com/vishakhpk/creative-instructions)]. 
@@ -343,6 +352,8 @@ Instructions are used in many human-computer interaction (HCI) applications, suc
 
 ### 4.2 Data and Feature Augmentation
 
+Some instructions (e.g., label explanations) are also be used for automatic annotation (i.e., data augmentation), or for enriching feature.
+
 1. **One Embedder, Any Task: Instruction-Finetuned Text Embeddings.** *Hongjin Su, Weijia Shi, Jungo Kasai, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.09741.pdf)]; [[website](https://instructor-embedding.github.io/)]. 
    
 2. **Prompt Consistency for Zero-Shot Task Generalization.** *Chunting Zhou, Junxian He, Xuezhe Ma, Taylor Berg-Kirkpatrick, and Graham Neubig.* <ins>Findings of EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2205.00049.pdf)]; [[code](https://github.com/violet-zct/swarm-distillation-zero-shot)]. 
@@ -371,7 +382,7 @@ General-purpose language models are also one of the most attractive applications
 4. **Training language models to follow instructions with human feedback.** *Long Ouyang, Jeffrey Wu, Xu Jiang, and et al.* <ins>NeurIPS</ins> 2022. [[pdf](https://openreview.net/pdf?id=TG8KACxEON)]. 
 
 
-### 4.4 Others
+### 4.4 Other Papers
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
 1. **GPTScore: Evaluate as You Desire.** *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, and Pengfei Liu.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.04166.pdf)]; [[code](https://github.com/jinlanfu/GPTScore)]. 
