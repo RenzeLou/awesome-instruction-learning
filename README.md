@@ -602,9 +602,11 @@ We also share some other awesome papers that might inspire the future work.
 
 1. **Navigating the Grey Area: Expressions of Overconfidence and Uncertainty in Language Models.** *Kaitlyn Zhou, Dan Jurafsky, and Tatsunori Hashimoto.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.13439.pdf)].
    
-2. **Large Language Models Can Be Easily Distracted by Irrelevant Context.** *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, and Denny Zhou.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.00093.pdf)]; [[corpus](https://github.com/google-research-datasets/GSM-IC)].
+2. **The Capacity for Moral Self-Correction in Large Language Models.** *Deep Ganguli, Amanda Askell, Nicholas Schiefer, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.07459.pdf)]. 
+   
+3. **Large Language Models Can Be Easily Distracted by Irrelevant Context.** *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed Chi, Nathanael Schärli, and Denny Zhou.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.00093.pdf)]; [[corpus](https://github.com/google-research-datasets/GSM-IC)].
 
-3. **Language Models (Mostly) Know What They Know.** *Saurav Kadavath, Tom Conerly, Amanda Askell, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2207.05221.pdf)].
+4. **Language Models (Mostly) Know What They Know.** *Saurav Kadavath, Tom Conerly, Amanda Askell, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2207.05221.pdf)].
 
 
 
