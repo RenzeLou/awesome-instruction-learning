@@ -49,7 +49,10 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 
 <!-- omit in toc -->
 ## Citation
-Find this repository helpful? Please consider citing our paper (we are still working on it):
+
+Find this repository helpful? 😊 
+
+Please consider citing our paper (we are still working on it) 👇👇👇:
 
 ```
 @article{lou2023instruction,
@@ -60,7 +63,6 @@ Find this repository helpful? Please consider citing our paper (we are still wor
 }
 ```
 
----
 
 <!-- omit in toc -->
 ## 🔍 Table of Contents 
