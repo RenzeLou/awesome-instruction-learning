@@ -128,6 +128,8 @@ In our paper, we divide the textual instructions into three taxonomies.
 
 <!-- For example, `Premise: I love this movie` and `Hypothesis: Is it sentiment-positive?` -->
 
+![entailment_oriented](./resources/entailment_oriented.png)
+
 Entailment-oriented instruction regards the task **input** as the **premise**, and constructs the task **output** into the **hypothesis**. It unifies all classification problems into a textual entailment paradigm.
 
 1. **OpenStance: Real-world Zero-shot Stance Detection.** *Hanzi Xu, Slobodan Vucetic, and Wenpeng Yin.* <ins>CoNLL</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.14299.pdf)]; [[code](https://github.com/xhz0809/OpenStance)].
@@ -148,6 +150,8 @@ Entailment-oriented instruction regards the task **input** as the **premise**, a
 
 
 ### 2.2 PLM-oriented Instruction
+
+![plm_oriented](./resources/PLM_oriented.png)
 
 We diaplay several representative works of PLM-oriented instruction learning (i.e., prompt learning). For more works, please refer to [this repository](https://github.com/thunlp/PromptPapers) and [this survey](https://dl.acm.org/doi/pdf/10.1145/3560815).
 
@@ -184,6 +188,8 @@ We diaplay several representative works of PLM-oriented instruction learning (i.
 ### 2.3 Human-oriented Instruction
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
+
+![Human-oriented Instruction](./resources/human_oriented.png)
 
 Human-oriented instruction is initially designed for human to understand the task and annotate the data, such as the [Amazon MTurk](https://www.mturk.com/) Instructions.
    
