@@ -44,7 +44,7 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 
 2. If one preprint paper has multiple versions, please use **the earliest submitted year**.
    
-3. Display the papers in a **year descending order**.
+3. Display the papers in a **year descending order** (the latest, the first).
 
 
 <!-- omit in toc -->
