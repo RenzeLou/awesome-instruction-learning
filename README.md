@@ -153,7 +153,7 @@ Entailment-oriented instruction regards the task **input** as the **premise**, a
 
 ![plm_oriented](./resources/PLM_oriented.png)
 
-PLM-oriented instruction queries pre-trained language models (PLM) for responses. We diaplay several representative works of PLM-oriented instruction learning (i.e., prompt learning). For more works, please refer to [this repository](https://github.com/thunlp/PromptPapers) and [this survey](https://dl.acm.org/doi/pdf/10.1145/3560815).
+PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to steer pre-trained language models (PLM) for responses. Here, we diaplay several representative works of PLM-oriented instruction learning. For more works, please refer to [this repository](https://github.com/thunlp/PromptPapers) and [this survey](https://dl.acm.org/doi/pdf/10.1145/3560815).
 
 
 1. **How Does In-Context Learning Help Prompt Tuning?** *Simeng Sun, Yang Liu, Dan Iter, Chenguang Zhu, and Mohit Iyyer.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.11521.pdf)]. 
