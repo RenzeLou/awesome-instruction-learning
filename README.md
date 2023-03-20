@@ -68,7 +68,7 @@ Please consider citing our paper (we are still working on it) 👇👇👇:
 ## 🔍 Table of Contents 
 
 - [1. 🎓 Surveys and Tutorials](#1--surveys-and-tutorials)
-- [2. 🗂️ Taxonomies](#2-️-taxonomies)
+- [2. 🗂️ Taxonomy](#2-️-taxonomy)
   - [2.1 Entailment-oriented Instruction](#21-entailment-oriented-instruction)
   - [2.2 PLM-oriented Instruction](#22-plm-oriented-instruction)
   - [2.3 Human-oriented Instruction](#23-human-oriented-instruction)
@@ -116,9 +116,9 @@ We use the label ![](https://img.shields.io/badge/comprehensive-orange) to denot
 6. **Reasoning with Language Model Prompting: A Survey.** *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, and Huajun Chen.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.09597.pdf)]; [[paper list](https://github.com/zjunlp/Prompt4ReasoningPapers)]. ![](https://img.shields.io/badge/reasoning-9cf).
 
 
-## 2. 🗂️ Taxonomies
+## 2. 🗂️ Taxonomy
 
-In our paper, we divide the textual instructions into three taxonomies.
+In our paper, we divide the textual instructions into three categories.
 
 ### 2.1 Entailment-oriented Instruction
 
