@@ -120,8 +120,6 @@ We use the label ![](https://img.shields.io/badge/comprehensive-orange) to denot
 
 In our paper, we divide the textual instructions into three taxonomies.
 
-<!-- TODO: add pic. -->
-
 ### 2.1 Entailment-oriented Instruction
 
 <!-- Entailment-oriented instruction constructs the task output into the hypothesis and regards the origin task input as the premise. For example, the origin task is to classify `I love this movie` to a `positive` label. While the entailment-oriented paradigm aims to classify whether `Premise: I love this movie` and `Hypothesis: Is it sentiment-positive?` are entailed.  -->
