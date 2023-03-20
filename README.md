@@ -130,7 +130,7 @@ In our paper, we divide the textual instructions into three taxonomies.
 
 ![entailment_oriented](./resources/entailment_oriented.png)
 
-Entailment-oriented instruction regards the task **input** as the **premise**, and constructs the task **output** into the **hypothesis**. It unifies all classification problems into a textual entailment paradigm.
+Entailment-oriented instruction regards the task **input** as the **premise**, and constructs the task **output** into the **hypothesis**. It unifies the conventional classification problems into a textual entailment paradigm.
 
 1. **OpenStance: Real-world Zero-shot Stance Detection.** *Hanzi Xu, Slobodan Vucetic, and Wenpeng Yin.* <ins>CoNLL</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.14299.pdf)]; [[code](https://github.com/xhz0809/OpenStance)].
    
@@ -153,7 +153,7 @@ Entailment-oriented instruction regards the task **input** as the **premise**, a
 
 ![plm_oriented](./resources/PLM_oriented.png)
 
-We diaplay several representative works of PLM-oriented instruction learning (i.e., prompt learning). For more works, please refer to [this repository](https://github.com/thunlp/PromptPapers) and [this survey](https://dl.acm.org/doi/pdf/10.1145/3560815).
+PLM-oriented instruction queries pre-trained language models (PLM) for responses. We diaplay several representative works of PLM-oriented instruction learning (i.e., prompt learning). For more works, please refer to [this repository](https://github.com/thunlp/PromptPapers) and [this survey](https://dl.acm.org/doi/pdf/10.1145/3560815).
 
 
 1. **How Does In-Context Learning Help Prompt Tuning?** *Simeng Sun, Yang Liu, Dan Iter, Chenguang Zhu, and Mohit Iyyer.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.11521.pdf)]. 
@@ -191,7 +191,7 @@ We diaplay several representative works of PLM-oriented instruction learning (i.
 
 ![Human-oriented Instruction](./resources/human_oriented.png)
 
-Human-oriented instruction is initially designed for human to understand the task and annotate the data, such as the [Amazon MTurk](https://www.mturk.com/) Instructions.
+Human-oriented instruction is initially designed for human to understand the task and annotate the data, such as the [Amazon MTurk](https://www.mturk.com/) Instructions, which provides detailed information about the task (e.g., formal definition).
    
 1. **In-Context Instruction Learning.** *Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, and Minjoon Seo.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.14691.pdf)]; [[code](https://github.com/seonghyeonye/ICIL)]. 
    
