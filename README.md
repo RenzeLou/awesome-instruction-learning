@@ -67,33 +67,48 @@ Please consider citing our paper (we are still working on it) 👇👇👇:
 <!-- omit in toc -->
 ## 🔍 Table of Contents 
 
-- [1. 🎓 Surveys and Tutorials](#1--surveys-and-tutorials)
-- [2. 🗂️ Taxonomy](#2-️-taxonomy)
-  - [2.1 Entailment-oriented Instruction](#21-entailment-oriented-instruction)
-  - [2.2 PLM-oriented Instruction](#22-plm-oriented-instruction)
-  - [2.3 Human-oriented Instruction](#23-human-oriented-instruction)
-- [3. 📊 Analyses](#3--analyses)
-  - [3.1 Scale](#31-scale)
-  - [3.2 Explanability](#32-explanability)
-  - [3.3 Robustness](#33-robustness)
-  - [3.4 Negation](#34-negation)
-  - [3.5 Other Papers](#35-other-papers)
-- [4. 🤖 Applications](#4--applications)
-  - [4.1 Human-Computer Interaction](#41-human-computer-interaction)
-  - [4.2 Data and Feature Augmentation](#42-data-and-feature-augmentation)
-  - [4.3 General-purpose Language Models](#43-general-purpose-language-models)
-  - [4.4 Other Papers](#44-other-papers)
-- [5. 📚 Corpora](#5--corpora)
-- [6. 📖 Extended Reading](#6--extended-reading)
-  - [6.1 Instruction Induction](#61-instruction-induction)
-  - [6.2 Human Feedback vs. Model Feedback](#62-human-feedback-vs-model-feedback)
-  - [6.3 ChatGPT-related Papers](#63-chatgpt-related-papers)
-  - [6.4 Scalable Oversight and Alignment](#64-scalable-oversight-and-alignment)
-  - [6.5 Other Papers](#65-other-papers)
+- [1. 💁🏽‍♀️ Introduction](#1-️-introduction)
+- [2. 🎓 Surveys and Tutorials](#2--surveys-and-tutorials)
+- [3. 🗂️ Taxonomy](#3-️-taxonomy)
+  - [3.1 Entailment-oriented Instruction](#31-entailment-oriented-instruction)
+  - [3.2 PLM-oriented Instruction](#32-plm-oriented-instruction)
+  - [3.3 Human-oriented Instruction](#33-human-oriented-instruction)
+- [4. 📊 Analyses](#4--analyses)
+  - [4.1 Scale](#41-scale)
+  - [4.2 Explanability](#42-explanability)
+  - [4.3 Robustness](#43-robustness)
+  - [4.4 Negation](#44-negation)
+  - [4.5 Other Papers](#45-other-papers)
+- [5. 🤖 Applications](#5--applications)
+  - [5.1 Human-Computer Interaction](#51-human-computer-interaction)
+  - [5.2 Data and Feature Augmentation](#52-data-and-feature-augmentation)
+  - [5.3 General-purpose Language Models](#53-general-purpose-language-models)
+  - [5.4 Other Papers](#54-other-papers)
+- [6. 📚 Corpora](#6--corpora)
+- [7. 📖 Extended Reading](#7--extended-reading)
+  - [7.1 Instruction Induction](#71-instruction-induction)
+  - [7.2 Human Feedback vs. Model Feedback](#72-human-feedback-vs-model-feedback)
+  - [7.3 ChatGPT-related Papers](#73-chatgpt-related-papers)
+  - [7.4 Scalable Oversight and Alignment](#74-scalable-oversight-and-alignment)
+  - [7.5 Other Papers](#75-other-papers)
 
 ---
 
-## 1. 🎓 Surveys and Tutorials
+
+## 1. 💁🏽‍♀️ Introduction
+
+![introduction](./resources/introduction.png)
+
+Why instruction learning instead of supervised learning?
+
+
+- 👉 **Easy to collect.**  For supervised learning, each task requires extensive label examples 💰. While for instruction learning, each task requires only one instruction and just a few examples 🤩.
+- 👉 **One model, all tasks.** An ideal AI system should be able to universally understand and handle new tasks 💫.
+- 👉 **A promising research direction.** Traditional supervised learning uses label instances to represent the task semantics, i.e., we train the models on extensive examples to recover the original task meaning. Therefore, **why not directly use the task instruction**, **which has already occupied the task semantics**?
+
+<!-- We all know collecting extensive labeled examples are usually expensive 💰. -->
+
+## 2. 🎓 Surveys and Tutorials
 
 <!-- There are several awesome surveys and tutorials on textual instruction learning. -->
 <!-- To our knowledge, our survey is the first one to provide a comprehensive and broader overview of the field of instruction learning. -->
@@ -116,11 +131,11 @@ We use the label ![](https://img.shields.io/badge/comprehensive-orange) to denot
 6. **Reasoning with Language Model Prompting: A Survey.** *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, and Huajun Chen.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.09597.pdf)]; [[paper list](https://github.com/zjunlp/Prompt4ReasoningPapers)]. ![](https://img.shields.io/badge/reasoning-9cf).
 
 
-## 2. 🗂️ Taxonomy
+## 3. 🗂️ Taxonomy
 
 In our paper, we divide the textual instructions into three categories.
 
-### 2.1 Entailment-oriented Instruction
+### 3.1 Entailment-oriented Instruction
 
 <!-- Entailment-oriented instruction constructs the task output into the hypothesis and regards the origin task input as the premise. For example, the origin task is to classify `I love this movie` to a `positive` label. While the entailment-oriented paradigm aims to classify whether `Premise: I love this movie` and `Hypothesis: Is it sentiment-positive?` are entailed.  -->
 
@@ -147,7 +162,7 @@ Entailment-oriented instruction regards the task **input** as the **premise**, a
 8.  **Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach.** *Wenpeng Yin, Jamaal Hay, Dan Roth* *.* <ins>EMNLP</ins> 2019. [[pdf](https://arxiv.org/pdf/1909.00161.pdf)]; [[website](https://cogcomp.seas.upenn.edu/page/publication_view/883)].
 
 
-### 2.2 PLM-oriented Instruction
+### 3.2 PLM-oriented Instruction
 
 ![plm_oriented](./resources/PLM_oriented.png)
 
@@ -183,7 +198,7 @@ PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to
 14. **Language Models are Unsupervised Multitask Learners.** *Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, and Ilya Sutskever.* <ins>Preprint</ins> 2019. [[pdf](https://life-extension.github.io/2020/05/27/GPT%E6%8A%80%E6%9C%AF%E5%88%9D%E6%8E%A2/language-models.pdf)]. 
 
 
-### 2.3 Human-oriented Instruction
+### 3.3 Human-oriented Instruction
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
 
@@ -210,9 +225,9 @@ Human-oriented instruction is initially designed for human to understand the tas
 9.  **The Turking Test: Can Language Models Understand Instructions?** *Avia Efrat and Omer Levy.* <ins>Preprint</ins> 2020. [[pdf](https://arxiv.org/pdf/2010.11982.pdf)]. 
 
 
-## 3. 📊 Analyses
+## 4. 📊 Analyses
 
-### 3.1 Scale
+### 4.1 Scale
 The model and task scale are found to be important for instruction-based fine-tuning. Basically, the larger model scale brings more benefits to the generalization, and so does the task scale. However, some works raised objections (e.g., [Jang et al.](https://arxiv.org/pdf/2302.03202.pdf) and [Wang et al.](https://arxiv.org/pdf/2210.00185.pdf)).
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].  -->
@@ -239,7 +254,7 @@ The model and task scale are found to be important for instruction-based fine-tu
     
 11. **The Power of Scale for Parameter-Efficient Prompt Tuning.** *Brian Lester, Rami Al-Rfou, and Noah Constant.* <ins>EMNLP</ins> 2021. [[pdf](https://aclanthology.org/2021.emnlp-main.243.pdf)]; [[code](https://github.com/google-research/prompt-tuning)]. 
 
-### 3.2 Explanability
+### 4.2 Explanability
 
 We exhibit works that focus on the interpretability and reliability of instruction learning, i.e., explaining when and why instruction can take effect.
 
@@ -263,7 +278,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
    
 9.  **Calibrate Before Use: Improving Few-shot Performance of Language Models.** *Zihao Zhao, Eric Wallace, Shi Feng, Dan Klein, and Sameer Singh.* <ins>ICML</ins> 2021. [[pdf](https://arxiv.org/pdf/2102.09690.pdf)]; [[code](https://github.com/tonyzhaozh/few-shot-learning)].
 
-### 3.3 Robustness
+### 4.3 Robustness
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
    
@@ -273,7 +288,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 3. **Learning from Task Descriptions.** *Orion Weller, Nicholas Lourie, Matt Gardner, and Matthew E. Peters.* <ins>EMNLP</ins> 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.105.pdf)]; [[code](https://github.com/allenai/zest)]; [[corpus](https://allenai.org/data/zest)]. 
 
-### 3.4 Negation
+### 4.4 Negation
 
 Negation expressions, such as `do not` and `avoid doing`, are difficult for models to corretly understand and follow.
 
@@ -282,7 +297,7 @@ Negation expressions, such as `do not` and `avoid doing`, are difficult for mode
 2. **Understanding by Understanding Not: Modeling Negation in Language Models.** *Arian Hosseini, Siva Reddy, Dzmitry Bahdanau, and et al.* <ins>NAACL</ins> 2021. [[pdf](https://aclanthology.org/2021.naacl-main.102.pdf)]; [[code](https://github.com/arianhosseini/negation-learning)]. 
 
 
-### 3.5 Other Papers
+### 4.5 Other Papers
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
    
@@ -294,9 +309,9 @@ Negation expressions, such as `do not` and `avoid doing`, are difficult for mode
 
 
 
-## 4. 🤖 Applications
+## 5. 🤖 Applications
 
-### 4.1 Human-Computer Interaction
+### 5.1 Human-Computer Interaction
 
 Instructions are used in various human-computer interaction (HCI) tasks, such as virtual assistants, chatbots, etc. 
 
@@ -356,7 +371,7 @@ Instructions are used in various human-computer interaction (HCI) tasks, such as
 27. **Guiding a Reinforcement Learner with Natural Language Advice: Initial Results in RoboCup Soccer.** *Gregory Kuhlmann, Peter Stone, Raymond Mooney, and Jude Shavlik.* <ins>AAAI Workshop</ins> 2004. [[pdf](https://ftp.cs.wisc.edu/machine-learning/shavlik-group/kuhlmann-aaai04.pdf)]; [[website](http://www.cs.utexas.edu/AustinVilla/sim/keepaway/)]. 
 
 
-### 4.2 Data and Feature Augmentation
+### 5.2 Data and Feature Augmentation
 
 Some instructions (e.g., label explanations) are also be used for automatic annotation (i.e., data augmentation), or for enriching feature.
 
@@ -374,7 +389,7 @@ Some instructions (e.g., label explanations) are also be used for automatic anno
    
 7. **Joint Concept Learning and Semantic Parsing from Natural Language Explanations.** *Shashank Srivastava, Igor Labutov, and Tom Mitchell.* <ins>EMNLP</ins> 2017. [[pdf](https://aclanthology.org/D17-1161.pdf)]. 
 
-### 4.3 General-purpose Language Models
+### 5.3 General-purpose Language Models
 
 General-purpose language models are also one of the most attractive applications of instruction learning, e.g., [ChatGPT](https://chat.openai.com/chat), which can align nicely with human values.
 
@@ -388,7 +403,7 @@ General-purpose language models are also one of the most attractive applications
 4. **Training language models to follow instructions with human feedback.** *Long Ouyang, Jeffrey Wu, Xu Jiang, and et al.* <ins>NeurIPS</ins> 2022. [[pdf](https://openreview.net/pdf?id=TG8KACxEON)]. 
 
 
-### 4.4 Other Papers
+### 5.4 Other Papers
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
 1. **GPTScore: Evaluate as You Desire.** *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, and Pengfei Liu.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.04166.pdf)]; [[code](https://github.com/jinlanfu/GPTScore)]. 
@@ -408,7 +423,7 @@ General-purpose language models are also one of the most attractive applications
 8. **In-BoXBART: Get Instructions into Biomedical Multi-Task Learning .** *Mihir Parmar, Swaroop Mishra, Mirali Purohit, Man Luo, M. Hassan Murad, and Chitta Baral.* <ins>Findings of NAACL</ins> 2022. [[pdf](https://arxiv.org/pdf/2204.07600.pdf)]; [[code](https://github.com/Mihir3009/In-BoXBART)].
 
 
-## 5. 📚 Corpora
+## 6. 📚 Corpora
 
 Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list current awesome instruction learning corpora in the following table.
 
@@ -553,12 +568,12 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
    
 5. **PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts.** *Stephen Bach, Victor Sanh, Zheng Xin Yong, and et al.* <ins>ACL</ins> 2022. [[pdf](https://aclanthology.org/2022.acl-demo.9.pdf)]; [[toolkit](https://github.com/bigscience-workshop/promptsource)]; [[corpus](https://huggingface.co/datasets/bigscience/P3)]. -->
 
-## 6. 📖 Extended Reading
+## 7. 📖 Extended Reading
 
 
 We also share some other awesome papers that might inspire the future work.
 
-### 6.1 Instruction Induction
+### 7.1 Instruction Induction
 
    
 1. **Guess the Instruction! Flipped Learning Makes Language Models Stronger Zero-Shot Learners.** *Seonghyeon Ye, Doyoung Kim, Joel Jang, Joongbo Shin, and Minjoon Seo.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.02969.pdf)]; [[code](https://github.com/seonghyeonye/Flipped-Learning)]. 
@@ -570,7 +585,7 @@ We also share some other awesome papers that might inspire the future work.
 4. **Analogous Process Structure Induction for Sub-event Sequence Prediction.** *Hongming Zhang, Muhao Chen, Haoyu Wang, Yangqiu Song, and Dan Roth.* <ins>EMNLP</ins> 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.119.pdf)]; [[code](https://cogcomp.github.io/APSI/)]. 
 
 
-### 6.2 Human Feedback vs. Model Feedback
+### 7.2 Human Feedback vs. Model Feedback
 
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
@@ -584,7 +599,7 @@ We also share some other awesome papers that might inspire the future work.
 4. **Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.** *Yuntao Bai, Andy Jones, Kamal Ndousse, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2204.05862.pdf)]; [[corpus](https://github.com/anthropics/hh-rlhf)]. 
 
 
-### 6.3 ChatGPT-related Papers
+### 7.3 ChatGPT-related Papers
 
 1. **Is ChatGPT a General-Purpose Natural Language Processing Task Solver?** *Chengwei Qin, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, and Diyi Yang.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.06476.pdf)].
    
@@ -595,7 +610,7 @@ We also share some other awesome papers that might inspire the future work.
 4. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.** *Jindong Wang, Xixu Hu, Wenxin Hou, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.12095.pdf)]; [[code](https://github.com/microsoft/robustlearn)]. 
 
 
-### 6.4 Scalable Oversight and Alignment
+### 7.4 Scalable Oversight and Alignment
 
 
 1. **Measuring Progress on Scalable Oversight for Large Language Models.** *Samuel R. Bowman, Jeeyoon Hyun, Ethan Perez, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2211.03540.pdf)].
@@ -603,7 +618,7 @@ We also share some other awesome papers that might inspire the future work.
 2. **Aligning AI With Shared Human Values.** *Dan Hendrycks, Collin Burns, Steven Basart, Andrew Critch, Jerry Li, Dawn Song, and Jacob Steinhardt.* <ins>ICLR</ins> 2021. [[pdf](https://openreview.net/pdf?id=dNy_RKzJacY)].
 
 
-### 6.5 Other Papers
+### 7.5 Other Papers
 
 
 1. **Navigating the Grey Area: Expressions of Overconfidence and Uncertainty in Language Models.** *Kaitlyn Zhou, Dan Jurafsky, and Tatsunori Hashimoto.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.13439.pdf)].
