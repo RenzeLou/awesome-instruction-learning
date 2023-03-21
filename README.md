@@ -117,7 +117,7 @@ Please consider citing our paper (**we are still working on it, the first readab
 Why instruction learning instead of supervised learning?
 
 
-- 👉 **Easy to collect.**  For supervised learning, each task requires extensive label examples 💰. While for instruction learning, each task requires only one instruction and just a few examples 🤩.
+- 👉 **Affordable.**  For supervised learning, each task requires extensive label examples 💰. While for instruction learning, each task requires only one instruction and just a few examples 🤩.
 - 👉 **One model, all tasks.** An ideal AI system should be able to quickly understand and handle various new tasks 💫.
 - 👉 **A promising research direction.** Traditional supervised learning uses labeled instances to represent the task semantics, i.e., training models by observing numerous examples to recover the original task meaning. Therefore, **why not directly use the task instruction**, **which has already occupied the essential task semantics**?
 
