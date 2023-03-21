@@ -50,15 +50,15 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 <!-- omit in toc -->
 ## Citation
 
-Find this repository helpful? 😊 
+Find this repository helpful😊?  
 
-Please consider citing our paper (we are still working on it) 👇👇👇:
+Please consider citing our paper (**we are still working on it, the first readable version will arrive this month**) 👇👇👇:
 
 ```
 @article{lou2023instruction,
   title={Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning},
   author={Lou, Renze and Zhang, Kai and Yin, Wenpeng},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2303.10475},
   year={2023}
 }
 ```
