@@ -98,7 +98,7 @@ Please consider citing our paper (we are still working on it) 👇👇👇:
 ## 1. 💁🏽‍♀️ Introduction
 
 <div align="center">
-<img src=./resources/introduction.png width=90% title="Instruction Learning vs. Full Supervised Learning"/>
+<img src=./resources/introduction.png width=85% title="Instruction Learning vs. Full Supervised Learning" />
 </div>
 
 <!-- <center>
