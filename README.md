@@ -97,7 +97,10 @@ Please consider citing our paper (we are still working on it) 👇👇👇:
 
 ## 1. 💁🏽‍♀️ Introduction
 
-![introduction](./resources/introduction.png)
+<div align="center">
+<img src=./resources/introduction.png width=90% />
+</div>
+
 
 Why instruction learning instead of supervised learning?
 
