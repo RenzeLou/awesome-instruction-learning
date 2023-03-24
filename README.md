@@ -409,13 +409,15 @@ Some instructions (e.g., label explanations) are also be used for automatic anno
 General-purpose language models are also one of the most attractive applications of instruction learning, e.g., [ChatGPT](https://chat.openai.com/chat), which can align nicely with human values.
 
 
-1. **GPT-4 Technical Report.** *OpenAI.* <ins>Preprint</ins> 2023. [[pdf](https://cdn.openai.com/papers/gpt-4.pdf)]; [[blog](https://openai.com/research/gpt-4)].  
+1. **Sparks of Artificial General Intelligence: Early experiments with GPT-4.** *Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2303.12712.pdf)]. 
    
-2. **The Wisdom of Hindsight Makes Language Models Better Instruction Followers.** *Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, and Joseph E. Gonzalez.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.05206.pdf)]; [[code](https://github.com/tianjunz/HIR)].
+2. **GPT-4 Technical Report.** *OpenAI.* <ins>Preprint</ins> 2023. [[pdf](https://cdn.openai.com/papers/gpt-4.pdf)]; [[blog](https://openai.com/research/gpt-4)].  
+   
+3. **The Wisdom of Hindsight Makes Language Models Better Instruction Followers.** *Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, and Joseph E. Gonzalez.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.05206.pdf)]; [[code](https://github.com/tianjunz/HIR)].
     
-3. **Adding Instructions during Pretraining: Effective Way of Controlling Toxicity in Language Models.** *Shrimai Prabhumoye, Mostofa Patwary, Mohammad Shoeybi, and Bryan Catanzaro.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.07388.pdf)]. 
+4. **Adding Instructions during Pretraining: Effective Way of Controlling Toxicity in Language Models.** *Shrimai Prabhumoye, Mostofa Patwary, Mohammad Shoeybi, and Bryan Catanzaro.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.07388.pdf)]. 
    
-4. **Training language models to follow instructions with human feedback.** *Long Ouyang, Jeffrey Wu, Xu Jiang, and et al.* <ins>NeurIPS</ins> 2022. [[pdf](https://openreview.net/pdf?id=TG8KACxEON)]. 
+5. **Training language models to follow instructions with human feedback.** *Long Ouyang, Jeffrey Wu, Xu Jiang, and et al.* <ins>NeurIPS</ins> 2022. [[pdf](https://openreview.net/pdf?id=TG8KACxEON)]. 
 
 
 ### 5.4 Other Papers
