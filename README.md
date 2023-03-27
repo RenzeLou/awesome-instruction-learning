@@ -135,7 +135,7 @@ Why instruction learning instead of supervised learning?
 
 We use the label ![](https://img.shields.io/badge/comprehensive-FFA07A) to denote the papers with a more comprehensive perspective. While some other papers are more specific to a certain in-context instruction, including ![](https://img.shields.io/badge/prompt-90EE90), few-shot ![](https://img.shields.io/badge/demonstrations-FFB6C1), and CoT ![](https://img.shields.io/badge/reasoning-9cf).
 
-1. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.** *Renze Lou, Kai Zhang, and Wenpeng Yin.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2303.10475.pdf)]; [[paper list](https://github.com/RenzeLou/awesome-instruction-learning)]. ![](https://img.shields.io/badge/comprehensive-FFA07A)
+1. **Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning.** *Renze Lou, Kai Zhang, and Wenpeng Yin.* <ins>Preprint</ins> 2023. [[paper list](https://github.com/RenzeLou/awesome-instruction-learning)]. ![](https://img.shields.io/badge/comprehensive-FFA07A)
    
 2. **Learning from Task Instructions.** *Wenpeng Yin, Qinyuan Ye, Pengfei Liu, Xiang Ren, Hinrich Schütze.* <ins>EMNLP Tutorial</ins> 2023. ![](https://img.shields.io/badge/comprehensive-FFA07A)
 
