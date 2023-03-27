@@ -52,7 +52,9 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 
 Find this repository helpful😊?  
 
-Please consider citing our paper (**we are still working on it, the first readable version will arrive this month**) 👇👇👇:
+Please consider citing our paper 👇👇👇:
+
+*(**Note that this is only a draft, and we are still working on it.** The first readable version is arriving soon.)*
 
 ```
 @article{lou2023instruction,
