@@ -89,8 +89,8 @@ Please consider citing our paper. 👇👇👇
 - [6. 📚 Corpora](#6--corpora)
 - [7. 📖 Extended Reading](#7--extended-reading)
   - [7.1 Instruction Induction](#71-instruction-induction)
-  - [7.2 Human Feedback vs. Model Feedback](#72-human-feedback-vs-model-feedback)
-  - [7.3 ChatGPT-related Papers](#73-chatgpt-related-papers)
+  - [7.2 ChatGPT-related Papers](#72-chatgpt-related-papers)
+  - [7.3 Human Feedback vs. Model Feedback](#73-human-feedback-vs-model-feedback)
   - [7.4 Scalable Oversight and Alignment](#74-scalable-oversight-and-alignment)
   - [7.5 Other Papers](#75-other-papers)
 
@@ -608,21 +608,7 @@ We also share some other awesome papers that might inspire the future work.
 4. **Analogous Process Structure Induction for Sub-event Sequence Prediction.** *Hongming Zhang, Muhao Chen, Haoyu Wang, Yangqiu Song, and Dan Roth.* <ins>EMNLP</ins> 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.119.pdf)]; [[code](https://cogcomp.github.io/APSI/)]. 
 
 
-### 7.2 Human Feedback vs. Model Feedback
-
-
-<!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
-   
-1. **Chain of Hindsight Aligns Language Models with Feedback.** *Hao Liu, Carmelo Sferrazza, and Pieter Abbeel.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.02676.pdf)]; [[code](https://github.com/lhao499/CoH)]. 
-   
-2. **Pretraining Language Models with Human Preferences.** *Tomasz Korbak, Kejian Shi, Angelica Chen, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.08582.pdf)].
-   
-3. **Constitutional AI: Harmlessness from AI Feedback.** *Yuntao Bai, Saurav Kadavath, Sandipan Kundu, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.08073.pdf)]; [[corpus](https://github.com/anthropics/ConstitutionalHarmlessnessPaper)].
-   
-4. **Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.** *Yuntao Bai, Andy Jones, Kamal Ndousse, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2204.05862.pdf)]; [[corpus](https://github.com/anthropics/hh-rlhf)]. 
-
-
-### 7.3 ChatGPT-related Papers
+### 7.2 ChatGPT-related Papers
 
 <!-- **ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks.** *Fabrizio Gilardi, Meysam Alizadeh, and Maël Kubli.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2303.15056.pdf)]; [[other resources](link)]. -->
 
@@ -635,6 +621,20 @@ Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no of
 3. **ChatGPT: Jack of all trades, master of none.** *Jan Kocoń, Igor Cichecki, Oliwier Kaszyca, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.10724.pdf)].
    
 4. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.** *Jindong Wang, Xixu Hu, Wenxin Hou, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.12095.pdf)]; [[code](https://github.com/microsoft/robustlearn)]. 
+
+
+### 7.3 Human Feedback vs. Model Feedback
+
+
+<!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
+   
+1. **Chain of Hindsight Aligns Language Models with Feedback.** *Hao Liu, Carmelo Sferrazza, and Pieter Abbeel.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.02676.pdf)]; [[code](https://github.com/lhao499/CoH)]. 
+   
+2. **Pretraining Language Models with Human Preferences.** *Tomasz Korbak, Kejian Shi, Angelica Chen, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.08582.pdf)].
+   
+3. **Constitutional AI: Harmlessness from AI Feedback.** *Yuntao Bai, Saurav Kadavath, Sandipan Kundu, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.08073.pdf)]; [[corpus](https://github.com/anthropics/ConstitutionalHarmlessnessPaper)].
+   
+4. **Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.** *Yuntao Bai, Andy Jones, Kamal Ndousse, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2204.05862.pdf)]; [[corpus](https://github.com/anthropics/hh-rlhf)]. 
 
 
 ### 7.4 Scalable Oversight and Alignment
