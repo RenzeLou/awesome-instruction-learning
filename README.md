@@ -50,11 +50,11 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 <!-- omit in toc -->
 ## Citation
 
-Find this repository helpful😊?  
+Find this repository helpful? 😊  
 
-Please consider citing our paper 👇👇👇:
+Please consider citing our paper. 👇👇👇
 
-*(**Note that this is only a draft, and we are still working on it.** The first readable version is arriving soon.)*
+*(**Note that the current version of our survey is only a draft, and we are still working on it.** The first readable version is arriving soon.)* 🚀
 
 ```
 @article{lou2023instruction,
@@ -279,7 +279,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
    
 1. **The Learnability of In-Context Learning.** *Noam Wies, Yoav Levine, and Amnon Shashua.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2303.07895.pdf)].
    
-2. **Larger language models do in-context learning differently.** *Jerry Wei, Jason Wei, Yi Tay, Dustin Tran, Albert Webson, Yifeng Lu, Xinyun Chen, Hanxiao Liu, Da Huang, Denny Zhou, and Tengyu Ma.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2303.03846.pdf)].
+2. **Larger language models do in-context learning differently.** *Jerry Wei, Jason Wei, Yi Tay, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2303.03846.pdf)].
    
 3. **Can language models learn from explanations in context?** *Andrew K. Lampinen, Ishita Dasgupta, Stephanie C. Y. Chan, and et al.* <ins>Findings of EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2204.02329.pdf)]. 
    
@@ -341,7 +341,7 @@ Instructions are used in various human-computer interaction (HCI) tasks, such as
    
 3. **EditEval: An Instruction-Based Benchmark for Text Improvements.** *Jane Dwivedi-Yu, Timo Schick, Zhengbao Jiang, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2209.13331.pdf)]; [[code](https://github.com/facebookresearch/EditEval)]; [[website](https://eval.ai/web/challenges/challenge-page/1866/overview)].
    
-4. **Communicating Natural Programs to Humans and Machines.** *Sam Acquaviva, Yewen Pu, Marta Kryven, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2022. [[pdf](https://openreview.net/pdf?id=OxFoLTKDcNm)]; [[code](https://github.com/samacqua/LARC)]. 
+4. **Communicating Natural Programs to Humans and Machines.** *Sam Acquaviva, Yewen Pu, Marta Kryven, and et al.* <ins>NeurIPS Workshop</ins> 2022. [[pdf](https://openreview.net/pdf?id=OxFoLTKDcNm)]; [[code](https://github.com/samacqua/LARC)]. 
    
 5. **Interactive Task Learning from GUI-Grounded Natural Language Instructions and Demonstrations.** *Toby Jia-Jun Li, Tom Mitchell, and Brad Myers.* <ins>ACL Demo</ins> 2020. [[pdf](https://aclanthology.org/2020.acl-demos.25.pdf)]; [[code](https://github.com/tobyli/Sugilite_development)]; [[video](https://www.youtube.com/watch?v=tdHEk-GeaqE)].
    
