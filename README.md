@@ -624,6 +624,10 @@ We also share some other awesome papers that might inspire the future work.
 
 ### 7.3 ChatGPT-related Papers
 
+<!-- **ChatGPT Outperforms Crowd-Workers for Text-Annotation Tasks.** *Fabrizio Gilardi, Meysam Alizadeh, and Maël Kubli.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2303.15056.pdf)]; [[other resources](link)]. -->
+
+Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no official paper for ChatGPT, we share some frontier works that can provide deep insights into ChatGPT.
+   
 1. **Is ChatGPT a General-Purpose Natural Language Processing Task Solver?** *Chengwei Qin, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, and Diyi Yang.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.06476.pdf)].
    
 2. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.** *Biyang Guo, Xin Zhang, Ziyuan Wang, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2301.07597.pdf)]; [[corpus](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)]. 
