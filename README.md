@@ -221,7 +221,7 @@ PLM-oriented instruction (i.e., prompt) aims to construct a cloze-style input to
 
 ![Human-oriented Instruction](./resources/human_oriented.png)
 
-Human-oriented instruction is initially designed for human to understand the task and annotate the data, such as the [Amazon MTurk](https://www.mturk.com/) Instructions, which provides detailed information about the task (e.g., formal definition).
+Human-oriented instruction is initially designed for human to understand the task and annotate the data, such as the [Amazon MTurk](https://www.mturk.com/) Instructions, which provides sufficient information about the task (e.g., detailed definition).
    
 1. **In-Context Instruction Learning.** *Seonghyeon Ye, Hyeonbin Hwang, Sohee Yang, Hyeongu Yun, Yireun Kim, and Minjoon Seo.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.14691.pdf)]; [[code](https://github.com/seonghyeonye/ICIL)]. 
    
