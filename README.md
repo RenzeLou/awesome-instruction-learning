@@ -68,7 +68,8 @@ Please consider citing our paper. 👇👇👇
 
 > **Note**
 >
-> **The current version of our survey is only a draft, and we are still working on it.** The first readable version is arriving soon. 🚀🚀🚀
+> **The current version of our survey is only a draft, and we are still working on it.** 
+> The first readable version is arriving soon. 🚀🚀🚀
 
 <!-- TODO: add survey citation and link -->
 
