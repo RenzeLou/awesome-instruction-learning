@@ -1,12 +1,12 @@
 <!-- omit in toc -->
-# Awesome Textual Instruction Learning Papers
+# Awesome Instruction Learning Papers
 
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/RenzeLou/awesome-instruction-learning) ![](https://img.shields.io/github/stars/RenzeLou/awesome-instruction-learning?style=social)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/RenzeLou/awesome-instruction-learning) [![Stars](https://img.shields.io/github/stars/RenzeLou/awesome-instruction-learning?style=social)](https://github.com/RenzeLou/awesome-instruction-learning#-star-history)
 
-![](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A) ![](https://img.shields.io/badge/PaperNumber-145-blue) ![](https://img.shields.io/badge/PRs-Welcome-red) 
+[![Commit](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A)](https://github.com/RenzeLou/awesome-instruction-learning/commits/main) [![PaperNumber](https://img.shields.io/badge/PaperNumber-145-blue)](https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py) [![PullRequests](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/RenzeLou/awesome-instruction-learning/pulls) 
 
-A curated list of awesome **Instruction Learning** papers 🔥🔥🔥. 
+A curated list of awesome **Textual Instruction Learning** papers 🔥🔥🔥. 
 
 Currently maintained by <ins>[Renze Lou](https://renzelou.github.io/) @ PennState</ins> and <ins>[Kai Zhang](https://drogozhang.github.io/) @ OhioState</ins>. 
 
@@ -32,7 +32,7 @@ We aim to stay up-to-date with the most innovative developments in the field and
 <!-- omit in toc -->
 ## How to contribute?
 
-If you have any suggestions or find any missed papers, feel free to reach out or submit a [pull request](https://github.com/RenzeLou/awesome-instruction-learning/pulls):
+If you have any suggestions or find any missed papers, feel free to [reach out](https://outlook.office.com/mail/deeplink/compose?mailtouri=mailto%3Amarionojump0722%40gmail.com) or submit a [pull request](https://github.com/RenzeLou/awesome-instruction-learning/pulls):
 
 1. Use following markdown format.
 
@@ -44,7 +44,7 @@ If you have any suggestions or find any missed papers, feel free to reach out or
 
 2. If one preprint paper has multiple versions, please use **the earliest submitted year**.
    
-3. Display the papers in a **year descending order** (the latest, the first).
+3. Display the papers in **a year descending order** (the latest, the first).
 
 
 <!-- omit in toc -->
@@ -69,9 +69,12 @@ Please consider citing our paper. 👇👇👇
 > **Note**
 >
 > **The current version of our survey is only a draft, and we are still working on it.** 
+> 
 > The first readable version is arriving soon. 🚀🚀🚀
 
 <!-- TODO: add survey citation and link -->
+
+---
 
 <!-- omit in toc -->
 ## 🔍 Table of Contents 
