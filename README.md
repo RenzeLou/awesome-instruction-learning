@@ -587,6 +587,22 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 83.3984px; text-align: right;">18,000</td>
 <td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/multilingual-red" alt="" /></td>
 </tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://crfm.stanford.edu/2023/03/13/alpaca.html">Alpaca</a></td>
+<td style="height: 18px; width: 64.3125px; text-align: right;"><span style="text-decoration: underline;">03/2023</span></td>
+<td style="height: 18px; width: 85.5938px; text-align: center;"><a href="/https://github.com/tatsu-lab/stanford_alpaca">Link</a></td>
+<td style="height: 18px; width: 79.375px; text-align: right;">/</td>
+<td style="height: 18px; width: 83.3984px; text-align: right;">52</td>
+<td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://arxiv.org/pdf/2304.03277.pdf">Alpaca-gpt4</a></td>
+<td style="height: 18px; width: 64.3125px; text-align: right;"><span style="text-decoration: underline;">04/2023</span></td>
+<td style="height: 18px; width: 85.5938px; text-align: center;"><a href="https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM">Link</a></td>
+<td style="height: 18px; width: 79.375px; text-align: right;">/</td>
+<td style="height: 18px; width: 83.3984px; text-align: right;">113</td>
+<td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/bilingual-yellow" alt="" /></td>
+</tr>
 </tbody>
 </table>
 
