@@ -4,7 +4,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/RenzeLou/awesome-instruction-learning) [![Stars](https://img.shields.io/github/stars/RenzeLou/awesome-instruction-learning?style=social)](https://github.com/RenzeLou/awesome-instruction-learning#-star-history)
 
-[![Commit](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A)](https://github.com/RenzeLou/awesome-instruction-learning/commits/main) [![PaperNumber](https://img.shields.io/badge/PaperNumber-146-blue)](https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py) [![PullRequests](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/RenzeLou/awesome-instruction-learning/pulls) 
+[![Commit](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A)](https://github.com/RenzeLou/awesome-instruction-learning/commits/main) [![PaperNumber](https://img.shields.io/badge/PaperNumber-148-blue)](https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py) [![PullRequests](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/RenzeLou/awesome-instruction-learning/pulls) 
 
 A curated list of awesome **Textual Instruction Learning** papers 🔥🔥🔥. 
 
@@ -590,7 +590,7 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <tr style="height: 18px;">
 <td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://crfm.stanford.edu/2023/03/13/alpaca.html">Alpaca</a></td>
 <td style="height: 18px; width: 64.3125px; text-align: right;"><span style="text-decoration: underline;">03/2023</span></td>
-<td style="height: 18px; width: 85.5938px; text-align: center;"><a href="/https://github.com/tatsu-lab/stanford_alpaca">Link</a></td>
+<td style="height: 18px; width: 85.5938px; text-align: center;"><a href="https://github.com/tatsu-lab/stanford_alpaca">Link</a></td>
 <td style="height: 18px; width: 79.375px; text-align: right;">/</td>
 <td style="height: 18px; width: 83.3984px; text-align: right;">52</td>
 <td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
@@ -606,9 +606,14 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 </tbody>
 </table>
 
+<!-- Some Notes for the alpaca:
+1. The stanford-alpaca paper is not yet published. It is mainly based on the data generation pipline of Self-Instruct, where the main difference is the author uses InstructGPT-3.5 (text-davinci-003) to replace the GPT-3 (davinci). Besides, they also change the prompt, decoding strategy, and remove the cls tasks discrimination.
+2. Alpaca-gpt4 is based on alpaca, the 52k english instructions (w/ optional inputs) are directly collected from alpaca. The main differences are: (a) using ChatGPT to translate 52k English instructions to parallel Chinese instructions (w/ optional inputs); (b) using GPT-4 to replace GPT-3.5 to annotate the outputs of these bilingual instructions; (c) additionally adopting the data generation pipline of Unnatural Instructions with GPT-4 as the annotation model.
+ -->
 
-<!-- 1. **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].
-   
+
+<!-- Since I have already displayed the following data-related papers in the table above, I will not list them explicitly here.
+
 1. **Self-Instruct: Aligning Language Model with Self Generated Instructions.** *Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, and Hannaneh Hajishirzi.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.10560.pdf)]; [[corpus](https://github.com/yizhongw/self-instruct)].
    
 2. **Unnatural Instructions: Tuning Language Models with (Almost) No Human Labor.** *Or Honovich, Thomas Scialom, Omer Levy, and Timo Schick.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.09689.pdf)]; [[corpus](https://github.com/orhonovich/unnatural-instructions)]. 
