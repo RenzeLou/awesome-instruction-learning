@@ -287,29 +287,31 @@ The model and task scale are found to be important for instruction-based fine-tu
 
 ### 4.2 Explanability
 
-We exhibit works that focus on the interpretability and reliability of instruction learning, i.e., explaining when and why instruction can take effect.
+We exhibit works that focus on the interpretability and reliability of instruction learning, i.e., explaining *when* and *why* instruction can take effect.
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
    
 1. **The Learnability of In-Context Learning.** *Noam Wies, Yoav Levine, and Amnon Shashua.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2303.07895.pdf)].
    
-2. **Larger language models do in-context learning differently.** *Jerry Wei, Jason Wei, Yi Tay, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2303.03846.pdf)].
+2. **Why think step-by-step? Reasoning emerges from the locality of experience.** *Ben Prystawski, and Noah D. Goodman.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2304.03843.pdf)].
    
-3. **Can language models learn from explanations in context?** *Andrew K. Lampinen, Ishita Dasgupta, Stephanie C. Y. Chan, and et al.* <ins>Findings of EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2204.02329.pdf)]. 
+3. **Larger language models do in-context learning differently.** *Jerry Wei, Jason Wei, Yi Tay, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2303.03846.pdf)].
    
-4. **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?** *Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, and Luke Zettlemoyer.* <ins>EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2202.12837.pdf)]; [[code](https://github.com/Alrope123/rethinking-demonstrations)]. 
+4. **Can language models learn from explanations in context?** *Andrew K. Lampinen, Ishita Dasgupta, Stephanie C. Y. Chan, and et al.* <ins>Findings of EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2204.02329.pdf)]. 
    
-5. **Prompt Waywardness: The Curious Case of Discretized Interpretation of Continuous Prompts.** *Daniel Khashabi, Xinxi Lyu, Sewon Min, and et al.* <ins>NAACL</ins> 2022. [[pdf](https://aclanthology.org/2022.naacl-main.266.pdf)]; [[code](https://github.com/Alrope123/prompt-waywardness)]. 
+5. **Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?** *Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi, and Luke Zettlemoyer.* <ins>EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2202.12837.pdf)]; [[code](https://github.com/Alrope123/rethinking-demonstrations)]. 
    
-6. **Do Prompt-Based Models Really Understand the Meaning of Their Prompts?.** *Albert Webson and Ellie Pavlick.* <ins>NAACL</ins> 2022. [[pdf](https://aclanthology.org/2022.naacl-main.167.pdf)]; [[code](https://github.com/awebson/prompt_semantics)].
+6. **Prompt Waywardness: The Curious Case of Discretized Interpretation of Continuous Prompts.** *Daniel Khashabi, Xinxi Lyu, Sewon Min, and et al.* <ins>NAACL</ins> 2022. [[pdf](https://aclanthology.org/2022.naacl-main.266.pdf)]; [[code](https://github.com/Alrope123/prompt-waywardness)]. 
    
-7. **Reframing Instructional Prompts to GPTk’s Language.** *Swaroop Mishra, Daniel Khashabi, Chitta Baral, Yejin Choi, and Hannaneh Hajishirzi.* <ins>Findings of ACL</ins> 2022. [[pdf](https://aclanthology.org/2022.findings-acl.50.pdf)]; [[code](https://github.com/allenai/reframing/)]. 
+7. **Do Prompt-Based Models Really Understand the Meaning of Their Prompts?.** *Albert Webson and Ellie Pavlick.* <ins>NAACL</ins> 2022. [[pdf](https://aclanthology.org/2022.naacl-main.167.pdf)]; [[code](https://github.com/awebson/prompt_semantics)].
    
-8. **What Makes Good In-Context Examples for GPT-3?** *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin, and Weizhu Chen.* <ins>ACL Workshop</ins> 2022. [[pdf](https://aclanthology.org/2022.deelio-1.10.pdf)]; [[code](https://github.com/jiachangliu/KATEGPT3)]. 
+8. **Reframing Instructional Prompts to GPTk’s Language.** *Swaroop Mishra, Daniel Khashabi, Chitta Baral, Yejin Choi, and Hannaneh Hajishirzi.* <ins>Findings of ACL</ins> 2022. [[pdf](https://aclanthology.org/2022.findings-acl.50.pdf)]; [[code](https://github.com/allenai/reframing/)]. 
    
-9.  **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity.** *Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, and Pontus Stenetorp.* <ins>ACL</ins> 2022. [[pdf](https://aclanthology.org/2022.acl-long.556.pdf)].
+9.  **What Makes Good In-Context Examples for GPT-3?** *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin, and Weizhu Chen.* <ins>ACL Workshop</ins> 2022. [[pdf](https://aclanthology.org/2022.deelio-1.10.pdf)]; [[code](https://github.com/jiachangliu/KATEGPT3)]. 
    
-10. **Calibrate Before Use: Improving Few-shot Performance of Language Models.** *Zihao Zhao, Eric Wallace, Shi Feng, Dan Klein, and Sameer Singh.* <ins>ICML</ins> 2021. [[pdf](https://arxiv.org/pdf/2102.09690.pdf)]; [[code](https://github.com/tonyzhaozh/few-shot-learning)].
+10. **Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity.** *Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, and Pontus Stenetorp.* <ins>ACL</ins> 2022. [[pdf](https://aclanthology.org/2022.acl-long.556.pdf)].
+   
+11. **Calibrate Before Use: Improving Few-shot Performance of Language Models.** *Zihao Zhao, Eric Wallace, Shi Feng, Dan Klein, and Sameer Singh.* <ins>ICML</ins> 2021. [[pdf](https://arxiv.org/pdf/2102.09690.pdf)]; [[code](https://github.com/tonyzhaozh/few-shot-learning)].
 
 ### 4.3 Robustness
 
