@@ -4,7 +4,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/RenzeLou/awesome-instruction-learning) [![Stars](https://img.shields.io/github/stars/RenzeLou/awesome-instruction-learning?style=social)](https://github.com/RenzeLou/awesome-instruction-learning#-star-history)
 
-[![Commit](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A)](https://github.com/RenzeLou/awesome-instruction-learning/commits/main) [![PaperNumber](https://img.shields.io/badge/PaperNumber-149-blue)](https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py) [![PullRequests](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/RenzeLou/awesome-instruction-learning/pulls) 
+[![Commit](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A)](https://github.com/RenzeLou/awesome-instruction-learning/commits/main) [![PaperNumber](https://img.shields.io/badge/PaperNumber-152-blue)](https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py) [![PullRequests](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/RenzeLou/awesome-instruction-learning/pulls) 
 
 A curated list of awesome **Textual Instruction Learning** papers 🔥🔥🔥. 
 
@@ -606,6 +606,14 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 79.375px; text-align: right;">/</td>
 <td style="height: 18px; width: 83.3984px; text-align: right;">113</td>
 <td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/bilingual-yellow" alt="" /></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px; width: 144.68px; text-align: left;"><a href="https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm">Dolly</a></td>
+<td style="height: 18px; width: 64.3125px; text-align: right;"><span style="text-decoration: underline;">04/2023</span></td>
+<td style="height: 18px; width: 85.5938px; text-align: center;"><a href="https://github.com/databrickslabs/dolly/tree/master/data">Link</a></td>
+<td style="height: 18px; width: 79.375px; text-align: right;">/</td>
+<td style="height: 18px; width: 83.3984px; text-align: right;">15</td>
+<td style="height: 18px; width: 131.641px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
 </tr>
 </tbody>
 </table>
