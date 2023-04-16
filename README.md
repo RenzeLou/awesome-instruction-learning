@@ -657,7 +657,7 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 </td>
 </tr>
 <tr style="height: 18px;">
-<td style="height: 18px; width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2304.03277.pdf">Instruct-gpt4</a></td>
+<td style="height: 18px; width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2304.03277.pdf">Alpaca-gpt4</a></td>
 <td style="height: 18px; width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">04/2023</span></td>
 <td style="height: 18px; width: 85.1875px; text-align: center;"><a href="https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM">Link</a></td>
 <td style="height: 18px; width: 60.7969px; text-align: right;">/</td>
