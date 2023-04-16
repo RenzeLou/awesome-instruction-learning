@@ -4,7 +4,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/RenzeLou/awesome-instruction-learning) [![Stars](https://img.shields.io/github/stars/RenzeLou/awesome-instruction-learning?style=social)](https://github.com/RenzeLou/awesome-instruction-learning#-star-history)
 
-[![Commit](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A)](https://github.com/RenzeLou/awesome-instruction-learning/commits/main) [![PaperNumber](https://img.shields.io/badge/PaperNumber-152-blue)](https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py) [![PullRequests](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/RenzeLou/awesome-instruction-learning/pulls) 
+[![Commit](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A)](https://github.com/RenzeLou/awesome-instruction-learning/commits/main) [![PaperNumber](https://img.shields.io/badge/PaperNumber-153-blue)](https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py) [![PullRequests](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/RenzeLou/awesome-instruction-learning/pulls) 
 
 A curated list of awesome **Textual Instruction Learning** papers 🔥🔥🔥. 
 
@@ -695,15 +695,17 @@ We also share some other awesome papers that might inspire the future work.
 
 Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no official paper for ChatGPT, we share some frontier works that can provide deep insights into ChatGPT.
    
-1. **Toxicity in ChatGPT: Analyzing Persona-assigned Language Models.** *Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, and Karthik Narasimhan.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2304.05335.pdf)].
+1. **When do you need Chain-of-Thought Prompting for ChatGPT?** *Jiuhai Chen, Lichang Chen, Heng Huang, and Tianyi Zhou.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2304.03262.pdf)].
    
-2. **Is ChatGPT a General-Purpose Natural Language Processing Task Solver?** *Chengwei Qin, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, and Diyi Yang.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.06476.pdf)].
+2. **Toxicity in ChatGPT: Analyzing Persona-assigned Language Models.** *Ameet Deshpande, Vishvak Murahari, Tanmay Rajpurohit, Ashwin Kalyan, and Karthik Narasimhan.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2304.05335.pdf)].
    
-3. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.** *Biyang Guo, Xin Zhang, Ziyuan Wang, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2301.07597.pdf)]; [[corpus](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)]. 
+3. **Is ChatGPT a General-Purpose Natural Language Processing Task Solver?** *Chengwei Qin, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, and Diyi Yang.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.06476.pdf)].
    
-4. **ChatGPT: Jack of all trades, master of none.** *Jan Kocoń, Igor Cichecki, Oliwier Kaszyca, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.10724.pdf)].
+4. **How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection.** *Biyang Guo, Xin Zhang, Ziyuan Wang, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2301.07597.pdf)]; [[corpus](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection)]. 
    
-5. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.** *Jindong Wang, Xixu Hu, Wenxin Hou, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.12095.pdf)]; [[code](https://github.com/microsoft/robustlearn)]. 
+5. **ChatGPT: Jack of all trades, master of none.** *Jan Kocoń, Igor Cichecki, Oliwier Kaszyca, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.10724.pdf)].
+   
+6. **On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.** *Jindong Wang, Xixu Hu, Wenxin Hou, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.12095.pdf)]; [[code](https://github.com/microsoft/robustlearn)]. 
 
 
 ### 7.3 Human Feedback vs. Model Feedback
