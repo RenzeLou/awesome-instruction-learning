@@ -485,8 +485,8 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 85.1875px; text-align: center;"><a href="https://github.com/allenai/unifiedqa">Link</a></td>
 <td style="height: 18px; width: 60.7969px; text-align: right;">46</td>
 <td style="height: 18px; width: 77.4922px; text-align: right;">750</td>
-<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
-<td style="width: 124.984px; text-align: center; height: 18px;">Human ✏️</td>
+<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></td>
+<td style="width: 124.984px; text-align: center; height: 18px;">✍&nbsp;Human</td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2104.08835.pdf">CrossFit</a></td>
@@ -494,8 +494,8 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 85.1875px; text-align: center;"><a href="https://github.com/INK-USC/CrossFit">Link</a></td>
 <td style="height: 18px; width: 60.7969px; text-align: right;">159</td>
 <td style="height: 18px; width: 77.4922px; text-align: right;">71,000</td>
-<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
-<td style="width: 124.984px; text-align: center; height: 18px;">Human ✏️</td>
+<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></td>
+<td style="width: 124.984px; text-align: center; height: 18px;">✍&nbsp;Human</td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2104.08773.pdf">Natural Inst. v1</a></td>
@@ -503,8 +503,8 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 85.1875px; text-align: center;"><a href="https://instructions.apps.allenai.org/">Link</a></td>
 <td style="height: 18px; width: 60.7969px; text-align: right;">61</td>
 <td style="height: 18px; width: 77.4922px; text-align: right;">620</td>
-<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
-<td style="width: 124.984px; text-align: center; height: 18px;">Human ✏️</td>
+<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></td>
+<td style="width: 124.984px; text-align: center; height: 18px;">✍&nbsp;Human</td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2109.01652.pdf">Flan 2021</a></td>
@@ -512,8 +512,8 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 85.1875px; text-align: center;"><a href="https://github.com/google-research/FLAN/tree/main#flan-2021">Link</a></td>
 <td style="height: 18px; width: 60.7969px; text-align: right;">62</td>
 <td style="height: 18px; width: 77.4922px; text-align: right;">4,400</td>
-<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
-<td style="width: 124.984px; text-align: center; height: 18px;">Human ✏️</td>
+<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></td>
+<td style="width: 124.984px; text-align: center; height: 18px;">✍&nbsp;Human</td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2202.01279.pdf">P3</a></td>
@@ -521,8 +521,8 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 85.1875px; text-align: center;"><a href="https://github.com/bigscience-workshop/promptsource">Link</a></td>
 <td style="height: 18px; width: 60.7969px; text-align: right;">62</td>
 <td style="height: 18px; width: 77.4922px; text-align: right;">12,000</td>
-<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
-<td style="width: 124.984px; text-align: center; height: 18px;">Human ✏️</td>
+<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></td>
+<td style="width: 124.984px; text-align: center; height: 18px;">✍&nbsp;Human</td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2110.15943.pdf">MetaICL</a></td>
@@ -530,8 +530,8 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 85.1875px; text-align: center;"><a href="https://github.com/facebookresearch/MetaICL">Link</a></td>
 <td style="height: 18px; width: 60.7969px; text-align: right;">142</td>
 <td style="height: 18px; width: 77.4922px; text-align: right;">3,500</td>
-<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
-<td style="width: 124.984px; text-align: center; height: 18px;">Human ✏️</td>
+<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></td>
+<td style="width: 124.984px; text-align: center; height: 18px;">✍&nbsp;Human</td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 124.992px; text-align: left;"><a href="https://openreview.net/pdf?id=Vzh1BFUCiIX">ExMix</a></td>
@@ -539,8 +539,8 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 85.1875px; text-align: center;"><a href="https://github.com/google-research/text-to-text-transfer-transformer">Link</a></td>
 <td style="height: 18px; width: 60.7969px; text-align: right;">107</td>
 <td style="height: 18px; width: 77.4922px; text-align: right;">500</td>
-<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
-<td style="width: 124.984px; text-align: center; height: 18px;">Human ✏️</td>
+<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></td>
+<td style="width: 124.984px; text-align: center; height: 18px;">✍&nbsp;Human</td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 124.992px; text-align: left;">
@@ -552,7 +552,7 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 60.7969px; text-align: right;">1,613</td>
 <td style="height: 18px; width: 77.4922px; text-align: right;">5,000</td>
 <td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/multilingual-red" alt="" /></td>
-<td style="width: 124.984px; text-align: center; height: 18px;">Human ✏️</td>
+<td style="width: 124.984px; text-align: center; height: 18px;">✍&nbsp;Human</td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2210.02414.pdf">GLM</a></td>
@@ -561,7 +561,7 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 60.7969px; text-align: right;">77</td>
 <td style="height: 18px; width: 77.4922px; text-align: right;">12,000</td>
 <td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/bilingual-yellow" alt="" /></td>
-<td style="width: 124.984px; text-align: center; height: 18px;">Human ✏️</td>
+<td style="width: 124.984px; text-align: center; height: 18px;">✍&nbsp;Human</td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2301.13688.pdf">Flan 2022</a></td>
@@ -570,7 +570,7 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 60.7969px; text-align: right;">1,836</td>
 <td style="height: 18px; width: 77.4922px; text-align: right;">15,000</td>
 <td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/multilingual-red" alt="" /></td>
-<td style="width: 124.984px; text-align: center; height: 18px;">Human ✏️</td>
+<td style="width: 124.984px; text-align: center; height: 18px;">✍&nbsp;Human</td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2211.01786.pdf">xP3</a></td>
@@ -579,7 +579,7 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 60.7969px; text-align: right;">71</td>
 <td style="height: 18px; width: 77.4922px; text-align: right;">81,000</td>
 <td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/multilingual-red" alt="" /></td>
-<td style="width: 124.984px; text-align: center; height: 18px;">Human ✏️</td>
+<td style="width: 124.984px; text-align: center; height: 18px;">✍&nbsp;Human</td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2212.09689.pdf">Unnatural Inst.</a></td>
@@ -587,9 +587,9 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 85.1875px; text-align: center;"><a href="https://github.com/orhonovich/unnatural-instructions">Link</a></td>
 <td style="height: 18px; width: 60.7969px; text-align: right;">117</td>
 <td style="height: 18px; width: 77.4922px; text-align: right;">64</td>
-<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
+<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></td>
 <td style="width: 124.984px; text-align: center; height: 18px;">
-<p>InstructGPT<sub>002</sub>&nbsp;🤖</p>
+<p>🤖 InstructGPT<sub>002</sub></p>
 <p><sub><code>text-davinci-002</code></sub></p>
 </td>
 </tr>
@@ -599,9 +599,9 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 85.1875px; text-align: center;"><a href="https://github.com/yizhongw/self-instruct">Link</a></td>
 <td style="height: 18px; width: 60.7969px; text-align: right;">/</td>
 <td style="height: 18px; width: 77.4922px; text-align: right;">82</td>
-<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
+<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></td>
 <td style="width: 124.984px; text-align: center; height: 18px;">
-<p>GPT-3&nbsp;🤖</p>
+<p>🤖 GPT-3&nbsp;</p>
 <p><code><sub>davinci</sub></code></p>
 </td>
 </tr>
@@ -612,7 +612,7 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 60.7969px; text-align: right;">2,207</td>
 <td style="height: 18px; width: 77.4922px; text-align: right;">18,000</td>
 <td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/multilingual-red" alt="" /></td>
-<td style="width: 124.984px; text-align: center; height: 18px;">Human ✏️</td>
+<td style="width: 124.984px; text-align: center; height: 18px;">✍&nbsp;Human</td>
 </tr>
 <tr style="height: 18px;">
 <td style="height: 18px; width: 124.992px; text-align: left;"><a href="https://crfm.stanford.edu/2023/03/13/alpaca.html">Alpaca</a></td>
@@ -620,10 +620,40 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 85.1875px; text-align: center;"><a href="https://github.com/tatsu-lab/stanford_alpaca">Link</a></td>
 <td style="height: 18px; width: 60.7969px; text-align: right;">/</td>
 <td style="height: 18px; width: 77.4922px; text-align: right;">52</td>
-<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
+<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></td>
 <td style="width: 124.984px; text-align: center; height: 18px;">
-<p>InstructGPT<sub>003</sub> 🤖</p>
+<p>🤖 InstructGPT<sub>003</sub></p>
 <p><sub><code>text-davinci-003</code></sub></p>
+</td>
+</tr>
+<tr>
+<td style="width: 124.992px; text-align: left;"><a href="https://bair.berkeley.edu/blog/2023/04/03/koala/">Koala</a></td>
+<td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">04/2023</span></td>
+<td style="width: 85.1875px; text-align: center;">/</td>
+<td style="width: 60.7969px; text-align: right;">/</td>
+<td style="width: 77.4922px; text-align: right;">/</td>
+<td style="width: 109.258px; text-align: center;">
+<p><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></p>
+<p><img src="https://img.shields.io/badge/dialogue-%E2%9C%94-lightgreen" alt="" /></p>
+</td>
+<td style="width: 124.984px; text-align: center;">
+<p>✍&nbsp;Human</p>
+<p>🤖 ChatGPT</p>
+</td>
+</tr>
+<tr>
+<td style="width: 124.992px; text-align: left;"><a href="https://s3.amazonaws.com/static.nomic.ai/gpt4all/2023_GPT4All_Technical_Report.pdf">GPT4All</a></td>
+<td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">04/2023</span></td>
+<td style="width: 85.1875px; text-align: center;"><a href="https://huggingface.co/datasets/nomic-ai/gpt4all-j-prompt-generations">Link</a></td>
+<td style="width: 60.7969px; text-align: right;">/</td>
+<td style="width: 77.4922px; text-align: right;">808</td>
+<td style="width: 109.258px; text-align: center;">
+<p><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></p>
+<p><img src="https://img.shields.io/badge/dialogue-%E2%9C%94-lightgreen" alt="" /></p>
+</td>
+<td style="width: 124.984px; text-align: center;">
+<p>✍&nbsp;Human</p>
+<p>🤖 ChatGPT</p>
 </td>
 </tr>
 <tr style="height: 18px;">
@@ -634,8 +664,23 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 77.4922px; text-align: right;">113</td>
 <td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/bilingual-yellow" alt="" /></td>
 <td style="width: 124.984px; text-align: center; height: 18px;">
-<p>GPT-4 🤖</p>
+<p>🤖 GPT-4&nbsp;</p>
 <p><sub><code>gpt-4</code></sub></p>
+</td>
+</tr>
+<tr>
+<td style="width: 124.992px; text-align: left;"><a href="https://vicuna.lmsys.org/">Vicuna</a></td>
+<td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">04/2023</span></td>
+<td style="width: 85.1875px; text-align: center;">/</td>
+<td style="width: 60.7969px; text-align: right;">/</td>
+<td style="width: 77.4922px; text-align: right;">76</td>
+<td style="width: 109.258px; text-align: center;">
+<p><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></p>
+<p><img src="https://img.shields.io/badge/dialogue-%E2%9C%94-lightgreen" alt="" /></p>
+</td>
+<td style="width: 124.984px; text-align: center;">
+<p>✍&nbsp;Human</p>
+<p>🤖 ChatGPT</p>
 </td>
 </tr>
 <tr style="height: 18px;">
@@ -644,8 +689,20 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="height: 18px; width: 85.1875px; text-align: center;"><a href="https://github.com/databrickslabs/dolly/tree/master/data">Link</a></td>
 <td style="height: 18px; width: 60.7969px; text-align: right;">/</td>
 <td style="height: 18px; width: 77.4922px; text-align: right;">15</td>
-<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-gray" alt="" /></td>
-<td style="width: 124.984px; text-align: center; height: 18px;">Human ✏️</td>
+<td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></td>
+<td style="width: 124.984px; text-align: center; height: 18px;">✍&nbsp;Human</td>
+</tr>
+<tr>
+<td style="width: 124.992px; text-align: left;"><a href="https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view">Oasst</a></td>
+<td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">04/2023</span></td>
+<td style="width: 85.1875px; text-align: center;"><a href="https://huggingface.co/datasets/OpenAssistant/oasst1">Link</a></td>
+<td style="width: 60.7969px; text-align: right;">/</td>
+<td style="width: 77.4922px; text-align: right;">84</td>
+<td style="width: 109.258px; text-align: center;">
+<p><img src="https://img.shields.io/badge/multilingual-red" alt="" /></p>
+<p><img src="https://img.shields.io/badge/dialogue-%E2%9C%94-lightgreen" alt="" /></p>
+</td>
+<td style="width: 124.984px; text-align: center;">✍&nbsp;Human</td>
 </tr>
 </tbody>
 </table>
