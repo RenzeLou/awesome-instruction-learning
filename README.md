@@ -91,12 +91,12 @@ Please consider citing our paper. 👇👇👇
   - [4.3 Robustness](#43-robustness)
   - [4.4 Negation](#44-negation)
   - [4.5 Other Papers](#45-other-papers)
-- [5. 🤖 Applications](#5--applications)
-  - [5.1 Human-Computer Interaction](#51-human-computer-interaction)
-  - [5.2 Data and Feature Augmentation](#52-data-and-feature-augmentation)
-  - [5.3 General-purpose Language Models](#53-general-purpose-language-models)
-  - [5.4 Other Papers](#54-other-papers)
-- [6. 📚 Corpora](#6--corpora)
+- [5. 📚 Datasets](#5--datasets)
+- [6. 🤖 Applications](#6--applications)
+  - [6.1 Human-Computer Interaction](#61-human-computer-interaction)
+  - [6.2 Data and Feature Augmentation](#62-data-and-feature-augmentation)
+  - [6.3 General-purpose Language Models](#63-general-purpose-language-models)
+  - [6.4 Other Papers](#64-other-papers)
 - [7. 📖 Extended Reading](#7--extended-reading)
   - [7.1 Instruction Induction](#71-instruction-induction)
   - [7.2 ChatGPT-related Papers](#72-chatgpt-related-papers)
@@ -344,123 +344,7 @@ Negation expressions, such as `do not` and `avoid doing`, are difficult for mode
 
 
 
-## 5. 🤖 Applications
-
-### 5.1 Human-Computer Interaction
-
-Instructions are used in various human-computer interaction (HCI) tasks, such as virtual assistants, chatbots, etc. 
-
-
-1. **Help me write a poem: Instruction Tuning as a Vehicle for Collaborative Poetry Writing.** *Tuhin Chakrabarty, Vishakh Padmakumar, and He He.* <ins>EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.13669.pdf)]; [[code](https://github.com/vishakhpk/creative-instructions)]. 
-   
-2. **HELP ME THINK: A Simple Prompting Strategy for Non-experts to Create Customized Content with Models.** *Swaroop Mishra, and Elnaz Nouri.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2208.08232.pdf)]. 
-   
-3. **EditEval: An Instruction-Based Benchmark for Text Improvements.** *Jane Dwivedi-Yu, Timo Schick, Zhengbao Jiang, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2209.13331.pdf)]; [[code](https://github.com/facebookresearch/EditEval)]; [[website](https://eval.ai/web/challenges/challenge-page/1866/overview)].
-   
-4. **Communicating Natural Programs to Humans and Machines.** *Sam Acquaviva, Yewen Pu, Marta Kryven, and et al.* <ins>NeurIPS Workshop</ins> 2022. [[pdf](https://openreview.net/pdf?id=OxFoLTKDcNm)]; [[code](https://github.com/samacqua/LARC)]. 
-   
-5. **Interactive Task Learning from GUI-Grounded Natural Language Instructions and Demonstrations.** *Toby Jia-Jun Li, Tom Mitchell, and Brad Myers.* <ins>ACL Demo</ins> 2020. [[pdf](https://aclanthology.org/2020.acl-demos.25.pdf)]; [[code](https://github.com/tobyli/Sugilite_development)]; [[video](https://www.youtube.com/watch?v=tdHEk-GeaqE)].
-   
-6. **Multi-Modal Interactive Task Learning from Demonstrations and Natural Language Instructions.** *Toby Jia-Jun Li.* <ins>UIST</ins> 2020. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3379350.3415803)]; [[code](https://github.com/tobyli/Sugilite_development)].
-   
-7. **Pre-Learning Environment Representations for Data-Efficient Neural Instruction Following.** *David Gaddy, and Dan Klein.* <ins>ACL</ins> 2019. [[pdf](https://aclanthology.org/P19-1188.pdf)]. 
-   
-8. **VirtualHome: Simulating Household Activities via Programs.** *Xavier Puig, Kevin Ra, Marko Boben, and et al.* <ins>CVPR</ins> 2018. [[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Puig_VirtualHome_Simulating_Household_CVPR_2018_paper.pdf)]; [[website](http://virtual-home.org/)]. 
-   
-9.  **Natural Language Communication with Robots.** *Yonatan Bisk, Deniz Yuret, and Daniel Marcu.* <ins>NAACL</ins> 2016. [[pdf](https://aclanthology.org/N16-1089.pdf)]; [[website](https://groundedlanguage.github.io/)].
-    
-10. **Jointly Learning to Parse and Perceive: Connecting Natural Language to the Physical World.** *Jayant Krishnamurthy, and Thomas Kollar.* <ins>TACL</ins> 2013. [[pdf](http://rtw.ml.cmu.edu/tacl2013_lsp/tacl2013-krishnamurthy-kollar.pdf)]; [[code](http://rtw.ml.cmu.edu/tacl2013_lsp/)]. 
-
-11. **Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions.** *Yoav Artzi, and Luke Zettlemoyer.* <ins>TACL</ins> 2013. [[pdf](https://aclanthology.org/Q13-1005.pdf)].
-    
-12. **Unsupervised PCFG Induction for Grounded Language Learning with Highly Ambiguous Supervision.** *Joohyun Kim, and Raymond Mooney.* <ins>EMNLP</ins> 2012. [[pdf](https://aclanthology.org/D12-1040.pdf)].
-    
-13. **A joint model of language and perception for grounded attribute learning.** *Cynthia Matuszek, Nicholas FitzGerald, Luke Zettlemoyer, Liefeng Bo, and Dieter Fox.* <ins>ICML</ins> 2012. [[pdf](https://arxiv.org/pdf/1206.6423.pdf)]. 
-    
-14. **Learning to Interpret Natural Language Instructions.** *Monica Babeş-Vroman, James MacGlashan, Ruoyuan Gao, and et al.* <ins>ACL Workshop</ins> 2012. [[pdf](https://aclanthology.org/W12-2801.pdf)]. 
-    
-15. **Fast Online Lexicon Learning for Grounded Language Acquisition.** *David Chen.* <ins>ACL</ins> 2012. [[pdf](https://aclanthology.org/P12-1045.pdf)].
-    
-16. **Learning to Win by Reading Manuals in a Monte-Carlo Framework.** *S.R.K. Branavan, David Silver, and Regina Barzilay.* <ins>ACL</ins> 2011. [[pdf](https://aclanthology.org/P11-1028.pdf)]; [[website](http://groups.csail.mit.edu/rbg/code/civ/)].
-    
-17. **Learning from natural instructions.** *Dan Goldwasse, and Dan Roth.* <ins>IJCAI</ins> 2011. [[pdf](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2aba84801935041774c1e2b749e0331efa322ed8)].  
-    
-18. **Learning to Interpret Natural Language Navigation Instructions from Observations.** *David L. Chen and Raymond J. Mooney.* <ins>AAAI</ins> 2011. [[pdf](https://www.cs.utexas.edu/users/ml/papers/chen.aaai11.pdf)]. 
-    
-19. **Approaching the Symbol Grounding Problem with Probabilistic Graphical Models.** *Stefanie Tellex, Thomas Kollar, Steven Dickerson, and et al.* <ins>AAAI</ins> 2011. [[pdf](https://cs.brown.edu/people/stellex/publications/tellex11a.pdf)]. 
-    
-20. **Driving Semantic Parsing from the World’s Response.** *James Clarke, Dan Goldwasser, Ming-Wei Chang, and Dan Roth.* <ins>CoNLL</ins> 2010. [[pdf](https://aclanthology.org/W10-2903.pdf)]. 
-    
-21. **Learning to Follow Navigational Directions.** *Adam Vogel, and Daniel Jurafsky.* <ins>ACL</ins> 2010. [[pdf](https://aclanthology.org/P10-1083.pdf)].
-    
-22. **Reading between the Lines: Learning to Map High-Level Instructions to Commands.** *S.R.K. Branavan, Luke Zettlemoyer, and Regina Barzilay.* <ins>ACL</ins> 2010. [[pdf](https://aclanthology.org/P10-1129.pdf)]; [[website](http://groups.csail.mit.edu/rbg/code/rl-hli/)]. 
-    
-23. **Reading to Learn: Constructing Features from Semantic Abstracts.** *Jacob Eisenstein, James Clarke, Dan Goldwasser, and Dan Roth.* <ins>EMNLP</ins> 2009. [[pdf](https://aclanthology.org/D09-1100.pdf)]; [[website](http://www.comlab.ox.ac.uk/activities/machinelearning/Aleph/)]. 
-    
-24. **Learning Semantic Correspondences with Less Supervision.** *Percy Liang, Michael Jordan, and Dan Klein.* <ins>ACL</ins> 2009. [[pdf](https://aclanthology.org/P09-1011.pdf)]. 
-    
-25. **Reinforcement Learning for Mapping Instructions to Actions.** *S.R.K. Branavan, Harr Chen, Luke Zettlemoyer, and Regina Barzilay.* <ins>ACL</ins> 2009. [[pdf](https://aclanthology.org/P09-1010.pdf)]; [[website](http://groups.csail.mit.edu/rbg/code/rl/)]. 
-    
-26. **Learning to sportscast: a test of grounded language acquisition.** *David L. Chen and Raymond J. Mooney.* <ins>ICML</ins> 2008. [[pdf](https://dl.acm.org/doi/pdf/10.1145/1390156.1390173)]. 
-    
-27. **Guiding a Reinforcement Learner with Natural Language Advice: Initial Results in RoboCup Soccer.** *Gregory Kuhlmann, Peter Stone, Raymond Mooney, and Jude Shavlik.* <ins>AAAI Workshop</ins> 2004. [[pdf](https://ftp.cs.wisc.edu/machine-learning/shavlik-group/kuhlmann-aaai04.pdf)]; [[website](http://www.cs.utexas.edu/AustinVilla/sim/keepaway/)]. 
-
-
-### 5.2 Data and Feature Augmentation
-
-Some instructions (e.g., label explanations) are also be used for automatic annotation (i.e., data augmentation), or for enriching feature.
-
-1. **One Embedder, Any Task: Instruction-Finetuned Text Embeddings.** *Hongjin Su, Weijia Shi, Jungo Kasai, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.09741.pdf)]; [[website](https://instructor-embedding.github.io/)]. 
-   
-2. **Prompt Consistency for Zero-Shot Task Generalization.** *Chunting Zhou, Junxian He, Xuezhe Ma, Taylor Berg-Kirkpatrick, and Graham Neubig.* <ins>Findings of EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2205.00049.pdf)]; [[code](https://github.com/violet-zct/swarm-distillation-zero-shot)]. 
-   
-3. **Teaching Machine Comprehension with Compositional Explanations.** *Qinyuan Ye, Xiao Huang, Elizabeth Boschee, and Xiang Ren.* <ins>Findings of EMNLP</ins> 2020. [[pdf](https://aclanthology.org/2020.findings-emnlp.145.pdf)]; [[code](https://github.com/INK-USC/mrc-explanation)]. 
-   
-4. **Learning from Explanations with Neural Execution Tree.** *Ziqi Wang, Yujia Qin, Wenxuan Zhou, Jun Yan, Qinyuan Ye, Leonardo Neves, Zhiyuan Liu, and Xiang Ren.* <ins>ICLR</ins> 2020. [[pdf](https://openreview.net/pdf?id=rJlUt0EYwS)]; [[website](http://inklab.usc.edu/project-NExT/)]. 
-   
-5. **Training Classifiers with Natural Language Explanations.** *Braden Hancock, Paroma Varma, Stephanie Wang, Martin Bringmann, Percy Liang, and Christopher Ré.* <ins>ACL</ins> 2018. [[pdf](https://aclanthology.org/P18-1175.pdf)]; [[code](https://github.com/HazyResearch/babble)]. 
-   
-6. **Zero-shot Learning of Classifiers from Natural Language Quantification.** *Shashank Srivastava, Igor Labutov, and Tom Mitchell.* <ins>ACL</ins> 2018. [[pdf](https://aclanthology.org/P18-1029.pdf)]. 
-   
-7. **Joint Concept Learning and Semantic Parsing from Natural Language Explanations.** *Shashank Srivastava, Igor Labutov, and Tom Mitchell.* <ins>EMNLP</ins> 2017. [[pdf](https://aclanthology.org/D17-1161.pdf)]. 
-
-### 5.3 General-purpose Language Models
-
-General-purpose language models are also one of the most attractive applications of instruction learning, e.g., [ChatGPT](https://chat.openai.com/chat), which can align nicely with human values.
-
-
-1. **Sparks of Artificial General Intelligence: Early experiments with GPT-4.** *Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2303.12712.pdf)]. 
-   
-2. **GPT-4 Technical Report.** *OpenAI.* <ins>Preprint</ins> 2023. [[pdf](https://cdn.openai.com/papers/gpt-4.pdf)]; [[blog](https://openai.com/research/gpt-4)].  
-   
-3. **The Wisdom of Hindsight Makes Language Models Better Instruction Followers.** *Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, and Joseph E. Gonzalez.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.05206.pdf)]; [[code](https://github.com/tianjunz/HIR)].
-    
-4. **Adding Instructions during Pretraining: Effective Way of Controlling Toxicity in Language Models.** *Shrimai Prabhumoye, Mostofa Patwary, Mohammad Shoeybi, and Bryan Catanzaro.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.07388.pdf)]. 
-   
-5. **Training language models to follow instructions with human feedback.** *Long Ouyang, Jeffrey Wu, Xu Jiang, and et al.* <ins>NeurIPS</ins> 2022. [[pdf](https://openreview.net/pdf?id=TG8KACxEON)]. 
-
-
-### 5.4 Other Papers
-
-<!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
-1. **GPTScore: Evaluate as You Desire.** *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, and Pengfei Liu.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.04166.pdf)]; [[code](https://github.com/jinlanfu/GPTScore)]. 
-   
-2. **MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning.** *Zhiyang Xu, Ying Shen, and Lifu Huang.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.10773.pdf)].
-   
-3. **Task-aware Retrieval with Instructions.** *Akari Asai, Timo Schick, Patrick Lewis, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2211.09260.pdf)]; [[code](https://github.com/facebookresearch/tart)]. 
-   
-4. **UnifiedABSA: A Unified ABSA Framework Based on Multi-task Instruction Tuning.** *Zengzhi Wang, Rui Xia, and Jianfei Yu.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2211.10986.pdf)].  
- 
-5. **In-Context Learning for Few-Shot Dialogue State Tracking.** *Yushi Hu, Chia-Hsuan Lee, Tianbao Xie, Tao Yu, Noah A. Smith, and Mari Ostendorf.* <ins>Findings of EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2203.08568.pdf)]; [[code](https://github.com/Yushi-Hu/IC-DST)]. 
-   
-6. **Few-shot Learning with Multilingual Language Models.** *Xi Victoria Lin, Todor Mihaylov, Mikel Artetxe, and et al.* <ins>EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2112.10668.pdf)]; [[code](https://github.com/facebookresearch/fairseq/tree/main/examples/xglm)].
-   
-7. **UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models.** *Tianbao Xie, Chen Henry Wu, Peng Shi, and et al.* <ins>EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2201.05966.pdf)]; [[code](https://github.com/HKUNLP/UnifiedSKG)]; [[website](https://unifiedskg.com/)]. 
-   
-8. **In-BoXBART: Get Instructions into Biomedical Multi-Task Learning .** *Mihir Parmar, Swaroop Mishra, Mirali Purohit, Man Luo, M. Hassan Murad, and Chitta Baral.* <ins>Findings of NAACL</ins> 2022. [[pdf](https://arxiv.org/pdf/2204.07600.pdf)]; [[code](https://github.com/Mihir3009/In-BoXBART)].
-
-
-## 6. 📚 Corpora
+## 5. 📚 Datasets
 
 Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list current awesome instruction learning corpora in the following table.
 
@@ -724,6 +608,124 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 4. **Cross-Task Generalization via Natural Language Crowdsourcing Instructions.** *Swaroop Mishra, Daniel Khashabi, Chitta Baral, and Hannaneh Hajishirzi.* <ins>ACL</ins> 2022. [[pdf](https://aclanthology.org/2022.acl-long.244.pdf)]; [[corpus](https://instructions.apps.allenai.org/)]. 
    
 5. **PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts.** *Stephen Bach, Victor Sanh, Zheng Xin Yong, and et al.* <ins>ACL</ins> 2022. [[pdf](https://aclanthology.org/2022.acl-demo.9.pdf)]; [[toolkit](https://github.com/bigscience-workshop/promptsource)]; [[corpus](https://huggingface.co/datasets/bigscience/P3)]. -->
+
+
+## 6. 🤖 Applications
+
+### 6.1 Human-Computer Interaction
+
+Instructions are used in various human-computer interaction (HCI) tasks, such as virtual assistants, chatbots, etc. 
+
+
+1. **Help me write a poem: Instruction Tuning as a Vehicle for Collaborative Poetry Writing.** *Tuhin Chakrabarty, Vishakh Padmakumar, and He He.* <ins>EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.13669.pdf)]; [[code](https://github.com/vishakhpk/creative-instructions)]. 
+   
+2. **HELP ME THINK: A Simple Prompting Strategy for Non-experts to Create Customized Content with Models.** *Swaroop Mishra, and Elnaz Nouri.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2208.08232.pdf)]. 
+   
+3. **EditEval: An Instruction-Based Benchmark for Text Improvements.** *Jane Dwivedi-Yu, Timo Schick, Zhengbao Jiang, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2209.13331.pdf)]; [[code](https://github.com/facebookresearch/EditEval)]; [[website](https://eval.ai/web/challenges/challenge-page/1866/overview)].
+   
+4. **Communicating Natural Programs to Humans and Machines.** *Sam Acquaviva, Yewen Pu, Marta Kryven, and et al.* <ins>NeurIPS Workshop</ins> 2022. [[pdf](https://openreview.net/pdf?id=OxFoLTKDcNm)]; [[code](https://github.com/samacqua/LARC)]. 
+   
+5. **Interactive Task Learning from GUI-Grounded Natural Language Instructions and Demonstrations.** *Toby Jia-Jun Li, Tom Mitchell, and Brad Myers.* <ins>ACL Demo</ins> 2020. [[pdf](https://aclanthology.org/2020.acl-demos.25.pdf)]; [[code](https://github.com/tobyli/Sugilite_development)]; [[video](https://www.youtube.com/watch?v=tdHEk-GeaqE)].
+   
+6. **Multi-Modal Interactive Task Learning from Demonstrations and Natural Language Instructions.** *Toby Jia-Jun Li.* <ins>UIST</ins> 2020. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3379350.3415803)]; [[code](https://github.com/tobyli/Sugilite_development)].
+   
+7. **Pre-Learning Environment Representations for Data-Efficient Neural Instruction Following.** *David Gaddy, and Dan Klein.* <ins>ACL</ins> 2019. [[pdf](https://aclanthology.org/P19-1188.pdf)]. 
+   
+8. **VirtualHome: Simulating Household Activities via Programs.** *Xavier Puig, Kevin Ra, Marko Boben, and et al.* <ins>CVPR</ins> 2018. [[pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Puig_VirtualHome_Simulating_Household_CVPR_2018_paper.pdf)]; [[website](http://virtual-home.org/)]. 
+   
+9.  **Natural Language Communication with Robots.** *Yonatan Bisk, Deniz Yuret, and Daniel Marcu.* <ins>NAACL</ins> 2016. [[pdf](https://aclanthology.org/N16-1089.pdf)]; [[website](https://groundedlanguage.github.io/)].
+    
+10. **Jointly Learning to Parse and Perceive: Connecting Natural Language to the Physical World.** *Jayant Krishnamurthy, and Thomas Kollar.* <ins>TACL</ins> 2013. [[pdf](http://rtw.ml.cmu.edu/tacl2013_lsp/tacl2013-krishnamurthy-kollar.pdf)]; [[code](http://rtw.ml.cmu.edu/tacl2013_lsp/)]. 
+
+11. **Weakly Supervised Learning of Semantic Parsers for Mapping Instructions to Actions.** *Yoav Artzi, and Luke Zettlemoyer.* <ins>TACL</ins> 2013. [[pdf](https://aclanthology.org/Q13-1005.pdf)].
+    
+12. **Unsupervised PCFG Induction for Grounded Language Learning with Highly Ambiguous Supervision.** *Joohyun Kim, and Raymond Mooney.* <ins>EMNLP</ins> 2012. [[pdf](https://aclanthology.org/D12-1040.pdf)].
+    
+13. **A joint model of language and perception for grounded attribute learning.** *Cynthia Matuszek, Nicholas FitzGerald, Luke Zettlemoyer, Liefeng Bo, and Dieter Fox.* <ins>ICML</ins> 2012. [[pdf](https://arxiv.org/pdf/1206.6423.pdf)]. 
+    
+14. **Learning to Interpret Natural Language Instructions.** *Monica Babeş-Vroman, James MacGlashan, Ruoyuan Gao, and et al.* <ins>ACL Workshop</ins> 2012. [[pdf](https://aclanthology.org/W12-2801.pdf)]. 
+    
+15. **Fast Online Lexicon Learning for Grounded Language Acquisition.** *David Chen.* <ins>ACL</ins> 2012. [[pdf](https://aclanthology.org/P12-1045.pdf)].
+    
+16. **Learning to Win by Reading Manuals in a Monte-Carlo Framework.** *S.R.K. Branavan, David Silver, and Regina Barzilay.* <ins>ACL</ins> 2011. [[pdf](https://aclanthology.org/P11-1028.pdf)]; [[website](http://groups.csail.mit.edu/rbg/code/civ/)].
+    
+17. **Learning from natural instructions.** *Dan Goldwasse, and Dan Roth.* <ins>IJCAI</ins> 2011. [[pdf](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2aba84801935041774c1e2b749e0331efa322ed8)].  
+    
+18. **Learning to Interpret Natural Language Navigation Instructions from Observations.** *David L. Chen and Raymond J. Mooney.* <ins>AAAI</ins> 2011. [[pdf](https://www.cs.utexas.edu/users/ml/papers/chen.aaai11.pdf)]. 
+    
+19. **Approaching the Symbol Grounding Problem with Probabilistic Graphical Models.** *Stefanie Tellex, Thomas Kollar, Steven Dickerson, and et al.* <ins>AAAI</ins> 2011. [[pdf](https://cs.brown.edu/people/stellex/publications/tellex11a.pdf)]. 
+    
+20. **Driving Semantic Parsing from the World’s Response.** *James Clarke, Dan Goldwasser, Ming-Wei Chang, and Dan Roth.* <ins>CoNLL</ins> 2010. [[pdf](https://aclanthology.org/W10-2903.pdf)]. 
+    
+21. **Learning to Follow Navigational Directions.** *Adam Vogel, and Daniel Jurafsky.* <ins>ACL</ins> 2010. [[pdf](https://aclanthology.org/P10-1083.pdf)].
+    
+22. **Reading between the Lines: Learning to Map High-Level Instructions to Commands.** *S.R.K. Branavan, Luke Zettlemoyer, and Regina Barzilay.* <ins>ACL</ins> 2010. [[pdf](https://aclanthology.org/P10-1129.pdf)]; [[website](http://groups.csail.mit.edu/rbg/code/rl-hli/)]. 
+    
+23. **Reading to Learn: Constructing Features from Semantic Abstracts.** *Jacob Eisenstein, James Clarke, Dan Goldwasser, and Dan Roth.* <ins>EMNLP</ins> 2009. [[pdf](https://aclanthology.org/D09-1100.pdf)]; [[website](http://www.comlab.ox.ac.uk/activities/machinelearning/Aleph/)]. 
+    
+24. **Learning Semantic Correspondences with Less Supervision.** *Percy Liang, Michael Jordan, and Dan Klein.* <ins>ACL</ins> 2009. [[pdf](https://aclanthology.org/P09-1011.pdf)]. 
+    
+25. **Reinforcement Learning for Mapping Instructions to Actions.** *S.R.K. Branavan, Harr Chen, Luke Zettlemoyer, and Regina Barzilay.* <ins>ACL</ins> 2009. [[pdf](https://aclanthology.org/P09-1010.pdf)]; [[website](http://groups.csail.mit.edu/rbg/code/rl/)]. 
+    
+26. **Learning to sportscast: a test of grounded language acquisition.** *David L. Chen and Raymond J. Mooney.* <ins>ICML</ins> 2008. [[pdf](https://dl.acm.org/doi/pdf/10.1145/1390156.1390173)]. 
+    
+27. **Guiding a Reinforcement Learner with Natural Language Advice: Initial Results in RoboCup Soccer.** *Gregory Kuhlmann, Peter Stone, Raymond Mooney, and Jude Shavlik.* <ins>AAAI Workshop</ins> 2004. [[pdf](https://ftp.cs.wisc.edu/machine-learning/shavlik-group/kuhlmann-aaai04.pdf)]; [[website](http://www.cs.utexas.edu/AustinVilla/sim/keepaway/)]. 
+
+
+### 6.2 Data and Feature Augmentation
+
+Some instructions (e.g., label explanations) are also be used for automatic annotation (i.e., data augmentation), or for enriching feature.
+
+1. **One Embedder, Any Task: Instruction-Finetuned Text Embeddings.** *Hongjin Su, Weijia Shi, Jungo Kasai, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.09741.pdf)]; [[website](https://instructor-embedding.github.io/)]. 
+   
+2. **Prompt Consistency for Zero-Shot Task Generalization.** *Chunting Zhou, Junxian He, Xuezhe Ma, Taylor Berg-Kirkpatrick, and Graham Neubig.* <ins>Findings of EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2205.00049.pdf)]; [[code](https://github.com/violet-zct/swarm-distillation-zero-shot)]. 
+   
+3. **Teaching Machine Comprehension with Compositional Explanations.** *Qinyuan Ye, Xiao Huang, Elizabeth Boschee, and Xiang Ren.* <ins>Findings of EMNLP</ins> 2020. [[pdf](https://aclanthology.org/2020.findings-emnlp.145.pdf)]; [[code](https://github.com/INK-USC/mrc-explanation)]. 
+   
+4. **Learning from Explanations with Neural Execution Tree.** *Ziqi Wang, Yujia Qin, Wenxuan Zhou, Jun Yan, Qinyuan Ye, Leonardo Neves, Zhiyuan Liu, and Xiang Ren.* <ins>ICLR</ins> 2020. [[pdf](https://openreview.net/pdf?id=rJlUt0EYwS)]; [[website](http://inklab.usc.edu/project-NExT/)]. 
+   
+5. **Training Classifiers with Natural Language Explanations.** *Braden Hancock, Paroma Varma, Stephanie Wang, Martin Bringmann, Percy Liang, and Christopher Ré.* <ins>ACL</ins> 2018. [[pdf](https://aclanthology.org/P18-1175.pdf)]; [[code](https://github.com/HazyResearch/babble)]. 
+   
+6. **Zero-shot Learning of Classifiers from Natural Language Quantification.** *Shashank Srivastava, Igor Labutov, and Tom Mitchell.* <ins>ACL</ins> 2018. [[pdf](https://aclanthology.org/P18-1029.pdf)]. 
+   
+7. **Joint Concept Learning and Semantic Parsing from Natural Language Explanations.** *Shashank Srivastava, Igor Labutov, and Tom Mitchell.* <ins>EMNLP</ins> 2017. [[pdf](https://aclanthology.org/D17-1161.pdf)]. 
+
+### 6.3 General-purpose Language Models
+
+General-purpose language models are also one of the most attractive applications of instruction learning, e.g., [ChatGPT](https://chat.openai.com/chat), which can align nicely with human values.
+
+
+1. **Sparks of Artificial General Intelligence: Early experiments with GPT-4.** *Sébastien Bubeck, Varun Chandrasekaran, Ronen Eldan, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2303.12712.pdf)]. 
+   
+2. **GPT-4 Technical Report.** *OpenAI.* <ins>Preprint</ins> 2023. [[pdf](https://cdn.openai.com/papers/gpt-4.pdf)]; [[blog](https://openai.com/research/gpt-4)].  
+   
+3. **The Wisdom of Hindsight Makes Language Models Better Instruction Followers.** *Tianjun Zhang, Fangchen Liu, Justin Wong, Pieter Abbeel, and Joseph E. Gonzalez.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.05206.pdf)]; [[code](https://github.com/tianjunz/HIR)].
+    
+4. **Adding Instructions during Pretraining: Effective Way of Controlling Toxicity in Language Models.** *Shrimai Prabhumoye, Mostofa Patwary, Mohammad Shoeybi, and Bryan Catanzaro.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.07388.pdf)]. 
+   
+5. **Training language models to follow instructions with human feedback.** *Long Ouyang, Jeffrey Wu, Xu Jiang, and et al.* <ins>NeurIPS</ins> 2022. [[pdf](https://openreview.net/pdf?id=TG8KACxEON)]. 
+
+
+### 6.4 Other Papers
+
+<!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
+1. **GPTScore: Evaluate as You Desire.** *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, and Pengfei Liu.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.04166.pdf)]; [[code](https://github.com/jinlanfu/GPTScore)]. 
+   
+2. **MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning.** *Zhiyang Xu, Ying Shen, and Lifu Huang.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.10773.pdf)].
+   
+3. **Task-aware Retrieval with Instructions.** *Akari Asai, Timo Schick, Patrick Lewis, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2211.09260.pdf)]; [[code](https://github.com/facebookresearch/tart)]. 
+   
+4. **UnifiedABSA: A Unified ABSA Framework Based on Multi-task Instruction Tuning.** *Zengzhi Wang, Rui Xia, and Jianfei Yu.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2211.10986.pdf)].  
+ 
+5. **In-Context Learning for Few-Shot Dialogue State Tracking.** *Yushi Hu, Chia-Hsuan Lee, Tianbao Xie, Tao Yu, Noah A. Smith, and Mari Ostendorf.* <ins>Findings of EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2203.08568.pdf)]; [[code](https://github.com/Yushi-Hu/IC-DST)]. 
+   
+6. **Few-shot Learning with Multilingual Language Models.** *Xi Victoria Lin, Todor Mihaylov, Mikel Artetxe, and et al.* <ins>EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2112.10668.pdf)]; [[code](https://github.com/facebookresearch/fairseq/tree/main/examples/xglm)].
+   
+7. **UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models.** *Tianbao Xie, Chen Henry Wu, Peng Shi, and et al.* <ins>EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2201.05966.pdf)]; [[code](https://github.com/HKUNLP/UnifiedSKG)]; [[website](https://unifiedskg.com/)]. 
+   
+8. **In-BoXBART: Get Instructions into Biomedical Multi-Task Learning .** *Mihir Parmar, Swaroop Mishra, Mirali Purohit, Man Luo, M. Hassan Murad, and Chitta Baral.* <ins>Findings of NAACL</ins> 2022. [[pdf](https://arxiv.org/pdf/2204.07600.pdf)]; [[code](https://github.com/Mihir3009/In-BoXBART)].
+
+
 
 ## 7. 📖 Extended Reading
 
