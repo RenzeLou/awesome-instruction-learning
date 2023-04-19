@@ -588,6 +588,20 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 </td>
 <td style="width: 124.984px; text-align: center;">✍&nbsp;Human</td>
 </tr>
+<tr>
+<td style="width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2304.08460.pdf">LongForm</a></td>
+<td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">04/2023</span></td>
+<td style="width: 85.1875px; text-align: center;"><a href="https://github.com/akoksal/LongForm">Link</a></td>
+<td style="width: 60.7969px; text-align: right;">/</td>
+<td style="width: 77.4922px; text-align: right;">27</td>
+<td style="width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-informational" alt="" />
+</td>
+<td style="width: 124.984px; text-align: center;">
+<p>✍&nbsp;Human</p>
+<p>🤖 InstructGPT<sub>003</sub></p>
+<p><sub><code>text-davinci-003</code></sub></p>
+</td>
+</tr>
 </tbody>
 </table>
 
