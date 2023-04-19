@@ -4,7 +4,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/RenzeLou/awesome-instruction-learning) [![Stars](https://img.shields.io/github/stars/RenzeLou/awesome-instruction-learning?style=social)](https://github.com/RenzeLou/awesome-instruction-learning#-star-history)
 
-[![Commit](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A)](https://github.com/RenzeLou/awesome-instruction-learning/commits/main) [![PaperNumber](https://img.shields.io/badge/PaperNumber-157-blue)](https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py) [![PullRequests](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/RenzeLou/awesome-instruction-learning/pulls) 
+[![Commit](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A)](https://github.com/RenzeLou/awesome-instruction-learning/commits/main) [![PaperNumber](https://img.shields.io/badge/PaperNumber-159-blue)](https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py) [![PullRequests](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/RenzeLou/awesome-instruction-learning/pulls) 
 
 A curated list of awesome **Textual Instruction Learning** papers 🔥🔥🔥. 
 
@@ -91,7 +91,7 @@ Please consider citing our paper. 👇👇👇
   - [4.3 Robustness](#43-robustness)
   - [4.4 Negation](#44-negation)
   - [4.5 Other Papers](#45-other-papers)
-- [5. 📚 Datasets](#5--datasets)
+- [5. 📚 Corpora](#5--corpora)
 - [6. 🤖 Applications](#6--applications)
   - [6.1 Human-Computer Interaction](#61-human-computer-interaction)
   - [6.2 Data and Feature Augmentation](#62-data-and-feature-augmentation)
@@ -344,7 +344,7 @@ Negation expressions, such as `do not` and `avoid doing`, are difficult for mode
 
 
 
-## 5. 📚 Datasets
+## 5. 📚 Corpora
 
 Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list current awesome instruction learning corpora in the following table.
 
