@@ -346,9 +346,9 @@ Negation expressions, such as `do not` and `avoid doing`, are difficult for mode
 
 ## 5. 📚 Corpora
 
-Nowadays, tuning-based instruction learning methods (aka **Instruction Tuning**) are highly favored by the community, which requires a large amount of diverse instruction-following data.
+Nowadays, tuning-based instruction learning methods (aka **Instruction Tuning**) are highly favored by the community, which usually requires a large amount of diverse instruction-following data.
 
-Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list current awesome instruction tuning corpora in the following table.
+Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list current awesome instruction-tuning corpora in the following table.
 
 
 <table id="copora-table" style="height: 353px; width: 690px;" width="629">
