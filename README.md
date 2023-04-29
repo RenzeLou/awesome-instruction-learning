@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Awesome Instruction Learning Papers
+# Awesome Instruction Learning
 
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/RenzeLou/awesome-instruction-learning) [![Stars](https://img.shields.io/github/stars/RenzeLou/awesome-instruction-learning?style=social)](https://github.com/RenzeLou/awesome-instruction-learning#-star-history)
