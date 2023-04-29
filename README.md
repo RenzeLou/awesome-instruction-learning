@@ -6,7 +6,7 @@
 
 [![Commit](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A)](https://github.com/RenzeLou/awesome-instruction-learning/commits/main) [![PaperNumber](https://img.shields.io/badge/PaperNumber-159-blue)](https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py) [![PullRequests](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/RenzeLou/awesome-instruction-learning/pulls) 
 
-A curated list of awesome **Textual Instruction Learning** papers 🔥🔥🔥. 
+An awesome reading list of **Instruction Tuning** (or, put it more comprehensively, **Instruction Learning**), including 🎓 papers and 📚 datasets 🔥🔥🔥. 
 
 Currently maintained by <ins>[Renze Lou](https://renzelou.github.io/) @ PennState</ins> and <ins>[Kai Zhang](https://drogozhang.github.io/) @ OhioState</ins>. 
 
