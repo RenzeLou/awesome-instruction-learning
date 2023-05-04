@@ -275,15 +275,17 @@ The model and task scale are found to be important for instruction-based fine-tu
    
 6. **Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization.** *Yuxian Gu, Pei Ke, Xiaoyan Zhu, and Minlie Huang.* <ins>EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.09175.pdf)]; [[code](https://github.com/thu-coai/UDIT)]. 
    
-7. **Multitask Prompted Training Enables Zero-Shot Task Generalization.** *Victor Sanh, Albert Webson, Colin Raffel, and et al.* <ins>ICLR</ins> 2022. [[pdf](https://openreview.net/pdf?id=9Vrb9D0WI4)]; [[checkpoint](https://github.com/bigscience-workshop/t-zero)]; [[corpus](https://github.com/bigscience-workshop/promptsource)]. 
+7. **Emergent Abilities of Large Language Models.** *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, and et al.* <ins>TMLR</ins> 2022. [[pdf](https://openreview.net/pdf?id=yzkSU5zdwD)].
    
-8.  **Finetuned Language Models are Zero-Shot Learners.** *Jason Wei, Maarten Bosma, Vincent Zhao, and et al.* <ins>ICLR</ins> 2022. [[pdf](https://openreview.net/pdf?id=gEZrGCozdqR)]; [[code](https://github.com/google-research/flan)].
+8. **Multitask Prompted Training Enables Zero-Shot Task Generalization.** *Victor Sanh, Albert Webson, Colin Raffel, and et al.* <ins>ICLR</ins> 2022. [[pdf](https://openreview.net/pdf?id=9Vrb9D0WI4)]; [[checkpoint](https://github.com/bigscience-workshop/t-zero)]; [[corpus](https://github.com/bigscience-workshop/promptsource)]. 
+   
+9.  **Finetuned Language Models are Zero-Shot Learners.** *Jason Wei, Maarten Bosma, Vincent Zhao, and et al.* <ins>ICLR</ins> 2022. [[pdf](https://openreview.net/pdf?id=gEZrGCozdqR)]; [[code](https://github.com/google-research/flan)].
     
-9.  **Zemi: Learning Zero-Shot Semi-Parametric Language Models from Multiple Tasks.** *Zhenhailong Wang, Xiaoman Pan, Dian Yu, Dong Yu, Jianshu Chen, and Heng Ji.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.00185.pdf)]; [[code](https://github.com/MikeWangWZHL/Zemi)].  
+10. **Zemi: Learning Zero-Shot Semi-Parametric Language Models from Multiple Tasks.** *Zhenhailong Wang, Xiaoman Pan, Dian Yu, Dong Yu, Jianshu Chen, and Heng Ji.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.00185.pdf)]; [[code](https://github.com/MikeWangWZHL/Zemi)].  
     
-10. **ZeroPrompt: Scaling Prompt-Based Pretraining to 1,000 Tasks Improves Zero-Shot Generalization.** *Hanwei Xu, Yujun Chen, Yulun Du, Nan Shao, Yanggang Wang, Haiyu Li, and Zhilin Yang.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2201.06910.pdf)]. 
+11. **ZeroPrompt: Scaling Prompt-Based Pretraining to 1,000 Tasks Improves Zero-Shot Generalization.** *Hanwei Xu, Yujun Chen, Yulun Du, Nan Shao, Yanggang Wang, Haiyu Li, and Zhilin Yang.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2201.06910.pdf)]. 
     
-11. **The Power of Scale for Parameter-Efficient Prompt Tuning.** *Brian Lester, Rami Al-Rfou, and Noah Constant.* <ins>EMNLP</ins> 2021. [[pdf](https://aclanthology.org/2021.emnlp-main.243.pdf)]; [[code](https://github.com/google-research/prompt-tuning)]. 
+12. **The Power of Scale for Parameter-Efficient Prompt Tuning.** *Brian Lester, Rami Al-Rfou, and Noah Constant.* <ins>EMNLP</ins> 2021. [[pdf](https://aclanthology.org/2021.emnlp-main.243.pdf)]; [[code](https://github.com/google-research/prompt-tuning)]. 
 
 ### 4.2 Explanability
 
