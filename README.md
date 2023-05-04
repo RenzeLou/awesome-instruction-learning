@@ -1,12 +1,28 @@
 <!-- omit in toc -->
-# Awesome Instruction Learning
+<h1 align="center"> Awesome Instruction Learning </h1>
 
+<p align="center">
+  <a href="https://github.com/RenzeLou/awesome-instruction-learning"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/RenzeLou/awesome-instruction-learning#-star-history"><img src="https://img.shields.io/github/stars/RenzeLou/awesome-instruction-learning?style=social" alt="Stars" /></a>
+</p>
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/RenzeLou/awesome-instruction-learning) [![Stars](https://img.shields.io/github/stars/RenzeLou/awesome-instruction-learning?style=social)](https://github.com/RenzeLou/awesome-instruction-learning#-star-history)
+<p align="center">
+  <a href="https://github.com/RenzeLou/awesome-instruction-learning/commits/main"><img src="https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A" alt="Commit" /></a>
+  <a href="https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py"><img src="https://img.shields.io/badge/PaperNumber-161-blue" alt="PaperNumber" /></a>
+  <a href="https://github.com/RenzeLou/awesome-instruction-learning/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-red" alt="PullRequests" /></a>
+</p>
 
-[![Commit](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A)](https://github.com/RenzeLou/awesome-instruction-learning/commits/main) [![PaperNumber](https://img.shields.io/badge/PaperNumber-161-blue)](https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py) [![PullRequests](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/RenzeLou/awesome-instruction-learning/pulls) 
+<!-- [![Awesome](https://awesome.re/badge.svg)](https://github.com/RenzeLou/awesome-instruction-learning) [![Stars](https://img.shields.io/github/stars/RenzeLou/awesome-instruction-learning?style=social)](https://github.com/RenzeLou/awesome-instruction-learning#-star-history)
 
-An awesome reading list of **Instruction Tuning** (or, put it more comprehensively, **Instruction Learning**), including 🎓 papers and 📚 datasets 🔥🔥🔥. 
+[![Commit](https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A)](https://github.com/RenzeLou/awesome-instruction-learning/commits/main) [![PaperNumber](https://img.shields.io/badge/PaperNumber-161-blue)](https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py) [![PullRequests](https://img.shields.io/badge/PRs-Welcome-red)](https://github.com/RenzeLou/awesome-instruction-learning/pulls)  -->
+
+<p align="center">
+🔥🔥🔥 An awesome reading list of <b>Instruction Tuning</b> (or, put it more comprehensively, <b>Instruction Learning</b>), including <em>papers</em> and <em>datasets</em>. 
+</p>
+
+<p align="center">
+<i> 👉 Also don't forget to check out our <a href="https://arxiv.org/abs/2303.10475"> <b>Survey Paper</b> </a> ! 👀 🤗 </i>
+</p>
 
 Currently maintained by <ins>[Renze Lou](https://renzelou.github.io/) @ PennState</ins> and <ins>[Kai Zhang](https://drogozhang.github.io/) @ OhioState</ins>. 
 
@@ -30,7 +46,7 @@ We aim to stay up-to-date with the most innovative developments in the field and
 
 
 <!-- omit in toc -->
-## How to contribute?
+## ❤️ How to contribute?
 
 If you have any suggestions or find any missed papers, feel free to [reach out](https://outlook.office.com/mail/deeplink/compose?mailtouri=mailto%3Amarionojump0722%40gmail.com) or submit a [pull request](https://github.com/RenzeLou/awesome-instruction-learning/pulls):
 
@@ -48,7 +64,7 @@ If you have any suggestions or find any missed papers, feel free to [reach out](
 
 
 <!-- omit in toc -->
-## Citation
+## 🥳 Citation
 
 Find this repository helpful? 😊😊😊  
 
@@ -66,11 +82,11 @@ Please consider citing our paper. 👇👇👇
 }
 ```
 
-> **Note**
+<!-- > **Note**
 >
 > **The current version of our survey is only a draft, and we are still working on it.** 
 > 
-> The first readable version is arriving soon. 🚀🚀🚀
+> The first readable version is arriving soon. 🚀🚀🚀 -->
 
 <!-- TODO: add survey citation and link -->
 
