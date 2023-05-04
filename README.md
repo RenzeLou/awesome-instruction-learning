@@ -24,10 +24,6 @@
 <i> 👉 Also don't forget to check out our <a href="https://arxiv.org/abs/2303.10475"> <b>Survey Paper</b> </a> ! 👀 🤗 </i>
 </p>
 
-Currently maintained by <ins>[Renze Lou](https://renzelou.github.io/) @ PennState</ins> and <ins>[Kai Zhang](https://drogozhang.github.io/) @ OhioState</ins>. 
-
-
-**<font color='red'>Work still in progress</font>**  🚀, **we appreciate any suggestions and contributions** ❤️.
 
 ---
 
@@ -46,7 +42,12 @@ We aim to stay up-to-date with the most innovative developments in the field and
 
 
 <!-- omit in toc -->
-## ❤️ How to contribute?
+## ❤️ Contribution
+
+This repository is currently maintained by <ins>[Renze Lou](https://renzelou.github.io/) @ PennState</ins> and <ins>[Kai Zhang](https://drogozhang.github.io/) @ OhioState</ins>. **We appreciate any contributions** ❤️.
+
+
+<!-- **<font color='red'>Work still in progress</font>**  🚀, **we appreciate any suggestions and contributions** ❤️. -->
 
 If you have any suggestions or find any missed papers, feel free to [reach out](https://outlook.office.com/mail/deeplink/compose?mailtouri=mailto%3Amarionojump0722%40gmail.com) or submit a [pull request](https://github.com/RenzeLou/awesome-instruction-learning/pulls):
 
