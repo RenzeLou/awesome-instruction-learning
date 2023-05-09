@@ -817,13 +817,15 @@ Nowdays, ChatGPT is a super star 🌟 in the NLP community. Since there is no of
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
    
-1. **Chain of Hindsight Aligns Language Models with Feedback.** *Hao Liu, Carmelo Sferrazza, and Pieter Abbeel.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.02676.pdf)]; [[code](https://github.com/lhao499/CoH)]. 
+1. **Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision.** *Zhiqing Sun, Yikang Shen, Qinhong Zhou, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2305.03047.pdf)]; [[code](https://github.com/IBM/Dromedary)].
    
-2. **Pretraining Language Models with Human Preferences.** *Tomasz Korbak, Kejian Shi, Angelica Chen, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.08582.pdf)].
+2. **Chain of Hindsight Aligns Language Models with Feedback.** *Hao Liu, Carmelo Sferrazza, and Pieter Abbeel.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.02676.pdf)]; [[code](https://github.com/lhao499/CoH)]. 
    
-3. **Constitutional AI: Harmlessness from AI Feedback.** *Yuntao Bai, Saurav Kadavath, Sandipan Kundu, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.08073.pdf)]; [[corpus](https://github.com/anthropics/ConstitutionalHarmlessnessPaper)].
+3. **Pretraining Language Models with Human Preferences.** *Tomasz Korbak, Kejian Shi, Angelica Chen, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.08582.pdf)].
    
-4. **Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.** *Yuntao Bai, Andy Jones, Kamal Ndousse, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2204.05862.pdf)]; [[corpus](https://github.com/anthropics/hh-rlhf)]. 
+4. **Constitutional AI: Harmlessness from AI Feedback.** *Yuntao Bai, Saurav Kadavath, Sandipan Kundu, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.08073.pdf)]; [[corpus](https://github.com/anthropics/ConstitutionalHarmlessnessPaper)].
+   
+5. **Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback.** *Yuntao Bai, Andy Jones, Kamal Ndousse, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2204.05862.pdf)]; [[corpus](https://github.com/anthropics/hh-rlhf)]. 
 
 
 ### 7.4 Scalable Oversight and Alignment
