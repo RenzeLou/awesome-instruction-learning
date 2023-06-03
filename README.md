@@ -651,6 +651,18 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <p>Synthetic Examples</p>
 </td>
 </tr>
+<tr>
+<td style="width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2304.08460.pdf">Dynosaur</a></td>
+<td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">05/2023</span></td>
+<td style="width: 85.1875px; text-align: center;"><a href="https://dynosaur-it.github.io/">Link</a></td>
+<td style="width: 60.7969px; text-align: right;">5,740</td>
+<td style="width: 77.4922px; text-align: right;">801</td>
+<td style="width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-informational" alt="" />
+</td>
+<td style="width: 124.984px; text-align: center;">
+<p>🤖 ChatGPT</p>
+</td>
+</tr>
 </tbody>
 </table>
 
