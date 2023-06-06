@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/RenzeLou/awesome-instruction-learning/commits/main"><img src="https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A" alt="Commit" /></a>
-  <a href="https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py"><img src="https://img.shields.io/badge/PaperNumber-170-blue" alt="PaperNumber" /></a>
+  <a href="https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py"><img src="https://img.shields.io/badge/PaperNumber-175-blue" alt="PaperNumber" /></a>
   <a href="https://github.com/RenzeLou/awesome-instruction-learning/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-red" alt="PullRequests" /></a>
 </p>
 
@@ -649,6 +649,57 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="width: 124.984px; text-align: center; height: 18px;">
 <p>✍&nbsp;Human</p>
 <p>Synthetic Examples</p>
+</td>
+</tr>
+</tr>
+<tr>
+<td style="width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2304.14402.pdf">LaMini</a></td>
+<td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">04/2023</span></td>
+<td style="width: 85.1875px; text-align: center;"><a href="https://huggingface.co/datasets/MBZUAI/LaMini-instruction">Link</a></td>
+<td style="width: 60.7969px; text-align: right;">/</td>
+<td style="width: 77.4922px; text-align: right;">2,580</td>
+<td style="width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-informational" alt="" />
+</td>
+<td style="width: 124.984px; text-align: center;">
+<p>🤖 ChatGPT</p>
+</td>
+</tr>
+<tr>
+<td style="width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2305.09857.pdf">COEDIT</a></td>
+<td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">05/2023</span></td>
+<td style="width: 85.1875px; text-align: center;"><a href="https://github.com/vipulraheja/coedit">Link</a></td>
+<td style="width: 60.7969px; text-align: right;">various text editing tasks</td>
+<td style="width: 77.4922px; text-align: right;">82</td>
+<td style="width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-informational" alt="" />
+</td>
+<td style="width: 124.984px; text-align: center;">
+<p>✍&nbsp;Human</p>
+</td>
+</tr>
+<tr>
+<td style="width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2305.14233.pdf">UltraChat</a></td>
+<td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">05/2023</span></td>
+<td style="width: 85.1875px; text-align: center;"><a href="https://huggingface.co/datasets/stingning/ultrachat">Link</a></td>
+<td style="width: 60.7969px; text-align: right;">/</td>
+<td style="width: 77.4922px; text-align: right;">1,500</td>
+<td style="width: 109.258px; text-align: center;">
+<p><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></p>
+<p><img src="https://img.shields.io/badge/dialogue-%E2%9C%94-lightgreen" alt="" /></p>
+</td>
+<td style="width: 124.984px; text-align: center;">
+<p>🤖 ChatGPT</p>
+</td>
+</tr>
+<tr>
+<td style="width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2305.14045.pdf">CoT Collection</a></td>
+<td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">05/2023</span></td>
+<td style="width: 85.1875px; text-align: center;"><a href="https://github.com/kaistAI/CoT-Collection">Link</a></td>
+<td style="width: 60.7969px; text-align: right;">1,060</td>
+<td style="width: 77.4922px; text-align: right;">1,880</td>
+<td style="width: 109.258px; text-align: center;"><p><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></p>
+</td>
+<td style="width: 124.984px; text-align: center;">
+<p>🤖 Codex</p>
 </td>
 </tr>
 <tr>
