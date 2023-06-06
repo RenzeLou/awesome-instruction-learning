@@ -674,7 +674,7 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 </td>
 <td style="width: 124.984px; text-align: center;">
 <p>✍&nbsp;Human</p>
-<p>collecting from existing text-editing datasets</p>
+<!-- <p>collecting from existing text-editing datasets</p> -->
 </td>
 </tr>
 <tr>
