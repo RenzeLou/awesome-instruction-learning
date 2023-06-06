@@ -668,12 +668,13 @@ Inspired by [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), we list curr
 <td style="width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2305.09857.pdf">COEDIT</a></td>
 <td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">05/2023</span></td>
 <td style="width: 85.1875px; text-align: center;"><a href="https://github.com/vipulraheja/coedit">Link</a></td>
-<td style="width: 60.7969px; text-align: right;">various text editing tasks</td>
+<td style="width: 60.7969px; text-align: right;">/</td>
 <td style="width: 77.4922px; text-align: right;">82</td>
 <td style="width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-informational" alt="" />
 </td>
 <td style="width: 124.984px; text-align: center;">
 <p>✍&nbsp;Human</p>
+<p>collecting from existing text-editing datasets</p>
 </td>
 </tr>
 <tr>
