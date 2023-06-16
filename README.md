@@ -234,7 +234,7 @@ We carefully design the following table, make it easy to be referred to, and kee
 <tr style="height: 18px;">
 <td style="height: 18px; width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2202.01279.pdf">P3</a></td>
 <td style="height: 18px; width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">10/2021</span></td>
-<td style="height: 18px; width: 85.1875px; text-align: center;"><a href="https://github.com/bigscience-workshop/promptsource">Link</a></td>
+<td style="height: 18px; width: 85.1875px; text-align: center;"><a href="https://huggingface.co/datasets/bigscience/P3">Link</a></td>
 <td style="height: 18px; width: 60.7969px; text-align: right;">62</td>
 <td style="height: 18px; width: 77.4922px; text-align: right;">12,000</td>
 <td style="height: 18px; width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></td>
