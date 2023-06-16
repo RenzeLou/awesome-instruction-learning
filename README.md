@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/RenzeLou/awesome-instruction-learning/commits/main"><img src="https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A" alt="Commit" /></a>
-  <a href="https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py"><img src="https://img.shields.io/badge/PaperNumber-180-blue" alt="PaperNumber" /></a>
+  <a href="https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py"><img src="https://img.shields.io/badge/PaperNumber-182-blue" alt="PaperNumber" /></a>
   <a href="https://github.com/RenzeLou/awesome-instruction-learning/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-red" alt="PullRequests" /></a>
 </p>
 
@@ -32,12 +32,7 @@ Why instruction learning?
 -->
 
 <!-- TODO
-## Our scope:
-We aim to stay up-to-date with the most innovative developments in the field and gain valuable insights into the future of instruction-learning technology.👀 organize a systematic and comprehensive overview of instructional learning.
-
-1. Stay up-to-date with the most innovative developments in this field.
-2. Gain valuable insights into the future of instruction-learning technology.
-3. 
+add "must read" section to select a core subset of instruction tuning papers
 -->
 
 
@@ -184,7 +179,7 @@ We use the label ![comprehensive](https://img.shields.io/badge/comprehensive-FFA
 
 We carefully design the following table, make it easy to be referred to, and keep it up-to-date. Hope it can contribute to future research of instruction tuning. 🤗
 
- *(Some rows come from [this paper](https://arxiv.org/pdf/2301.13688.pdf).)*
+ *(Some rows come from [Longpre et al.](https://arxiv.org/pdf/2301.13688.pdf), thanks for their great work ❤️.)* 
 
 <table id="copora-table" style="height: 353px; width: 690px;" width="629">
 <tbody>
@@ -465,6 +460,18 @@ We carefully design the following table, make it easy to be referred to, and kee
 </td>
 </tr>
 <tr>
+<td style="width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2304.12244.pdf">WizardLM</a></td>
+<td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">04/2023</span></td>
+<td style="width: 85.1875px; text-align: center;"><a href="https://github.com/nlpxucan/WizardLM">Link</a></td>
+<td style="width: 60.7969px; text-align: right;">/</td>
+<td style="width: 77.4922px; text-align: right;">196</td>
+<td style="width: 109.258px; text-align: center;"><img src="https://img.shields.io/badge/monolingual-informational" alt="" />
+</td>
+<td style="width: 124.984px; text-align: center;">
+<p>🤖 ChatGPT</p>
+</td>
+</tr>
+<tr>
 <td style="width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2305.09857.pdf">COEDIT</a></td>
 <td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">05/2023</span></td>
 <td style="width: 85.1875px; text-align: center;"><a href="https://github.com/vipulraheja/coedit">Link</a></td>
@@ -651,29 +658,31 @@ The model and task scale are found to be important for instruction-based fine-tu
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)].  -->
    
-1. **Exploring the Benefits of Training Expert Language Models over Instruction Tuning.** *Joel Jang, Seungone Kim, Seonghyeon Ye, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.03202.pdf)]; [[code](https://github.com/joeljang/ELM)]. 
+1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; [[code](https://github.com/allenai/open-instruct)].
    
-2. **The Flan Collection: Designing Data and Methods for Effective Instruction Tuning.** *Shayne Longpre, Le Hou, Tu Vu, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2301.13688.pdf)]; [[code](https://github.com/google-research/FLAN/tree/main/flan/v2)]; [[corpus](https://huggingface.co/datasets/SirNeural/flan_v2)].
+2. **Exploring the Benefits of Training Expert Language Models over Instruction Tuning.** *Joel Jang, Seungone Kim, Seonghyeon Ye, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.03202.pdf)]; [[code](https://github.com/joeljang/ELM)]. 
    
-3. **UL2: Unifying Language Learning Paradigms.** *Yi Tay, Mostafa Dehghani, Vinh Q. Tran, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2205.05131.pdf)]; [[checkpoint](https://huggingface.co/google/flan-ul2)].
+3. **The Flan Collection: Designing Data and Methods for Effective Instruction Tuning.** *Shayne Longpre, Le Hou, Tu Vu, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2301.13688.pdf)]; [[code](https://github.com/google-research/FLAN/tree/main/flan/v2)]; [[corpus](https://huggingface.co/datasets/SirNeural/flan_v2)].
    
-4. **OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization.** *Srinivasan Iyer, Xi Victoria Lin, Ramakanth Pasunuru, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.12017.pdf)].   
+4. **UL2: Unifying Language Learning Paradigms.** *Yi Tay, Mostafa Dehghani, Vinh Q. Tran, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2205.05131.pdf)]; [[checkpoint](https://huggingface.co/google/flan-ul2)].
    
-5. **Scaling Instruction-Finetuned Language Models.** *Hyung Won Chung, Le Hou, Shayne Longpre, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.11416.pdf)]; [[checkpoint](https://huggingface.co/docs/transformers/model_doc/flan-t5)]. 
+5. **OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization.** *Srinivasan Iyer, Xi Victoria Lin, Ramakanth Pasunuru, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.12017.pdf)].   
    
-6. **Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization.** *Yuxian Gu, Pei Ke, Xiaoyan Zhu, and Minlie Huang.* <ins>EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.09175.pdf)]; [[code](https://github.com/thu-coai/UDIT)]. 
+6. **Scaling Instruction-Finetuned Language Models.** *Hyung Won Chung, Le Hou, Shayne Longpre, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.11416.pdf)]; [[checkpoint](https://huggingface.co/docs/transformers/model_doc/flan-t5)]. 
    
-7. **Emergent Abilities of Large Language Models.** *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, and et al.* <ins>TMLR</ins> 2022. [[pdf](https://openreview.net/pdf?id=yzkSU5zdwD)].
+7. **Learning Instructions with Unlabeled Data for Zero-Shot Cross-Task Generalization.** *Yuxian Gu, Pei Ke, Xiaoyan Zhu, and Minlie Huang.* <ins>EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.09175.pdf)]; [[code](https://github.com/thu-coai/UDIT)]. 
    
-8. **Multitask Prompted Training Enables Zero-Shot Task Generalization.** *Victor Sanh, Albert Webson, Colin Raffel, and et al.* <ins>ICLR</ins> 2022. [[pdf](https://openreview.net/pdf?id=9Vrb9D0WI4)]; [[checkpoint](https://github.com/bigscience-workshop/t-zero)]; [[corpus](https://github.com/bigscience-workshop/promptsource)]. 
+8. **Emergent Abilities of Large Language Models.** *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, and et al.* <ins>TMLR</ins> 2022. [[pdf](https://openreview.net/pdf?id=yzkSU5zdwD)].
    
-9.  **Finetuned Language Models are Zero-Shot Learners.** *Jason Wei, Maarten Bosma, Vincent Zhao, and et al.* <ins>ICLR</ins> 2022. [[pdf](https://openreview.net/pdf?id=gEZrGCozdqR)]; [[code](https://github.com/google-research/flan)].
+9.  **Multitask Prompted Training Enables Zero-Shot Task Generalization.** *Victor Sanh, Albert Webson, Colin Raffel, and et al.* <ins>ICLR</ins> 2022. [[pdf](https://openreview.net/pdf?id=9Vrb9D0WI4)]; [[checkpoint](https://github.com/bigscience-workshop/t-zero)]; [[corpus](https://github.com/bigscience-workshop/promptsource)]. 
+   
+10. **Finetuned Language Models are Zero-Shot Learners.** *Jason Wei, Maarten Bosma, Vincent Zhao, and et al.* <ins>ICLR</ins> 2022. [[pdf](https://openreview.net/pdf?id=gEZrGCozdqR)]; [[code](https://github.com/google-research/flan)].
     
-10. **Zemi: Learning Zero-Shot Semi-Parametric Language Models from Multiple Tasks.** *Zhenhailong Wang, Xiaoman Pan, Dian Yu, Dong Yu, Jianshu Chen, and Heng Ji.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.00185.pdf)]; [[code](https://github.com/MikeWangWZHL/Zemi)].  
+11. **Zemi: Learning Zero-Shot Semi-Parametric Language Models from Multiple Tasks.** *Zhenhailong Wang, Xiaoman Pan, Dian Yu, Dong Yu, Jianshu Chen, and Heng Ji.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2210.00185.pdf)]; [[code](https://github.com/MikeWangWZHL/Zemi)].  
     
-11. **ZeroPrompt: Scaling Prompt-Based Pretraining to 1,000 Tasks Improves Zero-Shot Generalization.** *Hanwei Xu, Yujun Chen, Yulun Du, Nan Shao, Yanggang Wang, Haiyu Li, and Zhilin Yang.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2201.06910.pdf)]. 
+12. **ZeroPrompt: Scaling Prompt-Based Pretraining to 1,000 Tasks Improves Zero-Shot Generalization.** *Hanwei Xu, Yujun Chen, Yulun Du, Nan Shao, Yanggang Wang, Haiyu Li, and Zhilin Yang.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2201.06910.pdf)]. 
     
-12. **The Power of Scale for Parameter-Efficient Prompt Tuning.** *Brian Lester, Rami Al-Rfou, and Noah Constant.* <ins>EMNLP</ins> 2021. [[pdf](https://aclanthology.org/2021.emnlp-main.243.pdf)]; [[code](https://github.com/google-research/prompt-tuning)]. 
+13. **The Power of Scale for Parameter-Efficient Prompt Tuning.** *Brian Lester, Rami Al-Rfou, and Noah Constant.* <ins>EMNLP</ins> 2021. [[pdf](https://aclanthology.org/2021.emnlp-main.243.pdf)]; [[code](https://github.com/google-research/prompt-tuning)]. 
 
 ### 5.2 Explanability
 
@@ -740,11 +749,13 @@ Negation expressions, such as `do not` and `avoid doing`, are difficult for mode
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
    
-1. **Don't Blame the Annotator: Bias Already Starts in the Annotation Instructions.** *Mihir Parmar, Swaroop Mishra, Mor Geva, and Chitta Baral.* <ins>EACL</ins> 2023. [[pdf](https://arxiv.org/pdf/2205.00415.pdf)]; [[code](https://github.com/Mihir3009/instruction-bias)]. 
+1. **Instruction Tuned Models are Quick Learners.** *Himanshu Gupta, Saurabh Arjun Sawant, Swaroop Mishra, et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.05539.pdf)]; [[code](https://github.com/srsawant34/efficient_instruction_learning)].
    
-2. **Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning.** *Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, and Colin Raffel.* <ins>NeurIPS</ins> 2022. [[pdf](https://openreview.net/pdf?id=rBCvMG-JsPd)]; [[code](https://github.com/r-three/t-few)]. 
+2. **Don't Blame the Annotator: Bias Already Starts in the Annotation Instructions.** *Mihir Parmar, Swaroop Mishra, Mor Geva, and Chitta Baral.* <ins>EACL</ins> 2023. [[pdf](https://arxiv.org/pdf/2205.00415.pdf)]; [[code](https://github.com/Mihir3009/instruction-bias)]. 
    
-3. **A Survey of NLP-Related Crowdsourcing HITs: what works and what does not.** *Jessica Huynh, Jeffrey Bigham, and Maxine Eskenazi.* <ins>Preprint</ins> 2021. [[pdf](https://arxiv.org/pdf/2111.05241.pdf)].
+3. **Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning.** *Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, and Colin Raffel.* <ins>NeurIPS</ins> 2022. [[pdf](https://openreview.net/pdf?id=rBCvMG-JsPd)]; [[code](https://github.com/r-three/t-few)]. 
+   
+4. **A Survey of NLP-Related Crowdsourcing HITs: what works and what does not.** *Jessica Huynh, Jeffrey Bigham, and Maxine Eskenazi.* <ins>Preprint</ins> 2021. [[pdf](https://arxiv.org/pdf/2111.05241.pdf)].
 
 
 
