@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/RenzeLou/awesome-instruction-learning/commits/main"><img src="https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A" alt="Commit" /></a>
-  <a href="https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py"><img src="https://img.shields.io/badge/PaperNumber-182-blue" alt="PaperNumber" /></a>
+  <a href="https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py"><img src="https://img.shields.io/badge/PaperNumber-184-blue" alt="PaperNumber" /></a>
   <a href="https://github.com/RenzeLou/awesome-instruction-learning/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-red" alt="PullRequests" /></a>
 </p>
 
@@ -340,6 +340,20 @@ We carefully design the following table, make it easy to be referred to, and kee
 <td style="width: 124.984px; text-align: center; height: 18px;">
 <p>🤖 InstructGPT<sub>003</sub></p>
 <p><sub><code>text-davinci-003</code></sub></p>
+</td>
+</tr>
+<tr>
+<td style="width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2304.01196.pdf">Baize</a></td>
+<td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">04/2023</span></td>
+<td style="height: 18px; width: 85.1875px; text-align: center;"><a href="https://github.com/project-baize/baize-chatbot/tree/main/data">Link</a></td>
+<td style="width: 60.7969px; text-align: right;">/</td>
+<td style="width: 77.4922px; text-align: right;">100</td>
+<td style="width: 109.258px; text-align: center;">
+<p><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></p>
+<p><img src="https://img.shields.io/badge/dialogue-%E2%9C%94-lightgreen" alt="" /></p>
+</td>
+<td style="width: 124.984px; text-align: center;">
+<p>🤖 ChatGPT</p>
 </td>
 </tr>
 <tr>
