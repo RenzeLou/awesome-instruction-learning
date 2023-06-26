@@ -755,7 +755,7 @@ We exhibit works that focus on the interpretability and reliability of instructi
 ### 5.4 Evaluation
 Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!
 
-1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; [[code](https://github.com/allenai/open-instruct)].
+1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; [[code](https://github.com/allenai/open-instruct)].
    
 2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; [[code](https://github.com/declare-lab/instruct-eval)]; [[leader board](https://declare-lab.net/instruct-eval/)].
 
