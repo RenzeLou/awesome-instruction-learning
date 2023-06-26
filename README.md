@@ -757,7 +757,7 @@ Stop using old-school automatic metrics to evaluate your instruction-tuned syste
 
 1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; [[code](https://github.com/allenai/open-instruct)].
    
-2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; [[code](https://github.com/declare-lab/instruct-eval)]; [[leader board](https://declare-lab.net/instruct-eval/)].
+2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; [[code](https://github.com/declare-lab/instruct-eval)]; [[leaderboard](https://declare-lab.net/instruct-eval/)].
 
 
 ### 5.5 Negation
