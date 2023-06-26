@@ -740,15 +740,17 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
    
-1. **Poisoning Language Models During Instruction Tuning.** *Alexander Wan, Eric Wallace, Sheng Shen, and Dan Klein.* <ins>ICML</ins> 2023. [[pdf](https://arxiv.org/pdf/2305.00944.pdf)]; [[code](https://github.com/AlexWan0/Poisoning-Instruction-Tuned-Models)].
+1. **Evaluating the Zero-shot Robustness ofInstruction-tuned Language Models.** *Jiuding Sun, Chantal Shaib, and Byron C. Wallace.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.11270.pdf)].
    
-2. **Multi-step Jailbreaking Privacy Attacks on ChatGPT.** *Haoran Li, Dadi Guo, Wei Fan, Mingshi Xu, Jie Huang, Fanpu Meng, and Yangqiu Song.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2304.05197.pdf)].
+2. **Poisoning Language Models During Instruction Tuning.** *Alexander Wan, Eric Wallace, Sheng Shen, and Dan Klein.* <ins>ICML</ins> 2023. [[pdf](https://arxiv.org/pdf/2305.00944.pdf)]; [[code](https://github.com/AlexWan0/Poisoning-Instruction-Tuned-Models)].
    
-3. **More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models.** *Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz, and Mario Fritz.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.12173.pdf)]; [[code](https://github.com/greshake/llm-security)]. 
+3. **Multi-step Jailbreaking Privacy Attacks on ChatGPT.** *Haoran Li, Dadi Guo, Wei Fan, Mingshi Xu, Jie Huang, Fanpu Meng, and Yangqiu Song.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2304.05197.pdf)].
    
-4. **Robustness of Learning from Task Instructions.** *Jiasheng Gu, Hanzi Xu, Liangyu Nie, and Wenpeng Yin.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.03813.pdf)]. 
+4. **More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models.** *Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz, and Mario Fritz.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.12173.pdf)]; [[code](https://github.com/greshake/llm-security)]. 
+   
+5. **Robustness of Learning from Task Instructions.** *Jiasheng Gu, Hanzi Xu, Liangyu Nie, and Wenpeng Yin.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.03813.pdf)]. 
 
-5. **Learning from Task Descriptions.** *Orion Weller, Nicholas Lourie, Matt Gardner, and Matthew E. Peters.* <ins>EMNLP</ins> 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.105.pdf)]; [[code](https://github.com/allenai/zest)]; [[corpus](https://allenai.org/data/zest)]. 
+6. **Learning from Task Descriptions.** *Orion Weller, Nicholas Lourie, Matt Gardner, and Matthew E. Peters.* <ins>EMNLP</ins> 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.105.pdf)]; [[code](https://github.com/allenai/zest)]; [[corpus](https://allenai.org/data/zest)]. 
 
 ### 5.4 Negation
 
