@@ -782,7 +782,6 @@ Papers are focusing on enhancing the complexity of instructions to enhance model
 
 3. **A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment** *Zhao, Yingxiu and Yu, Bowen and Hui, Binyuan and Yu, Haiyang and Huang, Fei and Li, Yongbin and Zhang, Nevin L* <ins>Prepint</ins> 2023. [[pdf](https://arxiv.org/pdf/2308.05696.pdf)]; [[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/tree-instruct)].
 
-
 ### 5.7 Other Papers
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
