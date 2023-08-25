@@ -774,10 +774,13 @@ Negation expressions, such as `do not` and `avoid doing`, are difficult for mode
 ### 5.6 Complexity
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
-   
+Papers are focusing on enhancing the complexity of instructions to enhance model competence. More complex data in the mix of instruction data, more competent performance model could achieve.
+
 1. **Wizardlm: Empowering large language models to follow complex instructions** *Xu, Can and Sun, Qingfeng and Zheng, Kai and Geng, Xiubo and Zhao, Pu and Feng, Jiazhan and Tao, Chongyang and Jiang, Daxin* <ins>Prepint</ins> 2023. [[pdf](https://arxiv.org/pdf/2304.12244.pdf)]; [[code][https://github.com/nlpxucan/WizardLM]].
 
-2. **Orca: Progressive learning from complex explanation traces of gpt-4** *Mukherjee, Subhabrata and Mitra, Arindam and Jawahar, Ganesh and Agarwal, Sahaj and Palangi, Hamid and Awadallah, Ahmed* <ins>Prepint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.02707.pdf)]; [[code][N/A]].
+2. **Orca: Progressive learning from complex explanation traces of gpt-4** *Mukherjee, Subhabrata and Mitra, Arindam and Jawahar, Ganesh and Agarwal, Sahaj and Palangi, Hamid and Awadallah, Ahmed* <ins>Prepint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.02707.pdf)]; [[code][to be pulished]].
+
+3. **A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment** *Zhao, Yingxiu and Yu, Bowen and Hui, Binyuan and Yu, Haiyang and Huang, Fei and Li, Yongbin and Zhang, Nevin L* <ins>Prepint</ins> 2023. [[pdf](https://arxiv.org/pdf/2308.05696.pdf)]; [[code][https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/tree-instruct]].
 
 ### 5.7 Other Papers
 
