@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/RenzeLou/awesome-instruction-learning/commits/main"><img src="https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A" alt="Commit" /></a>
-  <a href="https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py"><img src="https://img.shields.io/badge/PaperNumber-186-blue" alt="PaperNumber" /></a>
+  <a href="https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py"><img src="https://img.shields.io/badge/PaperNumber-187-blue" alt="PaperNumber" /></a>
   <a href="https://github.com/RenzeLou/awesome-instruction-learning/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-red" alt="PullRequests" /></a>
 </p>
 
@@ -535,6 +535,20 @@ We carefully design the following table, make it easy to be referred to, and kee
 </td>
 <td style="width: 124.984px; text-align: center;">
 <p>🤖 ChatGPT</p>
+</td>
+</tr>
+<tr>
+<td style="width: 124.992px; text-align: left;"><a href="https://renzelou.github.io/Muffin/">MUFFIN</a></td>
+<td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">10/2023</span></td>
+<td style="width: 85.1875px; text-align: center;"><a href="https://huggingface.co/datasets/Reza8848/MUFFIN_68k">Link</a></td>
+<td style="width: 60.7969px; text-align: right;">/</td>
+<td style="width: 77.4922px; text-align: right;">68,014</td>
+<td style="width: 109.258px; text-align: center;"><p><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></p>
+</td>
+<td style="width: 124.984px; text-align: center;">
+<p>🤖 ChatGPT</p>
+<p>🤖 GPT-4&nbsp;</p>
+<p>✍&nbsp;Human</p>
 </td>
 </tr>
 </tbody>
