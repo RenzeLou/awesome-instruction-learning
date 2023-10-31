@@ -785,7 +785,18 @@ Negation expressions, such as `do not` and `avoid doing`, are difficult for mode
 2. **Understanding by Understanding Not: Modeling Negation in Language Models.** *Arian Hosseini, Siva Reddy, Dzmitry Bahdanau, and et al.* <ins>NAACL</ins> 2021. [[pdf](https://aclanthology.org/2021.naacl-main.102.pdf)]; [[code](https://github.com/arianhosseini/negation-learning)]. 
 
 
-### 5.6 Other Papers
+### 5.6 Complexity
+
+<!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
+Papers are focusing on enhancing the complexity of instructions to enhance model competence. More complex data in the mix of instruction data, more competent performance model could achieve.
+
+1. **Wizardlm: Empowering large language models to follow complex instructions** *Xu, Can and Sun, Qingfeng and Zheng, Kai and Geng, Xiubo and Zhao, Pu and Feng, Jiazhan and Tao, Chongyang and Jiang, Daxin* <ins>Prepint</ins> 2023. [[pdf](https://arxiv.org/pdf/2304.12244.pdf)]; [[code][https://github.com/nlpxucan/WizardLM]].
+
+2. **Orca: Progressive learning from complex explanation traces of gpt-4** *Mukherjee, Subhabrata and Mitra, Arindam and Jawahar, Ganesh and Agarwal, Sahaj and Palangi, Hamid and Awadallah, Ahmed* <ins>Prepint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.02707.pdf)]
+
+3. **A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment** *Zhao, Yingxiu and Yu, Bowen and Hui, Binyuan and Yu, Haiyang and Huang, Fei and Li, Yongbin and Zhang, Nevin L* <ins>Prepint</ins> 2023. [[pdf](https://arxiv.org/pdf/2308.05696.pdf)]; [[code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/tree-instruct)].
+
+### 5.7 Other Papers
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
    
@@ -796,7 +807,6 @@ Negation expressions, such as `do not` and `avoid doing`, are difficult for mode
 3. **Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning.** *Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, and Colin Raffel.* <ins>NeurIPS</ins> 2022. [[pdf](https://openreview.net/pdf?id=rBCvMG-JsPd)]; [[code](https://github.com/r-three/t-few)]. 
    
 4. **A Survey of NLP-Related Crowdsourcing HITs: what works and what does not.** *Jessica Huynh, Jeffrey Bigham, and Maxine Eskenazi.* <ins>Preprint</ins> 2021. [[pdf](https://arxiv.org/pdf/2111.05241.pdf)].
-
 
 
 ## 6. 🤖 Applications
