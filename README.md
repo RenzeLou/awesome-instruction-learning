@@ -801,13 +801,12 @@ Papers are focusing on enhancing the complexity of instructions to enhance model
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
    
-1. **A Survey of NLP-Related Crowdsourcing HITs: what works and what does not.** *Jessica Huynh, Jeffrey Bigham, and Maxine Eskenazi.* <ins>Preprint</ins> 2021. [[pdf](https://arxiv.org/pdf/2111.05241.pdf)].
+1. **Don't Blame the Annotator: Bias Already Starts in the Annotation Instructions.** *Mihir Parmar, Swaroop Mishra, Mor Geva, and Chitta Baral.* <ins>EACL</ins> 2023. [[pdf](https://arxiv.org/pdf/2205.00415.pdf)]; [[code](https://github.com/Mihir3009/instruction-bias)].
+2. **Instruction Tuned Models are Quick Learners.** *Himanshu Gupta, Saurabh Arjun Sawant, Swaroop Mishra, et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.05539.pdf)]; [[code](https://github.com/srsawant34/efficient_instruction_learning)].
+3. **Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning.** *Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, and Colin Raffel.* <ins>NeurIPS</ins> 2022. [[pdf](https://openreview.net/pdf?id=rBCvMG-JsPd)]; [[code](https://github.com/r-three/t-few)]. 
+4. **A Survey of NLP-Related Crowdsourcing HITs: what works and what does not.** *Jessica Huynh, Jeffrey Bigham, and Maxine Eskenazi.* <ins>Preprint</ins> 2021. [[pdf](https://arxiv.org/pdf/2111.05241.pdf)].
    
-2. **Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning.** *Haokun Liu, Derek Tam, Mohammed Muqeeth, Jay Mohta, Tenghao Huang, Mohit Bansal, and Colin Raffel.* <ins>NeurIPS</ins> 2022. [[pdf](https://openreview.net/pdf?id=rBCvMG-JsPd)]; [[code](https://github.com/r-three/t-few)]. 
-   
-3. **Instruction Tuned Models are Quick Learners.** *Himanshu Gupta, Saurabh Arjun Sawant, Swaroop Mishra, et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.05539.pdf)]; [[code](https://github.com/srsawant34/efficient_instruction_learning)].
-   
-4. **Don't Blame the Annotator: Bias Already Starts in the Annotation Instructions.** *Mihir Parmar, Swaroop Mishra, Mor Geva, and Chitta Baral.* <ins>EACL</ins> 2023. [[pdf](https://arxiv.org/pdf/2205.00415.pdf)]; [[code](https://github.com/Mihir3009/instruction-bias)].
+
    
 
    
