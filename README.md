@@ -137,7 +137,7 @@ Please consider citing our paper. 👇👇👇
 Why *instruction-driven* learning instead of *example-driven* learning?
 
 
-- 👉 **Affordable.**  For the conventional example-driven supervised learning, each <u>*downstream*</u> task usually requires extensive labeled examples 💰. While for instruction learning, each <u>*downstream*</u> task may require only one instruction and just a few examples 🤩.
+- 👉 **Affordable.**  For the conventional example-driven supervised learning, each <ins>*downstream*</ins> task usually requires extensive labeled examples 💰. While for instruction learning, each <ins>*downstream*</ins> task may require only one instruction and just a few examples 🤩.
 - 👉 **One model, all tasks.** An ideal AI system should be able to quickly understand and handle various new tasks 💫.
 - 👉 **A promising research direction.** Traditional example-driven supervised learning uses labeled instances to represent the task semantics, i.e., training models by observing numerous examples to recover the original task meaning. Therefore, **why not directly use the task instruction**, **which has already occupied the essential task semantics**?
 
