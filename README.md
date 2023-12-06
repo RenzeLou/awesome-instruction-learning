@@ -155,7 +155,7 @@ We use the label ![comprehensive](https://img.shields.io/badge/comprehensive-FFA
 
 1. **Are Prompts All the Story? No. A Comprehensive and Broader View of Instruction Learning.** *Renze Lou, Kai Zhang, and Wenpeng Yin.* <ins>Preprint</ins> 2023. [[pdf](https://drive.google.com/file/d/1kVGpHdW8HkAV7xBoNASAcePfcZCTMnlF/view?usp=sharing)]; [[paper list](https://github.com/RenzeLou/awesome-instruction-learning)]. ![comprehensive](https://img.shields.io/badge/comprehensive-FFA07A)
    
-2. **Learning from Task Instructions.** *Wenpeng Yin, Qinyuan Ye, Pengfei Liu, Xiang Ren, and Hinrich Schütze.* <ins>EMNLP Tutorial</ins> 2023. ![comprehensive](https://img.shields.io/badge/comprehensive-FFA07A)
+2. **Learning from Task Instructions.** *Wenpeng Yin, Qinyuan Ye, Pengfei Liu, Xiang Ren, and Hinrich Schütze.* <ins>EMNLP Tutorial</ins> 2023. [[pdf](https://aclanthology.org/2023.emnlp-tutorial.4.pdf)]. ![comprehensive](https://img.shields.io/badge/comprehensive-FFA07A)
    
 3. **Nature Language Reasoning, A Survey.** *Fei Yu, Hongbo Zhang, and Benyou Wang.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2303.14725.pdf)]; [[paper list](https://github.com/FreedomIntelligence/ReasoningNLP)]. ![reasoning](https://img.shields.io/badge/reasoning-9cf)
 
