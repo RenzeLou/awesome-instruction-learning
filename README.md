@@ -537,7 +537,7 @@ We carefully design the following table, make it easy to be referred to, and kee
 <td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">10/2023</span></td>
 <td style="width: 85.1875px; text-align: center;"><a href="https://huggingface.co/datasets/Reza8848/MUFFIN_68k">Link</a></td>
 <td style="width: 60.7969px; text-align: right;">/</td>
-<td style="width: 77.4922px; text-align: right;">68,014</td>
+<td style="width: 77.4922px; text-align: right;">68</td>
 <td style="width: 109.258px; text-align: center;"><p><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></p>
 </td>
 <td style="width: 124.984px; text-align: center;">
