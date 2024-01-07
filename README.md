@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-<i> 👉 Also don't forget to check out our <a href="https://drive.google.com/file/d/1kVGpHdW8HkAV7xBoNASAcePfcZCTMnlF/view?usp=sharing"> <b>Latest Survey</b> </a> ! 👀 🤗 </i>
+<i> 👉 Also don't forget to check out our <a href="https://arxiv.org/abs/2303.10475"> <b>Latest Survey</b> </a> ! 👀 🤗 </i>
 </p>
 <!-- https://drive.google.com/file/d/1vrx3BSkHlkNO6_nP9G9l9Ape7vEoTOdf/view?usp=sharing -->
 
@@ -71,7 +71,7 @@ Please consider citing our paper. 👇👇👇
 
 ```
 @article{lou2023instruction,
-  title={Is Prompt All You Need? No. A Comprehensive and Broader View of Instruction Learning},
+  title={A Comprehensive Survey on Instruction Following},
   author={Lou, Renze and Zhang, Kai and Yin, Wenpeng},
   journal={arXiv preprint arXiv:2303.10475},
   year={2023}
@@ -153,7 +153,7 @@ Why *instruction-driven* learning instead of *example-driven* learning?
 
 We use the label ![comprehensive](https://img.shields.io/badge/comprehensive-FFA07A) to denote the papers with a more comprehensive perspective. While some other papers are more specific to a certain in-context instruction, including ![prompt](https://img.shields.io/badge/prompt-90EE90), few-shot ![in-context demonstrations](https://img.shields.io/badge/demonstrations-FFB6C1), and CoT ![reasoning](https://img.shields.io/badge/reasoning-9cf).
 
-1. **Are Prompts All the Story? No. A Comprehensive and Broader View of Instruction Learning.** *Renze Lou, Kai Zhang, and Wenpeng Yin.* <ins>Preprint</ins> 2023. [[pdf](https://drive.google.com/file/d/1kVGpHdW8HkAV7xBoNASAcePfcZCTMnlF/view?usp=sharing)]; [[paper list](https://github.com/RenzeLou/awesome-instruction-learning)]. ![comprehensive](https://img.shields.io/badge/comprehensive-FFA07A)
+1. **A Comprehensive Survey on Instruction Following.** *Renze Lou, Kai Zhang, and Wenpeng Yin.* <ins>Preprint</ins> 2023. [[pdf](https://drive.google.com/file/d/1kVGpHdW8HkAV7xBoNASAcePfcZCTMnlF/view?usp=sharing)]; [[paper list](https://github.com/RenzeLou/awesome-instruction-learning)]. ![comprehensive](https://img.shields.io/badge/comprehensive-FFA07A)
    
 2. **Learning from Task Instructions.** *Wenpeng Yin, Qinyuan Ye, Pengfei Liu, Xiang Ren, and Hinrich Schütze.* <ins>EMNLP Tutorial</ins> 2023. [[pdf](https://aclanthology.org/2023.emnlp-tutorial.4.pdf)]. ![comprehensive](https://img.shields.io/badge/comprehensive-FFA07A)
    
