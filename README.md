@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/RenzeLou/awesome-instruction-learning/commits/main"><img src="https://img.shields.io/github/last-commit/RenzeLou/awesome-instruction-learning?color=#00FA9A" alt="Commit" /></a>
-  <a href="https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py"><img src="https://img.shields.io/badge/PaperNumber-191-blue" alt="PaperNumber" /></a>
+  <a href="https://github.com/RenzeLou/awesome-instruction-learning/blob/main/count_number.py"><img src="https://img.shields.io/badge/PaperNumber-195-blue" alt="PaperNumber" /></a>
   <a href="https://github.com/RenzeLou/awesome-instruction-learning/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-red" alt="PullRequests" /></a>
 </p>
 
