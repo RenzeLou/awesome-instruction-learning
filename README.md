@@ -546,6 +546,55 @@ We carefully design the following table, make it easy to be referred to, and kee
 <p>✍&nbsp;Human</p>
 </td>
 </tr>
+<tr>
+<td style="width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2310.19651.pdf">Dynamics-of-Instruction</a></td>
+<td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">10/2023</span></td>
+<td style="width: 85.1875px; text-align: center;"><a href="https://huggingface.co/datasets/ChiyuSONG/dynamics-of-instruction-tuning">Link</a></td>
+<td style="width: 60.7969px; text-align: right;">/</td>
+<td style="width: 77.4922px; text-align: right;">40</td>
+<td style="width: 109.258px; text-align: center;"><p><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></p>
+</td>
+<td style="width: 124.984px; text-align: center;">
+<p>✍&nbsp;Human</p>
+</td>
+</tr>
+<tr>
+<td style="width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2311.13246.pdf">CoachLM</a></td>
+<td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">11/2023</span></td>
+<td style="width: 85.1875px; text-align: center;"><a href="https://github.com/lunyiliu/CoachLM">Link</a></td>
+<td style="width: 60.7969px; text-align: right;">/</td>
+<td style="width: 77.4922px; text-align: right;">2</td>
+<td style="width: 109.258px; text-align: center;"><p><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></p>
+</td>
+<td style="width: 124.984px; text-align: center;">
+<p>✍&nbsp;Human</p>
+</td>
+</tr>
+<tr>
+<td style="width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2312.15685.pdf">DEITA</a></td>
+<td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">12/2023</span></td>
+<td style="width: 85.1875px; text-align: center;"><a href="https://github.com/hkust-nlp/deita">Link</a></td>
+<td style="width: 60.7969px; text-align: right;">/</td>
+<td style="width: 77.4922px; text-align: right;">10</td>
+<td style="width: 109.258px; text-align: center;"><p><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></p>
+</td>
+<td style="width: 124.984px; text-align: center;">
+<p>🤖 ChatGPT</p>
+</td>
+</tr>
+<tr>
+<td style="width: 124.992px; text-align: left;"><a href="https://arxiv.org/pdf/2312.14187.pdf">WaveCoder</a></td>
+<td style="width: 61.2891px; text-align: right;"><span style="text-decoration: underline;">12/2023</span></td>
+<td style="width: 85.1875px; text-align: center;"><a href="">Link</a></td>
+<td style="width: 60.7969px; text-align: right;">4 code-related tasks</td>
+<td style="width: 77.4922px; text-align: right;">20</td>
+<td style="width: 109.258px; text-align: center;"><p><img src="https://img.shields.io/badge/monolingual-informational" alt="" /></p>
+</td>
+<td style="width: 124.984px; text-align: center;">
+<p>🤖 ChatGPT</p>
+<p>🤖 GPT-4</p>
+</td>
+</tr>
 </tbody>
 </table>
 
