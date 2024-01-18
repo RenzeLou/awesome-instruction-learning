@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-<i> 👉 Also don't forget to check out our <a href="https://arxiv.org/abs/2303.10475"> <b>Latest Survey</b> </a> ! 👀 🤗 </i>
+<i> 👉 Explore our latest survey update! Feel free to dive in and discover the improvements we've made 👀 🤗 : <a href="https://arxiv.org/abs/2303.10475"> <b>Latest Survey</b> </a> </i>
 </p>
 <!-- https://drive.google.com/file/d/1vrx3BSkHlkNO6_nP9G9l9Ape7vEoTOdf/view?usp=sharing -->
 
