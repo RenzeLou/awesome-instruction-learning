@@ -799,25 +799,31 @@ We exhibit works that focus on the interpretability and reliability of instructi
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
    
-1. **Evaluating the Zero-shot Robustness ofInstruction-tuned Language Models.** *Jiuding Sun, Chantal Shaib, and Byron C. Wallace.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.11270.pdf)].
+1. **Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection.** *Jun Yan, Vikas Yadav, Shiyang Li, and et al.* <ins>Workshop @ NeurIPS</ins> 2023. [[pdf](https://arxiv.org/abs/2307.16888)].
    
-2. **Poisoning Language Models During Instruction Tuning.** *Alexander Wan, Eric Wallace, Sheng Shen, and Dan Klein.* <ins>ICML</ins> 2023. [[pdf](https://arxiv.org/pdf/2305.00944.pdf)]; [[code](https://github.com/AlexWan0/Poisoning-Instruction-Tuned-Models)].
+2. **Evaluating the Zero-shot Robustness ofInstruction-tuned Language Models.** *Jiuding Sun, Chantal Shaib, and Byron C. Wallace.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.11270.pdf)].
    
-3. **Multi-step Jailbreaking Privacy Attacks on ChatGPT.** *Haoran Li, Dadi Guo, Wei Fan, Mingshi Xu, Jie Huang, Fanpu Meng, and Yangqiu Song.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2304.05197.pdf)].
+3. **Poisoning Language Models During Instruction Tuning.** *Alexander Wan, Eric Wallace, Sheng Shen, and Dan Klein.* <ins>ICML</ins> 2023. [[pdf](https://arxiv.org/pdf/2305.00944.pdf)]; [[code](https://github.com/AlexWan0/Poisoning-Instruction-Tuned-Models)].
    
-4. **More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models.** *Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz, and Mario Fritz.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.12173.pdf)]; [[code](https://github.com/greshake/llm-security)]. 
+4. **Multi-step Jailbreaking Privacy Attacks on ChatGPT.** *Haoran Li, Dadi Guo, Wei Fan, Mingshi Xu, Jie Huang, Fanpu Meng, and Yangqiu Song.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2304.05197.pdf)].
    
-5. **Robustness of Learning from Task Instructions.** *Jiasheng Gu, Hanzi Xu, Liangyu Nie, and Wenpeng Yin.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.03813.pdf)]. 
+5. **More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models.** *Kai Greshake, Sahar Abdelnabi, Shailesh Mishra, Christoph Endres, Thorsten Holz, and Mario Fritz.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.12173.pdf)]; [[code](https://github.com/greshake/llm-security)]. 
+   
+6. **Robustness of Learning from Task Instructions.** *Jiasheng Gu, Hanzi Xu, Liangyu Nie, and Wenpeng Yin.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.03813.pdf)]. 
 
-6. **Learning from Task Descriptions.** *Orion Weller, Nicholas Lourie, Matt Gardner, and Matthew E. Peters.* <ins>EMNLP</ins> 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.105.pdf)]; [[code](https://github.com/allenai/zest)]; [[corpus](https://allenai.org/data/zest)]. 
+7. **Learning from Task Descriptions.** *Orion Weller, Nicholas Lourie, Matt Gardner, and Matthew E. Peters.* <ins>EMNLP</ins> 2020. [[pdf](https://aclanthology.org/2020.emnlp-main.105.pdf)]; [[code](https://github.com/allenai/zest)]; [[corpus](https://allenai.org/data/zest)]. 
 
 
 ### 5.4 Evaluation
 Stop using old-school automatic metrics to evaluate your instruction-tuned system; try more advanced methods to do it comprehensively!
 
-1. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; [[code](https://github.com/allenai/open-instruct)].
+1. **Camels in a Changing Climate: Enhancing LM Adaptation with Tulu 2.** *Hamish Ivison, Yizhong Wang, Valentina Pyatkin, and et al.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2311.10702.pdf)]; [[model&data](https://huggingface.co/collections/allenai/tulu-v2-suite-6551b56e743e6349aab45101)]
    
-2. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; [[code](https://github.com/declare-lab/instruct-eval)]; [[leaderboard](https://declare-lab.net/instruct-eval/)].
+2. **How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources.** *Yizhong Wang, Hamish Ivison, Pradeep Dasigi, and et al.* <ins>NeurIPS Datasets and Benchmarks</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.04751.pdf)]; [[code](https://github.com/allenai/open-instruct)].
+
+3. **Instruction-following Evaluation through Verbalizer Manipulation.** *Shiyang Li, Jun Yan, Hai Wang, Zheng Tang, Xiang Ren, Vijay Srinivasan, Hongxia Jin* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2307.10558.pdf)].
+   
+4. **INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models.** *Yew Ken Chia, Pengfei Hong, Lidong Bing, and Soujanya Poria.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2306.04757.pdf)]; [[code](https://github.com/declare-lab/instruct-eval)]; [[leaderboard](https://declare-lab.net/instruct-eval/)].
 
 
 ### 5.5 Negation
