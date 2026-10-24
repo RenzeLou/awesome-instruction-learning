@@ -972,21 +972,23 @@ General-purpose language models are also one of the most attractive applications
 ### 6.4 Other Papers
 
 <!-- **Paper Title.** *Author 1, Author 2, and Author 3.* <ins>Conference/Journal/Preprint</ins> Year. [[pdf](link)]; [[other resources](link)]. -->
-1. **GPTScore: Evaluate as You Desire.** *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, and Pengfei Liu.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.04166.pdf)]; [[code](https://github.com/jinlanfu/GPTScore)]. 
+1. **Translate-and-Revise: Boosting Large Language Models for Constrained Translation.** *Pengcheng Huang, Yongyu Mu, Yuzhang Wu, Bei Li, Chunyang Xiao, Tong Xiao, and Jingbo Zhu.* <ins>CCL</ins> 2024. [[pdf](https://aclanthology.org/2024.ccl-1.82.pdf)]; [[website](https://passionate11.github.io/Translate-and-Revise-project-page/)]. 
    
-2. **MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning.** *Zhiyang Xu, Ying Shen, and Lifu Huang.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.10773.pdf)].
+2. **GPTScore: Evaluate as You Desire.** *Jinlan Fu, See-Kiong Ng, Zhengbao Jiang, and Pengfei Liu.* <ins>Preprint</ins> 2023. [[pdf](https://arxiv.org/pdf/2302.04166.pdf)]; [[code](https://github.com/jinlanfu/GPTScore)]. 
    
-3. **Task-aware Retrieval with Instructions.** *Akari Asai, Timo Schick, Patrick Lewis, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2211.09260.pdf)]; [[code](https://github.com/facebookresearch/tart)]. 
+3. **MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning.** *Zhiyang Xu, Ying Shen, and Lifu Huang.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2212.10773.pdf)].
    
-4. **UnifiedABSA: A Unified ABSA Framework Based on Multi-task Instruction Tuning.** *Zengzhi Wang, Rui Xia, and Jianfei Yu.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2211.10986.pdf)].  
+4. **Task-aware Retrieval with Instructions.** *Akari Asai, Timo Schick, Patrick Lewis, and et al.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2211.09260.pdf)]; [[code](https://github.com/facebookresearch/tart)]. 
+   
+5. **UnifiedABSA: A Unified ABSA Framework Based on Multi-task Instruction Tuning.** *Zengzhi Wang, Rui Xia, and Jianfei Yu.* <ins>Preprint</ins> 2022. [[pdf](https://arxiv.org/pdf/2211.10986.pdf)].  
  
-5. **In-Context Learning for Few-Shot Dialogue State Tracking.** *Yushi Hu, Chia-Hsuan Lee, Tianbao Xie, Tao Yu, Noah A. Smith, and Mari Ostendorf.* <ins>Findings of EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2203.08568.pdf)]; [[code](https://github.com/Yushi-Hu/IC-DST)]. 
+6. **In-Context Learning for Few-Shot Dialogue State Tracking.** *Yushi Hu, Chia-Hsuan Lee, Tianbao Xie, Tao Yu, Noah A. Smith, and Mari Ostendorf.* <ins>Findings of EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2203.08568.pdf)]; [[code](https://github.com/Yushi-Hu/IC-DST)]. 
    
-6. **Few-shot Learning with Multilingual Language Models.** *Xi Victoria Lin, Todor Mihaylov, Mikel Artetxe, and et al.* <ins>EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2112.10668.pdf)]; [[code](https://github.com/facebookresearch/fairseq/tree/main/examples/xglm)].
+7. **Few-shot Learning with Multilingual Language Models.** *Xi Victoria Lin, Todor Mihaylov, Mikel Artetxe, and et al.* <ins>EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2112.10668.pdf)]; [[code](https://github.com/facebookresearch/fairseq/tree/main/examples/xglm)].
    
-7. **UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models.** *Tianbao Xie, Chen Henry Wu, Peng Shi, and et al.* <ins>EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2201.05966.pdf)]; [[code](https://github.com/HKUNLP/UnifiedSKG)]; [[website](https://unifiedskg.com/)]. 
+8. **UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models.** *Tianbao Xie, Chen Henry Wu, Peng Shi, and et al.* <ins>EMNLP</ins> 2022. [[pdf](https://arxiv.org/pdf/2201.05966.pdf)]; [[code](https://github.com/HKUNLP/UnifiedSKG)]; [[website](https://unifiedskg.com/)]. 
    
-8. **In-BoXBART: Get Instructions into Biomedical Multi-Task Learning .** *Mihir Parmar, Swaroop Mishra, Mirali Purohit, Man Luo, M. Hassan Murad, and Chitta Baral.* <ins>Findings of NAACL</ins> 2022. [[pdf](https://arxiv.org/pdf/2204.07600.pdf)]; [[code](https://github.com/Mihir3009/In-BoXBART)].
+9. **In-BoXBART: Get Instructions into Biomedical Multi-Task Learning .** *Mihir Parmar, Swaroop Mishra, Mirali Purohit, Man Luo, M. Hassan Murad, and Chitta Baral.* <ins>Findings of NAACL</ins> 2022. [[pdf](https://arxiv.org/pdf/2204.07600.pdf)]; [[code](https://github.com/Mihir3009/In-BoXBART)].
 
 
 
